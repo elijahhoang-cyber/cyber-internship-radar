@@ -152,7 +152,7 @@ def ai_review(job: dict, score: int) -> tuple[bool, str]:
             raise ValueError('AI returned non-boolean relevant')
         return data['relevant'], str(data.get('reason', 'AI screened'))[:100]
     except Exception as exc:
-        LOG.warning('AI review unavailable for %s: %s; falling back to strong keyword matches', job['title'], exc)
+        LOG.warning('AI review unavailable for %s (%s); falling back to strong keyword matches', job['title'], type(exc).__name__)
         return score >= 75, 'Keyword fallback (AI unavailable)'
 
 
@@ -249,7 +249,7 @@ def run(config: dict, db_path: Path, baseline: bool = False) -> None:
                                 db.commit()
                                 count_alerted += 1
                         except Exception as exc:
-                            LOG.error('Alert failed %s: %s', job['title'], exc)
+                            LOG.error('Alert failed %s (%s)', job['title'], type(exc).__name__)
                     continue
                 count_new += 1
                 score = score_job(job)
@@ -271,7 +271,7 @@ def run(config: dict, db_path: Path, baseline: bool = False) -> None:
                                 db.commit()
                                 count_alerted += 1
                         except Exception as exc:
-                            LOG.error('Alert failed %s: %s', job['title'], exc)
+                            LOG.error('Alert failed %s (%s)', job['title'], type(exc).__name__)
             time.sleep(float(config.get('seconds_between_boards', 0.3)))
         LOG.info('Done: %d new postings, %d matches, %d successfully alerted', count_new, count_matched, count_alerted)
 
