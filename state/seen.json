@@ -5103,6 +5103,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5f3a3325-bc3c-4f92-8456-f22add6fe52b": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "5f3a3325-bc3c-4f92-8456-f22add6fe52b",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-04T04:56:05.060+00:00",
+            "source": "ashby",
+            "title": "Industry & Experiential Marketing Lead, Ads",
+            "url": "https://jobs.ashbyhq.com/OpenAI/5f3a3325-bc3c-4f92-8456-f22add6fe52b"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:5f3a3325-bc3c-4f92-8456-f22add6fe52b"
+        },
         "5f6685ad-2fba-4e60-8982-fa142b33e194": {
           "alerted": true,
           "category": "Low priority",
@@ -10389,6 +10408,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "c033c8a7-88bb-44d1-b299-2fd420be5f57": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "c033c8a7-88bb-44d1-b299-2fd420be5f57",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-04T04:46:57.355+00:00",
+            "source": "ashby",
+            "title": "Content & Solutions Marketing Lead, Ads",
+            "url": "https://jobs.ashbyhq.com/OpenAI/c033c8a7-88bb-44d1-b299-2fd420be5f57"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:c033c8a7-88bb-44d1-b299-2fd420be5f57"
         },
         "c0c70d7e-c450-4ca4-842a-dbc5e643c048": {
           "alerted": true,
@@ -106593,6 +106631,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "6236406004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "company": "Coursera",
+            "id": "6236406004",
+            "location": "Chennai, India",
+            "posted_at": "2026-11-04T00:35:42-05:00",
+            "source": "greenhouse",
+            "title": "IT Service Desk Manager",
+            "updated_at": "2026-11-04T00:35:42-05:00",
+            "url": "https://job-boards.greenhouse.io/coursera/jobs/6236406004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coursera:6236406004"
+        },
         "6237396004": {
           "alerted": true,
           "category": "Low priority",
@@ -173597,6 +173654,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8350995": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "company": "Jump Trading",
+            "id": "8350995",
+            "location": "Chicago, New York",
+            "posted_at": "2026-11-04T00:09:57-05:00",
+            "source": "greenhouse",
+            "title": "Travel Manager",
+            "updated_at": "2026-11-04T00:09:57-05:00",
+            "url": "https://www.jumptrading.com/hr/job?gh_jid=8350995"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:jumptrading:8350995"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -177901,6 +177977,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8178371003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "company": "Klaviyo",
+            "id": "8178371003",
+            "location": "Sydney, AU",
+            "posted_at": "2026-11-03T23:40:58-05:00",
+            "source": "greenhouse",
+            "title": "Commercial Account Executive-ANZ",
+            "updated_at": "2026-11-03T23:40:58-05:00",
+            "url": "https://www.klaviyo.com/careers/jobs/8178371003?gh_jid=8178371003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:klaviyo:8178371003"
         },
         "8179279003": {
           "alerted": true,
@@ -206998,6 +207093,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8266566": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8266566",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-10-09T03:39:15-04:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer",
+            "updated_at": "2026-11-04T00:29:53-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8266566"
         },
         "8267278": {
           "alerted": true,
@@ -387535,6 +387649,36 @@
           "letter_sent": true,
           "score": 0
         },
+        "891074200": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "closes_at": "2026-11-11T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "891074200",
+            "intern_type": false,
+            "location": "Multiple Locations",
+            "posted_at": "2026-11-04T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/891074200"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:891074200"
+        },
         "891076200": {
           "alerted": true,
           "category": "Low priority",
@@ -387752,6 +387896,79 @@
           "letter_sent": true,
           "score": 0
         },
+        "891422000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "closes_at": "2026-11-13T23:59:59.9970",
+            "company": "U.S. Army Aviation and Missile Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "891422000",
+            "intern_type": false,
+            "location": "Letterkenny Army Depot, Pennsylvania",
+            "posted_at": "2026-11-04T00:00:00.0000",
+            "source": "usajobs",
+            "title": "ELECTRONICS ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/891422000"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:891422000"
+        },
+        "891461500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "closes_at": "2026-11-18T23:59:59.9970",
+            "company": "U.S. Army Cyber Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-internal-search"
+            ],
+            "id": "891461500",
+            "intern_type": false,
+            "location": "Schofield Barracks, Hawaii",
+            "posted_at": "2026-11-04T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Information Technology Specialist (Systems Analysis/ Internet)",
+            "url": "https://www.usajobs.gov:443/job/891461500"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:891461500"
+        },
+        "891482700": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "closes_at": "2026-11-17T23:59:59.9970",
+            "company": "U.S. Army Corps of Engineers",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "student"
+            ],
+            "id": "891482700",
+            "intern_type": false,
+            "location": "Norfolk, Virginia",
+            "posted_at": "2026-11-04T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY",
+            "url": "https://www.usajobs.gov:443/job/891482700"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:891482700"
+        },
         "891497900": {
           "alerted": true,
           "category": "Low priority",
@@ -387774,6 +387991,64 @@
           },
           "letter_sent": true,
           "score": 45
+        },
+        "891503500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "closes_at": "2026-11-17T23:59:59.9970",
+            "company": "National Oceanic and Atmospheric Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "overseas",
+              "fed-competitive",
+              "disability",
+              "land",
+              "mspouse",
+              "peace",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "891503500",
+            "intern_type": false,
+            "location": "Silver Spring, Maryland",
+            "posted_at": "2026-11-04T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Supervisory Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/891503500"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:891503500"
+        },
+        "891504000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T05:43:28+00:00",
+          "job": {
+            "closes_at": "2026-11-17T23:59:59.9970",
+            "company": "National Oceanic and Atmospheric Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "public",
+              "vet"
+            ],
+            "id": "891504000",
+            "intern_type": false,
+            "location": "Silver Spring, Maryland",
+            "posted_at": "2026-11-04T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Supervisory Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/891504000"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:891504000"
         }
       },
       "started_at": "2026-11-04T04:38:10+00:00"
@@ -422211,5 +422486,10 @@
     }
   },
   "last_heartbeat_utc": "2026-11-04T04:15:02+00:00",
-  "schema_version": 1
+  "schema_version": 1,
+  "tohuman": {
+    "jobs": {},
+    "months": {},
+    "version": 1
+  }
 }
