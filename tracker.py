@@ -133,7 +133,7 @@ def score_job(job: dict) -> int:
 
 def ai_review(job: dict, score: int) -> tuple[bool, str]:
     """Optional AI validation ONLY for new keyword-screened jobs, never every poll."""
-    if not os.environ.get('OPENAI_API_KEY'):
+    if os.environ.get('ENABLE_EXTERNAL_AI', '').strip().lower() not in ('true', '1', 'yes') or not os.environ.get('OPENAI_API_KEY'):
         return True, 'Keyword match'
     try:
         from openai import OpenAI

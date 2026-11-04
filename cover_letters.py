@@ -73,7 +73,7 @@ def local_letter(job: dict, profile: dict) -> str:
     second = details[1] + '.' if len(details) > 1 else ''
     note = str(profile.get('motivation', '')).strip().rstrip('.')
     opening = (f"I'm interested in the {title} position at {company} because it offers a chance to contribute to "
-               f"real security work while continuing to learn. I'm pursuing {education}, and I'm especially "
+               f"real security work while continuing to learn. My education includes {education}, and I'm especially "
                f"interested in {focus_for_job(job)}.")
     terms = [str(k) for e in evidence for k in e.get('keywords', []) if str(k).lower() in str(job.get('description', '')).lower()]
     connection = ', '.join(dict.fromkeys(terms))[:180]
@@ -82,7 +82,7 @@ def local_letter(job: dict, profile: dict) -> str:
             "I would welcome a conversation about how this experience could translate to the tasks your team needs help with, "
             "including where I would need guidance. I want my application to give you a clear picture of what I have actually done.")
     if second:
-        body += f"\n\nI would also bring experience from another project: {second} "
+        body += f"\n\nI would also bring experience from another example: {second} "
         body += ("I would be glad to explain the decisions behind that work, the limits of my contribution, "
                  "and what I would approach differently next time. I see an internship as a chance to develop "
                  "those foundations through useful work and feedback from people doing this every day.")

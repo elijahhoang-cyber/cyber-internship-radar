@@ -72,6 +72,12 @@ class PlatformTests(unittest.TestCase):
     def test_it_pathway(self):
         self.assertGreaterEqual(rank({'title': 'Information Technology Intern'})['score'], 60)
 
+    def test_pending_certification_is_not_earned(self):
+        result = rank({'title': 'SOC Analyst Intern', 'description': 'Security+ certification required'},
+                      {'education': 'B.S.', 'certifications': ['Pursuing Security+'], 'evidence': []})
+        self.assertIn('security+', result['missing'])
+        self.assertNotIn('security+', result['matched'])
+
     def test_sqlite_survives_reopen(self):
         with tempfile.TemporaryDirectory() as d:
             path = Path(d) / 'jobs.db'

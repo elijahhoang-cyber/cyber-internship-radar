@@ -16,8 +16,10 @@ def rank(job, profile=None):
     if not relevance:
         return {'score': 0, 'category': 'Low priority', 'matched': [], 'missing': [], 'unknown': ['Not a relevant student role']}
     text = (job.get('title', '') + ' ' + job.get('description', '')).lower()
+    earned_certs = [c for c in (profile or {}).get('certifications', [])
+                    if not re.search(r'pursu|in.progress|studying|planned|expected|candidate', c, re.I)]
     facts = ' '.join([str((profile or {}).get('education', ''))] +
-                     list((profile or {}).get('skills', [])) + list((profile or {}).get('certifications', [])) +
+                     list((profile or {}).get('skills', [])) + earned_certs +
                      [e['detail'] for e in (profile or {}).get('evidence', [])]).lower()
     requested = [s for s in SKILLS if contains(text, s)]
     matched = [s for s in requested if contains(facts, s)]
