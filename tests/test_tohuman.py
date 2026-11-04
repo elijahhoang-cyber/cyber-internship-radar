@@ -151,6 +151,12 @@ class ToHumanTests(unittest.TestCase):
             self.run_process()
         self.session.post.assert_not_called()
 
+    def test_disabled_configuration_never_calls_provider(self):
+        self.config['enabled'] = False
+        self.run_process()
+        self.session.post.assert_not_called()
+        self.assertEqual(self.record()['status'], 'skipped')
+
     def test_per_run_requests_stay_below_free_burst(self):
         for index in range(2, 7):
             self.add_job('greenhouse:example:new-' + str(index))

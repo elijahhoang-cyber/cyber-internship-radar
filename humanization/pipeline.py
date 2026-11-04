@@ -62,7 +62,10 @@ def process(state, vault, config, session, checkpoint, now=None):
         private = vault.records.get(key)
         if private is None:
             continue  # Archive loss must never cause regeneration/resubmission.
-        words = len(private['submitted'].split()) + int(config.get('word_count_margin', 20))
+        input_words = len(private['submitted'].split())
+        # Docs do not define the billing tokenizer or input-vs-output basis.
+        # Reserve for the maximum allowed 350-word result, not just the input.
+        words = max(input_words, 350) + int(config.get('word_count_margin', 20))
         cap = int(config.get('monthly_word_cap', 2500))
         reserve = int(config.get('reserve_words', 500))
         external = int(config.get('external_words_used', {}).get(month, 0))
@@ -78,7 +81,7 @@ def process(state, vault, config, session, checkpoint, now=None):
             continue
         # Public reservation MUST be committed before POST. A timeout/crash is
         # counted conservatively and can never trigger a second humanization.
-        record.update(status='attempted', month=month, reserved_words=words)
+        record.update(status='attempted', month=month, reserved_words=words, input_words=input_words)
         budget['reserved_words'] += words
         private['request_started'] = True
         vault.save()
@@ -111,6 +114,7 @@ def process(state, vault, config, session, checkpoint, now=None):
                 continue
             private['humanized'] = final
             record['status'] = 'verified'
+            record['output_words'] = len(output.split())
         except Exception as exc:
             record.update(status='uncertain', reason='Provider failure: ' + type(exc).__name__)
         finally:

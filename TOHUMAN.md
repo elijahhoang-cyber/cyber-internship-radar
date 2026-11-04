@@ -32,7 +32,7 @@ To read originals locally, download an encrypted vault artifact to an ignored fo
 
 ## Quota accounting and interruptions
 
-`config/tohuman.json` defaults to a 2,500-word cap, a 500-word reserve and a 20-word counting margin per request. At most three POSTs are attempted per run. Public `state/seen.json` stores job/request flags and monthly reserved-word counts, never letter text or candidate facts. Accounting uses UTC calendar months.
+`config/tohuman.json` defaults to a 2,500-word cap, a 500-word reserve and a 20-word counting margin per request. Each attempt reserves at least 350 words plus that margin, covering the largest accepted output; input and successful output word counts are also recorded. At most three POSTs are attempted per run. Public `state/seen.json` stores job/request flags and monthly reserved-word counts, never letter text or candidate facts. Accounting uses UTC calendar months.
 
 This is a conservative app-local usage ledger, not a live account balance. Successes, ambiguous timeouts and rejected requests remain reserved to avoid accidental overspending. Actual provider billing/counting may differ. Record usage outside this automation under `external_words_used` by YYYY-MM; the API does not document an account-usage endpoint. Provider 402 blocks that accounting month, while 429 blocks further requests until the documented reset time. No plan upgrades or word-pack purchases are automated.
 
