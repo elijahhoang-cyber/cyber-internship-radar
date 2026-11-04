@@ -2,7 +2,7 @@
 
 Public-source cybersecurity and IT internship discovery, explainable ranking, and private cover-letter drafts. Python 3.11+, no mandatory paid service. Applications are never submitted automatically.
 
-The active watchlist is `config/companies.verified.json`: 136 employer identifiers verified against live public APIs. Each entry records its verification URL, timestamp, and observed job count. A verified board does not mean it currently has an internship or that its availability is permanent.
+The active watchlist is `config/companies.verified.json`: 136 employer identifiers plus an authenticated USAJOBS federal search, verified against live APIs. Each entry records its verification URL, timestamp, and observed job count. A verified board does not mean it currently has an internship or that its availability is permanent.
 
 ## Run locally
 
@@ -59,9 +59,9 @@ Discord receives private letters only when you configure its webhook. Anyone wit
 
 ## Sources and ranking
 
-Greenhouse, Lever and Ashby use documented public APIs. SmartRecruiters uses its public Posting API with pagination and full student-posting descriptions. USAJOBS requires `USAJOBS_API_KEY` and `USAJOBS_EMAIL`; its adapter searches public IT student opportunities. To enable, add a board entry with `source: usajobs`, `company: Federal government`, `board: federal` to your configuration. For SmartRecruiters, use its documented company identifier.
+Greenhouse, Lever and Ashby use documented public APIs. SmartRecruiters uses its public Posting API with pagination and full student-posting descriptions. USAJOBS requires `USAJOBS_API_KEY` and `USAJOBS_EMAIL`; its adapter unions student-trainee job series, technical student hiring paths, cybersecurity student announcements and technical internship searches. Full qualifications are requested and duplicate announcements are merged. The federal source is now enabled in the verified configuration; its credentials remain only in GitHub Secrets. Federal Student Trainee titles and internship offering types are recognized explicitly; a student hiring path alone does not make a permanent role an internship. For SmartRecruiters, use its documented company identifier.
 
-Workday requires individual board verification because public CXS availability and employer policies vary. The verified Capital One board is enabled. Its board format is `tenant.wd5.External` (substitute the actual host and career site). Only enable boards you have checked and are permitted to access. It does not bypass authentication or bot protection. Workday POST pagination currently defers retries to the next scan. USAJOBS is not enabled until its API credentials are configured; the default list includes verified SmartRecruiters and Capital One boards.
+Workday requires individual board verification because public CXS availability and employer policies vary. The verified Capital One board is enabled. Its board format is `tenant.wd5.External` (substitute the actual host and career site). Only enable boards you have checked and are permitted to access. It does not bypass authentication or bot protection. Workday POST pagination currently defers retries to the next scan. The default list includes verified SmartRecruiters, Capital One Workday and authenticated USAJOBS sources.
 
 Ranking uses cybersecurity/IT relevance and student-role eligibility, Summer 2027 priority, actual profile skills, relevant project evidence, education, certification keywords, preferred location, and explicit graduation year. Unknowns do not earn candidate-match points. Missing descriptions remain possible matches. Categories: 90+ Excellent, 80+ Strong, 70+ Good, 60+ Possible, below 60 Low priority. Rankings are heuristics, not eligibility guarantees; citizenship, sponsorship, clearance, degree equivalence, and nuanced location requirements still need human review. Use `matching.rank(job, profile)` for matched/missing/unknown evidence; private evidence details are not persisted publicly.
 
@@ -86,3 +86,5 @@ Provider references: [Greenhouse](https://docs.greenhouse.io/job-board), [Lever]
 Public state retains complete descriptions for relevant student opportunities. Unrelated jobs retain IDs and public metadata but omit descriptions to keep history below GitHub file-size limits.
 
 To verify Discord secret access and delivery without candidate information, manually dispatch the `Discord connection check` workflow. It sends a labeled synthetic job alert and a synthetic text attachment. Error output omits request URLs and secret values.
+
+The manual `USAJOBS live pipeline check` workflow tests authentication and replays one live relevant federal posting through the scanner with a clearly synthetic candidate. It sends one labeled alert and one local synthetic draft, then verifies a repeat scan sends neither again. Its lower diagnostic letter threshold never changes the scheduled score-80 threshold. This does not prove the real applicant meets federal program, citizenship, clearance or scholarship eligibility. Public-board refresh preserves the federal source validation from its credentialed cloud check.

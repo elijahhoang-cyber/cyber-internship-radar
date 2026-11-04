@@ -1091,6 +1091,16 @@
       "verification_url": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
       "observed_jobs": 20,
       "verification_method": "POST"
+    },
+    {
+      "source": "usajobs",
+      "company": "US Federal Government",
+      "board": "federal",
+      "verified_at": "2026-11-04T04:35:35+00:00",
+      "verification_url": "https://data.usajobs.gov/api/Search",
+      "verification_method": "GET",
+      "observed_jobs": 62,
+      "verification_evidence": "https://github.com/elijahhoang-cyber/cyber-internship-radar/actions/runs/41774110697"
     }
   ]
 }

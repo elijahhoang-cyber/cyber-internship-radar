@@ -2,6 +2,8 @@ import contextlib
 import io
 import json
 import os
+from pathlib import Path
+import tempfile
 import unittest
 from unittest.mock import Mock, patch
 from providers.federal import fetch, normalize, QUERIES
@@ -21,6 +23,18 @@ def announcement(identifier='1', **overrides):
 
 
 class FederalTests(unittest.TestCase):
+    def test_public_watchlist_refresh_preserves_authenticated_source(self):
+        from verify_boards import main as refresh
+        entry = {'source': 'usajobs', 'company': 'Federal', 'board': 'federal',
+                 'verified_at': '2026-11-04T04:35:35+00:00', 'verification_url': 'https://data.usajobs.gov/api/Search'}
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory) / 'boards.json'
+            output.write_text(json.dumps({'boards': [entry]}))
+            with patch('sys.argv', ['verify_boards.py', '--output', str(output)]), patch('verify_boards.ThreadPoolExecutor') as pool, contextlib.redirect_stdout(io.StringIO()):
+                pool.return_value.__enter__.return_value.map.return_value = []
+                refresh()
+            self.assertEqual(json.loads(output.read_text())['boards'], [entry])
+
     def test_student_trainee_reaches_matching_with_full_qualifications(self):
         job = normalize(announcement(), 'Federal')
         self.assertTrue(job['intern_type'])
@@ -31,6 +45,11 @@ class FederalTests(unittest.TestCase):
     def test_student_hiring_path_alone_does_not_make_job_an_internship(self):
         job = normalize(announcement(PositionTitle='IT Specialist', PositionOfferingType=[{'Name': 'Permanent'}],
                                      UserArea={'Details': {'JobSummary': 'Cybersecurity operations.', 'HiringPath': ['student']}}), 'Federal')
+        self.assertFalse(job['intern_type'])
+        self.assertEqual(rank(job)['score'], 0)
+
+    def test_internal_is_not_intern(self):
+        job = normalize(announcement(PositionTitle='IT Specialist (INTERNAL)', PositionOfferingType=[{'Name': 'Permanent'}]), 'Federal')
         self.assertFalse(job['intern_type'])
         self.assertEqual(rank(job)['score'], 0)
 

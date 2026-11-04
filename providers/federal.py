@@ -29,7 +29,7 @@ def normalize(entry, company):
             'location': j.get('PositionLocationDisplay', ''), 'url': j['PositionURI'],
             'description': text_only(description),
             'employment_type': ' / '.join(filter(None, [offering, ', '.join(v.get('Name', '') for v in j.get('PositionSchedule', []))])),
-            'intern_type': bool(re.search(r'student\s+(?:trainee|volunteer)|intern|co[ -]?op', title + ' ' + offering, re.I)),
+            'intern_type': bool(re.search(r'\b(?:student\s+(?:trainee|volunteer)|intern(?:ship)?s?|co[ -]?op)\b', title + ' ' + offering, re.I)),
             'hiring_paths': details.get('HiringPath') or [],
             'posted_at': j.get('PublicationStartDate', ''), 'closes_at': j.get('ApplicationCloseDate', '')}
 

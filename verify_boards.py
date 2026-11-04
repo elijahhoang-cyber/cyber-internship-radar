@@ -86,10 +86,19 @@ def main():
     for entry in verified:
         unique.setdefault(entry['board'].lower(), entry)
     output = Path(args.output)
+    # Authenticated USAJOBS validation runs in GitHub, where its Secrets reside.
+    # A local public-board refresh must not silently disable that verified source.
+    if output.exists():
+        previous = json.loads(output.read_text(encoding='utf-8'))
+        for entry in previous.get('boards', []):
+            if (entry.get('source') == 'usajobs' and entry.get('board') == 'federal'
+                    and entry.get('verified_at') and entry.get('verification_url') == 'https://data.usajobs.gov/api/Search'):
+                unique['usajobs:federal'] = entry
+                print('Retaining USAJOBS validation from its authenticated cloud check.')
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps({'seconds_between_boards': 0.2, 'letter_min_score': 80,
                                   'boards': list(unique.values())}, indent=2) + '\n', encoding='utf-8')
-    print(f'{len(unique)} live verified employer boards saved to {output}')
+    print(f'{len(unique)} verified source entries saved to {output}')
 
 
 if __name__ == '__main__':

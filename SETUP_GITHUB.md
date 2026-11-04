@@ -14,3 +14,5 @@ The schedule is `2/5 * * * *` UTC. GitHub may delay or drop scheduled runs. Manu
 Public state contains public job data, scores, and delivery flags. Never add profiles, resume text, letter text, or contact information to it. Avoid workflow changes from untrusted branches accessing secrets. The testing workflow does not receive secrets.
 
 A live notification check is available with `gh workflow run discord-check.yml --repo OWNER/cyber-internship-radar`. This explicitly sends two synthetic test notifications using the webhook secret, with no resume or AI access.
+
+Federal monitoring is enabled. Configure `USAJOBS_API_KEY` and `USAJOBS_EMAIL` as repository secrets, then dispatch `federal-check.yml` for a live API and synthetic-candidate pipeline diagnostic. This workflow deliberately receives no personal resume/profile or AI key. Credentials stay in authenticated request headers and are never persisted in job state.
