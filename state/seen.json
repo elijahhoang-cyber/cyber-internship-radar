@@ -123595,6 +123595,23 @@
           "letter_sent": true,
           "score": 0
         },
+        "8922945002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "8922945002",
+            "location": "Sydney, Australia",
+            "posted_at": "2026-11-03T23:24:58-05:00",
+            "source": "greenhouse",
+            "title": "Forward Deployed Strategist",
+            "updated_at": "2026-11-03T23:24:58-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922945002"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
         "8922951002": {
           "alerted": true,
           "category": "Low priority",
@@ -305241,6 +305258,23 @@
           "letter_sent": true,
           "score": 0
         },
+        "8926143002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8926143002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-03T23:33:52-05:00",
+            "source": "greenhouse",
+            "title": "Data Center Technician (TS/SCI)",
+            "updated_at": "2026-11-03T23:33:52-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8926143002?gh_jid=8926143002"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
         "8926159002": {
           "alerted": true,
           "category": "Low priority",
@@ -386236,6 +386270,1513 @@
         }
       },
       "started_at": "2026-11-04T04:24:09+00:00"
+    },
+    "usajobs:federal": {
+      "company": "US Federal Government",
+      "seen": {
+        "849247100": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-03T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "849247100",
+            "intern_type": false,
+            "location": "Dahlgren, Virginia",
+            "posted_at": "2025-11-04T00:00:00.0000",
+            "source": "usajobs",
+            "title": "ENGINEER/SCIENTIST",
+            "url": "https://www.usajobs.gov:443/job/849247100"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "850807800": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-30T23:59:59.9970",
+            "company": "U.S. Pacific Fleet",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "850807800",
+            "intern_type": false,
+            "location": "Pearl Harbor Naval Base, Oahu, Hawaii",
+            "posted_at": "2025-12-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER / NAVAL ARCHITECT",
+            "url": "https://www.usajobs.gov:443/job/850807800"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "856990600": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-02-08T23:59:59.9970",
+            "company": "U.S. Pacific Fleet",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "856990600",
+            "intern_type": false,
+            "location": "Bremerton, Washington",
+            "posted_at": "2026-02-09T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/856990600"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "858636600": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-02-23T23:59:59.9970",
+            "company": "Federal Aviation Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "public",
+              "disability",
+              "mspouse",
+              "peace",
+              "vet",
+              "special-authorities"
+            ],
+            "id": "858636600",
+            "intern_type": false,
+            "location": "May be filled in various FAA duty locations",
+            "posted_at": "2026-02-24T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Public Notice for Computer Engineer (Direct Hire)",
+            "url": "https://www.usajobs.gov:443/job/858636600"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "858672400": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-02-23T23:59:59.9970",
+            "company": "Federal Aviation Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "public",
+              "disability",
+              "mspouse",
+              "peace",
+              "vet",
+              "special-authorities"
+            ],
+            "id": "858672400",
+            "intern_type": false,
+            "location": "May be filled in various FAA duty locations",
+            "posted_at": "2026-02-24T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Public Notice for Electronics Engineer (Direct Hire)",
+            "url": "https://www.usajobs.gov:443/job/858672400"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "858682400": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-02-23T23:59:59.9970",
+            "company": "Federal Aviation Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "public",
+              "disability",
+              "mspouse",
+              "peace",
+              "vet",
+              "special-authorities"
+            ],
+            "id": "858682400",
+            "intern_type": false,
+            "location": "May be filled in various FAA duty locations",
+            "posted_at": "2026-02-24T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Public Notice for Electronics Engineer (Direct Hire)",
+            "url": "https://www.usajobs.gov:443/job/858682400"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "861692500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-12-31T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "861692500",
+            "intern_type": false,
+            "location": "Naval Support Activity, Mechanicsburg, Pennsylvania",
+            "posted_at": "2026-03-18T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/861692500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "862494000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-03-25T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "862494000",
+            "intern_type": false,
+            "location": "Naval Air Station San Diego, California",
+            "posted_at": "2026-03-26T00:00:00.0000",
+            "source": "usajobs",
+            "title": "ELECTRONICS ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/862494000"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "866369500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-04-26T23:59:59.9970",
+            "company": "Department of State Headquarters",
+            "employment_type": "Permanent after tenure is granted by a Foreign Service Specialist Tenure Board. / Full-time",
+            "hiring_paths": [
+              "fed-excepted",
+              "public"
+            ],
+            "id": "866369500",
+            "intern_type": false,
+            "location": "Department of State Posts - Overseas and Domestic",
+            "posted_at": "2026-04-27T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Diplomatic Security:  Foreign Service Security Engineering Officer (FS-2550)",
+            "url": "https://www.usajobs.gov:443/job/866369500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "869475000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-05-26T23:59:59.9970",
+            "company": "Judicial Branch Headquarters",
+            "employment_type": "Fall, Summer, or Spring semester. / 12-39 hours per week.",
+            "hiring_paths": [
+              "student"
+            ],
+            "id": "869475000",
+            "intern_type": false,
+            "location": "Anywhere in the U.S. (remote job)",
+            "posted_at": "2026-05-27T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Law Student Research Assistant",
+            "url": "https://www.usajobs.gov:443/job/869475000"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "876707200": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-01-13T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "876707200",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-07-15T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/876707200"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "879918500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-10T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "879918500",
+            "intern_type": false,
+            "location": "China Lake, California",
+            "posted_at": "2026-08-11T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/879918500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "885071100": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-16T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "885071100",
+            "intern_type": false,
+            "location": "Naval Base Newport, Rhode Island",
+            "posted_at": "2026-09-17T00:00:00.0000",
+            "source": "usajobs",
+            "title": "SUPERVISORY ENGINEER OR SCIENTIST",
+            "url": "https://www.usajobs.gov:443/job/885071100"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "886459500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-03-29T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "886459500",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-09-29T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER/SCIENTIST",
+            "url": "https://www.usajobs.gov:443/job/886459500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "886782200": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-03-31T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "886782200",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-09-30T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER/OPERATIONS RESEARCH ANALYST",
+            "url": "https://www.usajobs.gov:443/job/886782200"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "887032700": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "student",
+              "public"
+            ],
+            "id": "887032700",
+            "intern_type": false,
+            "location": "Lackland AFB, Texas",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Computer Engnineer",
+            "url": "https://www.usajobs.gov:443/job/887032700"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "887033500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "student",
+              "public"
+            ],
+            "id": "887033500",
+            "intern_type": false,
+            "location": "Lackland AFB, Texas",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/887033500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "887034500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "student",
+              "public"
+            ],
+            "id": "887034500",
+            "intern_type": false,
+            "location": "Lackland AFB, Texas",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Computer Scientist",
+            "url": "https://www.usajobs.gov:443/job/887034500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "887072300": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "student",
+              "public"
+            ],
+            "id": "887072300",
+            "intern_type": true,
+            "location": "Multiple Locations",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Engineer (Palace Acquire Intern)",
+            "url": "https://www.usajobs.gov:443/job/887072300"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "887073900": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "student",
+              "public"
+            ],
+            "id": "887073900",
+            "intern_type": false,
+            "location": "Multiple Locations",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Computer Scientist",
+            "url": "https://www.usajobs.gov:443/job/887073900"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "887326500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "student",
+              "public"
+            ],
+            "id": "887326500",
+            "intern_type": false,
+            "location": "Location Negotiable After Selection",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "COMPUTER ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/887326500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "887430800": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-05T23:59:59.9970",
+            "company": "Defense Microelectronics Activity",
+            "employment_type": "Required to work DMEA Core Hours of 9:00 AM - 2:00 PM Pacific Standard Time on duty days regardless of geographic location of the position.",
+            "hiring_paths": [
+              "mspouse",
+              "public"
+            ],
+            "id": "887430800",
+            "intern_type": false,
+            "location": "McClellan, California",
+            "posted_at": "2026-10-02T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/887430800"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "888436600": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "public"
+            ],
+            "id": "888436600",
+            "intern_type": false,
+            "location": "Location Negotiable After Selection",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "ELECTRONIC ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/888436600"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "888437200": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-09-30T23:59:59.9970",
+            "company": "Air Force Civilian Career Training",
+            "employment_type": "",
+            "hiring_paths": [
+              "graduates",
+              "public"
+            ],
+            "id": "888437200",
+            "intern_type": false,
+            "location": "Location Negotiable After Selection",
+            "posted_at": "2026-10-01T00:00:00.0000",
+            "source": "usajobs",
+            "title": "IT SPECIALIST",
+            "url": "https://www.usajobs.gov:443/job/888437200"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "888473900": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-04-14T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "888473900",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-10-14T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER/SCIENTIST",
+            "url": "https://www.usajobs.gov:443/job/888473900"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "888512700": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-03T23:59:59.9970",
+            "company": "U.S. Army Cyber Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-internal-search"
+            ],
+            "id": "888512700",
+            "intern_type": false,
+            "location": "Fort Huachuca, Arizona",
+            "posted_at": "2026-10-16T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Supervisory Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/888512700"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "888781500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-13T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "888781500",
+            "intern_type": false,
+            "location": "Panama City Naval Surface Warfare Center, Florida",
+            "posted_at": "2026-10-15T10:55:53.9370",
+            "source": "usajobs",
+            "title": "ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/888781500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "888892700": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-12T23:59:59.9970",
+            "company": "Bureau of Reclamation",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "fed-competitive",
+              "disability",
+              "land",
+              "mspouse",
+              "peace",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "888892700",
+            "intern_type": false,
+            "location": "Sacramento, California",
+            "posted_at": "2026-10-15T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/888892700"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "888901900": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-05T23:59:59.9970",
+            "company": "Bureau of Reclamation",
+            "employment_type": "",
+            "hiring_paths": [
+              "student"
+            ],
+            "id": "888901900",
+            "intern_type": false,
+            "location": "Lakewood, Colorado",
+            "posted_at": "2026-10-16T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Business Process Design & Automation",
+            "url": "https://www.usajobs.gov:443/job/888901900"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889277200": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-10T23:59:59.9970",
+            "company": "Western Area Power Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "mspouse",
+              "public"
+            ],
+            "id": "889277200",
+            "intern_type": false,
+            "location": "Multiple Locations",
+            "posted_at": "2026-10-21T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/889277200"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889277400": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-10T23:59:59.9970",
+            "company": "Western Area Power Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "fed-competitive",
+              "disability",
+              "land",
+              "mspouse",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "889277400",
+            "intern_type": false,
+            "location": "Multiple Locations",
+            "posted_at": "2026-10-21T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/889277400"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889444300": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-03T23:59:59.9970",
+            "company": "Immediate Office of the Chief of Naval Operations",
+            "employment_type": "",
+            "hiring_paths": [
+              "public",
+              "vet",
+              "disability",
+              "student"
+            ],
+            "id": "889444300",
+            "intern_type": false,
+            "location": "Honolulu, Hawaii",
+            "posted_at": "2026-10-20T11:02:00.9700",
+            "source": "usajobs",
+            "title": "UNITED STATES PACIFIC COMMAND (US PACOM) Talent Acquisition Registry (Multiple Positions/Series)",
+            "url": "https://www.usajobs.gov:443/job/889444300"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889690600": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-06T23:59:59.9970",
+            "company": "Bonneville Power Administration",
+            "employment_type": "1-5 years",
+            "hiring_paths": [
+              "fed-internal-search"
+            ],
+            "id": "889690600",
+            "intern_type": false,
+            "location": "Vancouver, Washington",
+            "posted_at": "2026-10-22T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Supervisory Interdisciplinary Mechanical/Civil/Electrical/Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/889690600"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889694300": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-10T23:59:59.9970",
+            "company": "Federal Aviation Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-internal-search"
+            ],
+            "id": "889694300",
+            "intern_type": false,
+            "location": "Atlantic City, New Jersey",
+            "posted_at": "2026-10-28T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer ",
+            "url": "https://www.usajobs.gov:443/job/889694300"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889804700": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-06T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "889804700",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-10-27T00:00:00.0000",
+            "source": "usajobs",
+            "title": "ELECTRONICS ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/889804700"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889838800": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-06T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "vet"
+            ],
+            "id": "889838800",
+            "intern_type": false,
+            "location": "Panama City Naval Surface Warfare Center, Florida",
+            "posted_at": "2026-10-23T00:00:00.0000",
+            "source": "usajobs",
+            "title": "PRINCIPAL TECHNICAL MANAGER, HEAD, SUBSEA AND SEABED WARFARE AND MARITIME OPERATIONS DEPARTMENT",
+            "url": "https://www.usajobs.gov:443/job/889838800"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889846600": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-06T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "vet"
+            ],
+            "id": "889846600",
+            "intern_type": false,
+            "location": "Panama City Naval Surface Warfare Center, Florida",
+            "posted_at": "2026-10-23T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Deputy Technical Director - Technical",
+            "url": "https://www.usajobs.gov:443/job/889846600"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "889994600": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-02-18T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "889994600",
+            "intern_type": false,
+            "location": "Fort Worth, Texas",
+            "posted_at": "2026-10-23T07:41:37.7830",
+            "source": "usajobs",
+            "title": "F-35 ELECTRONICS ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/889994600"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890019800": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-09T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "890019800",
+            "intern_type": false,
+            "location": "Port Hueneme, California",
+            "posted_at": "2026-10-26T00:00:00.0000",
+            "source": "usajobs",
+            "title": "ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/890019800"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890056500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-10T23:59:59.9970",
+            "company": "US Army Civilian Human Resources Agency",
+            "employment_type": "",
+            "hiring_paths": [
+              "disability",
+              "graduates",
+              "public"
+            ],
+            "id": "890056500",
+            "intern_type": false,
+            "location": "Fort Huachuca, Arizona",
+            "posted_at": "2026-10-27T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/890056500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890093100": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-06T23:59:59.9970",
+            "company": "U.S. Army Aviation and Missile Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "890093100",
+            "intern_type": false,
+            "location": "Chambersburg, Pennsylvania",
+            "posted_at": "2026-10-23T13:28:52.6970",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/890093100"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890112400": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-04T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "890112400",
+            "intern_type": false,
+            "location": "Crane, Indiana",
+            "posted_at": "2026-10-26T00:00:00.0000",
+            "source": "usajobs",
+            "title": "MANAGER",
+            "url": "https://www.usajobs.gov:443/job/890112400"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890125000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-09T23:59:59.9970",
+            "company": "Defense Contract Management Agency",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "fed-internal-search",
+              "mspouse",
+              "vet"
+            ],
+            "id": "890125000",
+            "intern_type": false,
+            "location": "Multiple Locations",
+            "posted_at": "2026-10-23T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Interdisciplinary Engineer",
+            "url": "https://www.usajobs.gov:443/job/890125000"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890261400": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-09T23:59:59.9970",
+            "company": "National Oceanic and Atmospheric Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "overseas",
+              "fed-competitive",
+              "disability",
+              "land",
+              "mspouse",
+              "peace",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "890261400",
+            "intern_type": false,
+            "location": "Grandview, Missouri",
+            "posted_at": "2026-10-27T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Supervisory Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/890261400"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890261800": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-09T23:59:59.9970",
+            "company": "National Oceanic and Atmospheric Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "public",
+              "vet"
+            ],
+            "id": "890261800",
+            "intern_type": false,
+            "location": "Grandview, Missouri",
+            "posted_at": "2026-10-27T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Supervisory Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/890261800"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890336100": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-05T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "5 years with the option to make permanent without competition",
+            "hiring_paths": [
+              "fed-transition",
+              "disability",
+              "fed-internal-search",
+              "mspouse",
+              "special-authorities"
+            ],
+            "id": "890336100",
+            "intern_type": false,
+            "location": "Crane, Indiana",
+            "posted_at": "2026-10-27T00:00:00.0000",
+            "source": "usajobs",
+            "title": "ENGINEER/SCIENTIST",
+            "url": "https://www.usajobs.gov:443/job/890336100"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890400000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-09T23:59:59.9970",
+            "company": "Defense Contract Management Agency",
+            "employment_type": "",
+            "hiring_paths": [
+              "mspouse",
+              "public"
+            ],
+            "id": "890400000",
+            "intern_type": false,
+            "location": "Fort Eustis, Virginia",
+            "posted_at": "2026-10-27T10:08:30.7370",
+            "source": "usajobs",
+            "title": "Interdisciplinary Engineer",
+            "url": "https://www.usajobs.gov:443/job/890400000"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890429000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-12T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "vet"
+            ],
+            "id": "890429000",
+            "intern_type": false,
+            "location": "Keyport, Washington",
+            "posted_at": "2026-10-28T00:00:00.0000",
+            "source": "usajobs",
+            "title": "DISTINGUISHED SCIENTIST/ENGINEER FOR UNDERSEA WEAPONS PRODUCTION AND SUSTAINMENT TECHNOLOGIES",
+            "url": "https://www.usajobs.gov:443/job/890429000"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890447000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-19T23:59:59.9970",
+            "company": "Air Force Materiel Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "890447000",
+            "intern_type": false,
+            "location": "Multiple Locations",
+            "posted_at": "2026-10-28T00:00:00.0000",
+            "source": "usajobs",
+            "title": "COMPUTER ENGINEER/COMPUTER SCIENTIST-DIRECT HIRE AUTHORITY",
+            "url": "https://www.usajobs.gov:443/job/890447000"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890869800": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-13T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "vet"
+            ],
+            "id": "890869800",
+            "intern_type": false,
+            "location": "Naval Base Newport, Rhode Island",
+            "posted_at": "2026-10-30T00:00:00.0000",
+            "source": "usajobs",
+            "title": "DISTINGUISHED SCIENTIST/ENGINEER FOR USW ENTERPRISE SOS INTEGRATION",
+            "url": "https://www.usajobs.gov:443/job/890869800"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890928300": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-06T23:59:59.9970",
+            "company": "National Gallery of Art",
+            "employment_type": "THIS IS A PRIVATE FUNDED POSITION WHICH DOES NOT CONFER COMPETITIVE FEDERAL STATUS TO THE ENCUMBENT. THE SELECTED CANDIDATE WILL BE ELIGIBLE FOR THE FEDERAL GOVERNMENT EMPLOYEE BENEFITS PACKAGE",
+            "hiring_paths": [
+              "disability",
+              "fed-competitive",
+              "fed-excepted",
+              "graduates",
+              "land",
+              "mspouse",
+              "native",
+              "nguard",
+              "overseas",
+              "peace",
+              "public",
+              "ses",
+              "special-authorities",
+              "student",
+              "vet"
+            ],
+            "id": "890928300",
+            "intern_type": false,
+            "location": "Washington, District of Columbia",
+            "posted_at": "2026-10-30T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Information Technology Specialist (Data Scientist)",
+            "url": "https://www.usajobs.gov:443/job/890928300"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "890936000": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-12T23:59:59.9970",
+            "company": "U.S. Army Cyber Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-internal-search"
+            ],
+            "id": "890936000",
+            "intern_type": false,
+            "location": "Fort Huachuca, Arizona",
+            "posted_at": "2026-11-03T00:00:00.0000",
+            "source": "usajobs",
+            "title": "SUPERVISORY INTERDISCIPLINARY",
+            "url": "https://www.usajobs.gov:443/job/890936000"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891076200": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-16T23:59:59.9970",
+            "company": "Naval Sea Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "vet"
+            ],
+            "id": "891076200",
+            "intern_type": false,
+            "location": "Naval Base Newport, Rhode Island",
+            "posted_at": "2026-11-03T00:00:00.0000",
+            "source": "usajobs",
+            "title": "DISTINGUISHED SCIENTIST/ENGINEER FOR USW THEATER OPERATIONS",
+            "url": "https://www.usajobs.gov:443/job/891076200"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891259900": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-12T23:59:59.9970",
+            "company": "Bonneville Power Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "fed-competitive",
+              "disability",
+              "land",
+              "mspouse",
+              "peace",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "891259900",
+            "intern_type": false,
+            "location": "Vancouver, Washington",
+            "posted_at": "2026-11-03T14:25:51.8730",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/891259900"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891260100": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-12T23:59:59.9970",
+            "company": "Bonneville Power Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "mspouse",
+              "public"
+            ],
+            "id": "891260100",
+            "intern_type": false,
+            "location": "Vancouver, Washington",
+            "posted_at": "2026-11-03T14:25:19.2500",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/891260100"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891261900": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-11-02T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "891261900",
+            "intern_type": false,
+            "location": "Cherry Point, North Carolina",
+            "posted_at": "2026-11-03T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER (AEROSPACE / ELECTRONICS / MECHANICAL)",
+            "url": "https://www.usajobs.gov:443/job/891261900"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891264500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-20T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "891264500",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-11-03T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER/SCIENTIST",
+            "url": "https://www.usajobs.gov:443/job/891264500"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891290300": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-09T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "891290300",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-11-03T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/891290300"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891296600": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-09T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "891296600",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-11-03T00:00:00.0000",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/891296600"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891323200": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-12T23:59:59.9970",
+            "company": "U.S. Pacific Fleet",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "disability",
+              "fed-internal-search",
+              "land",
+              "mspouse",
+              "special-authorities",
+              "vet"
+            ],
+            "id": "891323200",
+            "intern_type": false,
+            "location": "Pearl Harbor Naval Base, Oahu, Hawaii",
+            "posted_at": "2026-11-02T17:36:29.1800",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER",
+            "url": "https://www.usajobs.gov:443/job/891323200"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891354400": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2026-11-10T23:59:59.9970",
+            "company": "Naval Air Systems Command",
+            "employment_type": "",
+            "hiring_paths": [
+              "public"
+            ],
+            "id": "891354400",
+            "intern_type": false,
+            "location": "Patuxent River, Maryland",
+            "posted_at": "2026-11-03T08:48:24.2370",
+            "source": "usajobs",
+            "title": "INTERDISCIPLINARY ENGINEER/ PHYSICIST",
+            "url": "https://www.usajobs.gov:443/job/891354400"
+          },
+          "letter_sent": true,
+          "score": 0
+        },
+        "891497900": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-04T04:38:10+00:00",
+          "job": {
+            "closes_at": "2027-01-25T23:59:59.9970",
+            "company": "Cybersecurity and Infrastructure Security Agency",
+            "description": "This is a CyberCorps® Scholarship for Service (SFS) resume repository for ONLY current SFS scholarship recipients. CISA is interested in recruiting SFS scholars to participate in the 2027 internship cohort. This program provides students with on-the-job training to prepare them for a career in the federal government in a cybersecurity related field. Selectee(s) will receive a time-limited appointment in the excepted service. You MUST submit a copy of your transcripts or equivalent (e.g., letter from the registrar, acceptance letter, unofficial transcripts) showing eligibility for the educational requirements by the closing date of the announcement. Unofficial transcripts will be accepted that includes your name, the name of the educational institution, course title(s), number of credits, grade, and date of completion. Updated enrollment verification documentation will be required if you are selected. NOTE: When academic credit is expressed in contract months, units, or other terms that differ from conventional semester or quarter hours, it is the responsibility of the applicant to provide an interpretation of such credits from the appropriate institution in order to equate them to the specified semester or quarter hours. Education must be from an accredited institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education. Foreign Education: Education completed in foreign colleges or universities may be used to meet the qualification requirements. You must show the education credentials have been evaluated by a private U.S. organization that specializes in interpretation of foreign educational credentials and such education has been deemed equivalent to that gained in an accredited U.S. education program. It is your responsibility to provide such evidence with your application. See Recognition of Foreign Qualifications for more information. You must be a U.S. citizen. Selective Service - Males born after 12/31/59 must be registered or exempt from Selective Service see http://www.sss.gov/ All Federal employees are required to participate in Direct Deposit/Electronic Funds Transfer for salary payments. DHS uses e-Verify, an Internet-based system, to confirm the eligibility of all newly hired employees to work in the United States. Learn more about E-Verify, including your rights and responsibilities. You must be able to obtain and maintain a security clearance suitable for Federal employment as determined by a background investigation. This may include a credit check, a review of financial issues, as well as certain criminal offenses and illegal use or possession of drugs. This position requires a pre-employment drug test. All applicants tentatively selected for this position will be required to submit to a drug test to screen for illicit/illegal drug use prior to receiving a final offer of employment. A final offer of employment is contingent upon a negative drug test result. ['Typical work assignments include, but are not limited to: This is a developmental role designed to build the skills needed to perform the full duties of higher-level cybersecurity positions. The work is similar to more senior roles but is performed with closer supervision. As training and experience increase, assignments become more complex and responsibilities expand. Assignments focus on cybersecurity and information security, providing hands-on experience applying core cybersecurity principles, processes, tools, regulations, and procedures. On-the-job training is provided through selected assignments to develop foundational knowledge of cybersecurity and Information Technology (IT) security and to build an understanding of the IT security environment.'] BASIC ELIGIBILITY Applicants must: Be enrolled or accepted for enrollment at an institution that has been awarded a National Science Foundation (NSF) grant under the SFS program and pursuing a specialized certification, associate's, bachelor's, master's degree, or doctorate degree. Be attending school on at least a full-time basis (or, if enrolled in community college, at least half-time) as determined by the academic institution. Be willing to pursue studies with an emphasis in cybersecurity. Provide a copy of your CyberCorps® Scholarship for Service (SFS) Program Agreement to Serve or Repay signed upon entry into the program (must have signatures from your principal investigator and OPM to meet eligibility requirements). IN ADDITION TO MEETING THE BASIC ELIGIBILITY ABOVE, YOU MUST ALSO MEET THE FOLLOWING MINIMUM QUALIFICATIONS: To be considered minimally qualified for a position, you must demonstrate that you have the required education for the respective grade level listed below. You qualify for the GS-03 grade level, if you have: EDUCATION: Completion of one (1) full academic year of post-high school study from an accredited institution. (NOTE: One (1) academic year of undergraduate education is defined as 30 semester hours or 45 quarter hours.) You qualify for the GS-04 grade level, if you have: EDUCATION: A. Associate's degree or equivalent undergraduate degree from an accredited institution. OR B. Completion of two (2) full academic years of post-high school study from an accredited institution. (NOTE: Two (2) academic years of undergraduate education is defined as 60 semester hours or 90 quarter hours.) You qualify for the GS-05 grade level, if you have: EDUCATION: A. Bachelor's degree or equivalent undergraduate degree from an accredited institution. OR B. Completion of four (4) full academic years of post-high school study leading to a bachelor's degree or equivalent undergraduate degree from an accredited institution. (NOTE: Four (4) academic years of undergraduate education is defined as 120 semester hours or 180 quarter hours.) You qualify for the GS-07 grade level, if you have: EDUCATION: A. Completion of one (1) full academic year of graduate education from an accredited institution. (NOTE: One (1) academic year of graduate education is defined as the number of credit hours that the school attended has determined to represent one (1) academic year of full-time study. If that information cannot be obtained from the school transcript(s), then 18 semester hours or 27 quarter hours is considered as satisfying the one (1) year of full-time study requirement.) OR B. Bachelor's degree or equivalent undergraduate degree from an accredited institution with Superior Academic Achievement (SAA) is based on one of the following: (1) Class Standing - Applicants must be in the upper third of the graduating class in the college, university, or major subdivision, such as the College of Liberal Arts or the School of Business Administration, based on completed courses; OR (2) Grade-Point Average (G.P.A.) - Applicants must have a grade-point average of: 3.0 or higher out of a possible 4.0 (\"B\" or better) as recorded on your official transcript, or as computed based on 4 years of education, or as computed based on courses completed during the final 2 years of the curriculum; or 3.5 or higher out of a possible 4.0 (\"B+\" or better) based on the average of the required courses completed in the major field or the required courses in the major field completed during the final 2 years of the curriculum.; OR NOTE: Grade-point averages are rounded to one decimal place. For example, 2.95 will round to 3.0 and 2.94 will round to 2.9. (3) Honor Society Membership - Applicants can be considered eligible based on membership in one of the national scholastic honor societies recognized by the Association of College Honor Societies. You qualify for the GS-09 grade level, if you have: EDUCATION: A. Master's degree or equivalent graduate degree from an accredited institution. OR B. Completion of two (2) full academic years of graduate level education leading to a master's degree or equivalent graduate degree from an accredited institution. (NOTE: Two (2) academic years of graduate education is defined as the number of credit hours that the school attended has determined to represent two (2) academic years of full-time study. If that information cannot be obtained from the school transcript(s), then 36 semester hours or 54 quarter hours is considered as satisfying the two (2) years of full-time study requirement.) All qualification requirements must be met by the closing date of this announcement.",
+            "employment_type": "This Scholarship for Service internship is a temporary appointment starting in May 2027, with a minimum duration of 10 weeks.",
+            "hiring_paths": [
+              "student"
+            ],
+            "id": "891497900",
+            "intern_type": true,
+            "location": "Multiple Locations",
+            "posted_at": "2026-11-03T16:12:38.3030",
+            "source": "usajobs",
+            "title": "CISA - Scholarship for Service (SFS) Internship - Accepting Resumes, Transcripts, and SFS Agreements",
+            "url": "https://www.usajobs.gov:443/job/891497900"
+          },
+          "letter_sent": true,
+          "score": 45
+        }
+      },
+      "started_at": "2026-11-04T04:38:10+00:00"
     },
     "workday:capitalone.wd12.Capital_One": {
       "company": "Capital One",
