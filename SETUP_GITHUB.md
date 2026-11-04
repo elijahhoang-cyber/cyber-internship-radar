@@ -12,3 +12,5 @@
 The schedule is `2/5 * * * *` UTC. GitHub may delay or drop scheduled runs. Manual dispatch remains available. Alerts require a Discord webhook; letters additionally need an approved candidate profile and a strong match. A successful workflow without those secrets verifies discovery and persistence, not Discord delivery or personalized generation.
 
 Public state contains public job data, scores, and delivery flags. Never add profiles, resume text, letter text, or contact information to it. Avoid workflow changes from untrusted branches accessing secrets. The testing workflow does not receive secrets.
+
+A live notification check is available with `gh workflow run discord-check.yml --repo OWNER/cyber-internship-radar`. This explicitly sends two synthetic test notifications using the webhook secret, with no resume or AI access.

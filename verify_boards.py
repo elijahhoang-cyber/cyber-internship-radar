@@ -35,22 +35,30 @@ illumio druva cohesity alertenterprise recordedfuture arcticwolf oowlish wyetech
 ASHBY = '''OpenAI anthropic ramp notion linear replit cursor vanta drata mercury
 cohere perplexity together modal sentra cyera chainguard tines elevenlabs
 wiz decagon harvey cognition retool vercel supabase railway huggingface'''.split()
+SMARTRECRUITERS = ['SmartRecruiters']
+WORKDAY = ['capitalone.wd12.Capital_One']
 
 
 def check(candidate):
     source, board = candidate
+    workday_parts = board.split('.', 2) if source == 'workday' else ['', '', '']
     url = {'greenhouse': f'https://boards-api.greenhouse.io/v1/boards/{board}/jobs',
            'lever': f'https://api.lever.co/v0/postings/{board}?mode=json&limit=1',
-           'ashby': f'https://api.ashbyhq.com/posting-api/job-board/{board}'}[source]
+           'ashby': f'https://api.ashbyhq.com/posting-api/job-board/{board}',
+           'smartrecruiters': f'https://api.smartrecruiters.com/v1/companies/{board}/postings',
+           'workday': f'https://{workday_parts[0]}.{workday_parts[1]}.myworkdayjobs.com/wday/cxs/{workday_parts[0]}/{workday_parts[2]}/jobs'}[source]
     try:
-        r = requests.get(url, timeout=(5, 15), headers={'User-Agent': 'CyberInternshipRadar board verification'})
+        if source == 'workday':
+            r = requests.post(url, json={'appliedFacets': {}, 'limit': 20, 'offset': 0, 'searchText': ''}, timeout=(5, 15))
+        else:
+            r = requests.get(url, timeout=(5, 15), headers={'User-Agent': 'CyberInternshipRadar board verification'})
         r.raise_for_status()
         data = r.json()
-        jobs = data if source == 'lever' else data['jobs']
+        jobs = data if source == 'lever' else data[{'smartrecruiters': 'content', 'workday': 'jobPostings'}.get(source, 'jobs')]
         if not isinstance(jobs, list) or not jobs:
             return None
         # Public board display identity can be reviewed alongside the API evidence.
-        name = board
+        name = 'Capital One' if source == 'workday' else board
         if source == 'greenhouse':
             try:
                 meta = requests.get(f'https://boards-api.greenhouse.io/v1/boards/{board}', timeout=(5, 10))
@@ -60,7 +68,8 @@ def check(candidate):
                 pass
         return {'source': source, 'company': name, 'board': board,
                 'verified_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
-                'verification_url': url, 'observed_jobs': len(jobs)}
+                'verification_url': url, 'observed_jobs': len(jobs),
+                'verification_method': 'POST' if source == 'workday' else 'GET'}
     except (requests.RequestException, ValueError, KeyError, TypeError):
         return None
 
@@ -69,7 +78,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', default='config/companies.verified.json')
     args = parser.parse_args()
-    candidates = [(s, b) for s, boards in [('greenhouse', GREENHOUSE), ('lever', LEVER), ('ashby', ASHBY)] for b in boards]
+    candidates = [(s, b) for s, boards in [('greenhouse', GREENHOUSE), ('lever', LEVER), ('ashby', ASHBY), ('smartrecruiters', SMARTRECRUITERS), ('workday', WORKDAY)] for b in boards]
     with ThreadPoolExecutor(max_workers=8) as pool:
         verified = [r for r in pool.map(check, candidates) if r]
     # One board per employer, avoiding migration duplicates.

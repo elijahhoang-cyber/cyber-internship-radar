@@ -1073,6 +1073,24 @@
       "verified_at": "2026-11-04T03:54:57+00:00",
       "verification_url": "https://api.ashbyhq.com/posting-api/job-board/railway",
       "observed_jobs": 7
+    },
+    {
+      "source": "smartrecruiters",
+      "company": "SmartRecruiters",
+      "board": "SmartRecruiters",
+      "verified_at": "2026-11-04T04:14:31+00:00",
+      "verification_url": "https://api.smartrecruiters.com/v1/companies/SmartRecruiters/postings",
+      "observed_jobs": 2,
+      "verification_method": "GET"
+    },
+    {
+      "source": "workday",
+      "company": "Capital One",
+      "board": "capitalone.wd12.Capital_One",
+      "verified_at": "2026-11-04T04:14:32+00:00",
+      "verification_url": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
+      "observed_jobs": 20,
+      "verification_method": "POST"
     }
   ]
 }

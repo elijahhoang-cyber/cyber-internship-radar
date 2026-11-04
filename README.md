@@ -2,7 +2,7 @@
 
 Public-source cybersecurity and IT internship discovery, explainable ranking, and private cover-letter drafts. Python 3.11+, no mandatory paid service. Applications are never submitted automatically.
 
-The active watchlist is `config/companies.verified.json`: 134 employer identifiers verified against live public APIs. Each entry records its verification URL, timestamp, and observed job count. A verified board does not mean it currently has an internship or that its availability is permanent.
+The active watchlist is `config/companies.verified.json`: 136 employer identifiers verified against live public APIs. Each entry records its verification URL, timestamp, and observed job count. A verified board does not mean it currently has an internship or that its availability is permanent.
 
 ## Run locally
 
@@ -61,7 +61,7 @@ Discord receives private letters only when you configure its webhook. Anyone wit
 
 Greenhouse, Lever and Ashby use documented public APIs. SmartRecruiters uses its public Posting API with pagination and full student-posting descriptions. USAJOBS requires `USAJOBS_API_KEY` and `USAJOBS_EMAIL`; its adapter searches public IT student opportunities. To enable, add a board entry with `source: usajobs`, `company: Federal government`, `board: federal` to your configuration. For SmartRecruiters, use its documented company identifier.
 
-Workday is opt-in because public CXS availability and employer policies vary. Its board format is `tenant.wd5.External` (substitute the actual host and career site). Only enable boards you have checked and are permitted to access. It does not bypass authentication or bot protection. Workday POST pagination currently defers retries to the next scan. USAJOBS and Workday are not enabled in the default verified watchlist.
+Workday requires individual board verification because public CXS availability and employer policies vary. The verified Capital One board is enabled. Its board format is `tenant.wd5.External` (substitute the actual host and career site). Only enable boards you have checked and are permitted to access. It does not bypass authentication or bot protection. Workday POST pagination currently defers retries to the next scan. USAJOBS is not enabled until its API credentials are configured; the default list includes verified SmartRecruiters and Capital One boards.
 
 Ranking uses cybersecurity/IT relevance and student-role eligibility, Summer 2027 priority, actual profile skills, relevant project evidence, education, certification keywords, preferred location, and explicit graduation year. Unknowns do not earn candidate-match points. Missing descriptions remain possible matches. Categories: 90+ Excellent, 80+ Strong, 70+ Good, 60+ Possible, below 60 Low priority. Rankings are heuristics, not eligibility guarantees; citizenship, sponsorship, clearance, degree equivalence, and nuanced location requirements still need human review. Use `matching.rank(job, profile)` for matched/missing/unknown evidence; private evidence details are not persisted publicly.
 
@@ -84,3 +84,5 @@ Webhook delivery and Git commits cannot form one atomic transaction. A runner cr
 Provider references: [Greenhouse](https://docs.greenhouse.io/job-board), [Lever](https://github.com/lever/postings-api), [Ashby](https://developers.ashbyhq.com/docs/public-job-posting-api), [SmartRecruiters](https://developers.smartrecruiters.com/docs/endpoints), [USAJOBS](https://developer.usajobs.gov/api-reference/get-api-search).
 
 Public state retains complete descriptions for relevant student opportunities. Unrelated jobs retain IDs and public metadata but omit descriptions to keep history below GitHub file-size limits.
+
+To verify Discord secret access and delivery without candidate information, manually dispatch the `Discord connection check` workflow. It sends a labeled synthetic job alert and a synthetic text attachment. Error output omits request URLs and secret values.
