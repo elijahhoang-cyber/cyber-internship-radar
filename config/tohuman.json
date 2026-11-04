@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "monthly_word_cap": 2500,
+  "reserve_words": 500,
+  "word_count_margin": 20,
+  "timeout_seconds": 120,
+  "external_words_used": {}
+}

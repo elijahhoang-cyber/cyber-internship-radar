@@ -34,6 +34,16 @@ def load_state(path: Path) -> dict:
         for entry in board['seen'].values():
             if not isinstance(entry, dict) or not all(k in entry for k in ('first_seen', 'score', 'alerted')):
                 raise ValueError('Corrupted job history; refusing to reset')
+    if 'tohuman' in obj:
+        ledger = obj['tohuman']
+        if (not isinstance(ledger, dict) or ledger.get('version') != 1
+                or not isinstance(ledger.get('jobs'), dict) or not isinstance(ledger.get('months'), dict)):
+            raise ValueError('Corrupted ToHuman ledger; refusing to reset')
+        statuses = {'queued', 'attempted', 'uncertain', 'skipped', 'failed', 'rejected', 'verified'}
+        if any(not isinstance(r, dict) or r.get('status') not in statuses for r in ledger['jobs'].values()):
+            raise ValueError('Invalid ToHuman request journal')
+        if any(not isinstance(m, dict) or type(m.get('reserved_words')) is not int or m['reserved_words'] < 0 for m in ledger['months'].values()):
+            raise ValueError('Invalid ToHuman monthly accounting')
     return obj
 
 
@@ -58,6 +68,17 @@ def scan(config: dict, state: dict, session: Any, webhook_configured: bool, now:
     except (ValueError, TypeError, json.JSONDecodeError) as exc:
         LOG.error('Invalid private resume profile; sending job alerts without letters: %s', type(exc).__name__)
         profile = None
+    if config.get('tohuman', {}).get('enabled'):
+        ledger = state.setdefault('tohuman', {'version': 1, 'jobs': {}, 'months': {}})
+        if os.environ.get('TOHUMAN_ARCHIVE_READY') == 'true':
+            ledger.pop('archive_notice_sent', None)
+        elif webhook_configured and not ledger.get('archive_notice_sent'):
+            try:
+                from tracker import notify_processing_status
+                if notify_processing_status(session, 'ToHuman private archive is unavailable. Discovery alerts continue; cover-letter processing is paused and no letter was sent to ToHuman. Check the workflow archive step.'):
+                    ledger['archive_notice_sent'] = True
+            except Exception:
+                pass
     from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
     def canonical(url):
         parts = urlsplit(url)
@@ -102,6 +123,9 @@ def scan(config: dict, state: dict, session: Any, webhook_configured: bool, now:
                        'letter_sent': is_baseline or score == 0 or duplicate is not None,
                        'job': job if score else {k: v for k, v in job.items() if k != 'description'},
                        'category': assessment['category']}
+                if config.get('tohuman', {}).get('enabled') and not is_baseline and duplicate is None:
+                    old['tohuman_future'] = True
+                    old['tohuman_key'] = board_key + ':' + job_id
                 seen[job_id] = old
                 if job.get('url'):
                     urls[canonical(job['url'])] = old
@@ -145,7 +169,34 @@ def scan(config: dict, state: dict, session: Any, webhook_configured: bool, now:
             if (phase == 'letter' and old['alerted'] and not old.get('letter_sent', True)
                     and webhook_configured and profile and letters < int(config.get('max_letters_per_run', 3))):
                 assessment = rank(job, profile)
-                if assessment['score'] < int(config.get('letter_min_score', 80)):
+                enabled = config.get('tohuman', {}).get('enabled', False)
+                threshold = max(80, int(config.get('letter_min_score', 80))) if enabled else int(config.get('letter_min_score', 80))
+                if assessment['score'] < threshold:
+                    continue
+                if enabled:
+                    # Old records, including the delivered baseline examples, never
+                    # enter ToHuman. Only future discoveries carry this marker.
+                    if not old.get('tohuman_future') or os.environ.get('TOHUMAN_ARCHIVE_READY') != 'true':
+                        continue
+                    existing_request = state.get('tohuman', {}).get('jobs', {}).get(old['tohuman_key'])
+                    if existing_request:
+                        if existing_request.get('notified'):
+                            old['letter_sent'] = True
+                        continue
+                    try:
+                        from humanization.vault import Vault
+                        from humanization.pipeline import queue
+                        queue(state, old['tohuman_key'], job, profile, Vault())
+                        letters += 1
+                    except Exception as exc:
+                        LOG.error('Private draft queue unavailable (%s)', type(exc).__name__)
+                        if not old.get('draft_failure_notified'):
+                            try:
+                                from tracker import notify_processing_status
+                                if notify_processing_status(session, 'A local cover-letter draft could not be prepared for ' + str(job['company'])[:100] + ': ' + str(job['title'])[:200] + '. No ToHuman request was made. Check workflow logs for the error class.'):
+                                    old['draft_failure_notified'] = True
+                            except Exception:
+                                pass
                     continue
                 letters += 1
                 try:
@@ -182,6 +233,9 @@ def main() -> int:
     state = None
     try:
         config = json.loads(Path(args.config).read_text(encoding='utf-8'))
+        humanizer_config = HERE / 'config/tohuman.json'
+        if humanizer_config.exists():
+            config['tohuman'] = json.loads(humanizer_config.read_text())
         state = load_state(Path(args.state))
         with requests.Session() as session:
             session.headers['User-Agent'] = USER_AGENT

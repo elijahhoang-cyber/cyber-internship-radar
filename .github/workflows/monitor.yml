@@ -5,9 +5,15 @@ on:
     # Every five minutes; offset away from the busiest top-of-hour period.
     - cron: '2/5 * * * *'
   workflow_dispatch:
+    inputs:
+      validate_only:
+        description: 'Validate discovery/archive stages without spending ToHuman credits'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: cyber-internship-radar
@@ -24,6 +30,7 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
+          ref: ${{ github.event.repository.default_branch }}
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
@@ -33,16 +40,59 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run unit tests
         run: python -m unittest discover -s tests -v
+      - name: Restore encrypted private letters
+        id: private_archive
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TOHUMAN_VAULT_KEY: ${{ secrets.TOHUMAN_VAULT_KEY }}
+        run: python -m humanization.archive restore
       - name: Find newly published internships
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           RESUME_PROFILE_JSON: ${{ secrets.RESUME_PROFILE_JSON }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          ENABLE_EXTERNAL_AI: ${{ vars.ENABLE_EXTERNAL_AI }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          ENABLE_EXTERNAL_AI: 'false'
+          TOHUMAN_ARCHIVE_READY: ${{ steps.private_archive.outputs.ready }}
+          TOHUMAN_VAULT_KEY: ${{ secrets.TOHUMAN_VAULT_KEY }}
           USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
           USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
         run: python cloud_tracker.py --config config/companies.verified.json
+      - name: Preserve encrypted originals before external processing
+        id: originals
+        if: steps.private_archive.outputs.ready == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-letter-vault-${{ github.run_id }}-${{ github.run_attempt }}-originals
+          path: private/automation/vault.enc
+          if-no-files-found: error
+          retention-days: 90
+      - name: Humanize future strong matches once
+        if: steps.originals.outcome == 'success' && inputs.validate_only != true
+        env:
+          TOHUMAN_API_KEY: ${{ secrets.TOHUMAN_API_KEY }}
+          TOHUMAN_VAULT_KEY: ${{ secrets.TOHUMAN_VAULT_KEY }}
+          ENABLE_EXTERNAL_AI: 'false'
+        run: python -m humanization.worker process
+      - name: Preserve encrypted processed letters before Discord delivery
+        id: processed
+        if: steps.originals.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-letter-vault-${{ github.run_id }}-${{ github.run_attempt }}-processed
+          path: private/automation/vault.enc
+          if-no-files-found: error
+          retention-days: 90
+      - name: Deliver verified rewrite or clearly labeled original
+        if: steps.processed.outcome == 'success'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TOHUMAN_VAULT_KEY: ${{ secrets.TOHUMAN_VAULT_KEY }}
+        run: python -m humanization.worker deliver
+      - name: Limit encrypted archive storage to two snapshots
+        if: steps.processed.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python -m humanization.archive cleanup
       - name: Save persistent state
         if: always()
         shell: bash

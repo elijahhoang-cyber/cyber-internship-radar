@@ -37,8 +37,8 @@ def prepare_letters(state, selections, profile):
             raise ValueError('Company display override may change capitalization only')
         job['company'] = display
         assessment = rank(job, profile)
-        if assessment['score'] == 0:
-            raise ValueError('Selected posting is not a relevant technical internship')
+        if assessment['score'] < 80:
+            raise ValueError('Selected posting does not meet the score-80 letter threshold')
         letter = local_letter(job, profile)
         evidence = selected_evidence(job, profile)
         education = profile.get('education_statement') or ('My education includes ' + profile['education'].strip().rstrip('.') + '.')

@@ -22,7 +22,7 @@ class PersonalizationTests(unittest.TestCase):
         self.profile['approval_sha256'] = digest(self.profile)
         self.job = {'id': '123', 'source': 'greenhouse', 'title': 'Information Security Engineer Intern',
                     'company': 'example company', 'location': 'Remote',
-                    'url': 'https://example.org/123', 'description': 'Coding in languages such as Python, JavaScript, or similar. Networking fundamentals.'}
+                    'url': 'https://example.org/123', 'description': 'Summer 2027 bachelor student. Coding in languages such as Python, JavaScript, or similar. Networking fundamentals.'}
         self.state = {'schema_version': 1, 'boards': {'greenhouse:example': {'seen': {'123': {
             'job': self.job, 'first_seen': '2026-11-04T00:00:00+00:00', 'score': 60, 'alerted': True, 'letter_sent': True}}}}}
         self.selection = [{'board': 'greenhouse:example', 'id': '123', 'display_company': 'Example Company'}]

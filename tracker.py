@@ -202,6 +202,18 @@ def notify_cover_letter(session: requests.Session, job: dict, letter: str, mode:
     return True
 
 
+def notify_processing_status(session, message):
+    """Operational notices contain no candidate/profile/letter data."""
+    webhook = os.environ.get('DISCORD_WEBHOOK_URL', '').strip()
+    if not webhook:
+        return False
+    if urlparse(webhook).scheme != 'https' or urlparse(webhook).hostname not in ('discord.com', 'discordapp.com'):
+        raise ValueError('Invalid Discord webhook destination')
+    response = session.post(webhook, json={'content': message, 'allowed_mentions': {'parse': []}}, timeout=(8, 25))
+    response.raise_for_status()
+    return response.status_code != 429
+
+
 def create_db(connection: sqlite3.Connection) -> None:
     connection.execute('''CREATE TABLE IF NOT EXISTS jobs (
         source TEXT NOT NULL, company TEXT NOT NULL, job_id TEXT NOT NULL,

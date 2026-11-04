@@ -1,4 +1,5 @@
 requests>=2.31,<3
 pypdf>=5,<7
 PyYAML>=6,<7
+cryptography>=44,<47
 # Optional: install `openai` to activate LLM filtering with OPENAI_API_KEY set.
