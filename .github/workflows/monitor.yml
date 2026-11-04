@@ -1,0 +1,59 @@
+name: Cyber Internship Radar
+
+on:
+  schedule:
+    # Every five minutes; offset away from the busiest top-of-hour period.
+    - cron: '2/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cyber-internship-radar
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Find newly published internships
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          RESUME_PROFILE_JSON: ${{ secrets.RESUME_PROFILE_JSON }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ENABLE_EXTERNAL_AI: ${{ vars.ENABLE_EXTERNAL_AI }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+        run: python cloud_tracker.py --config config/companies.verified.json
+      - name: Save persistent state
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f state/seen.json || exit 0
+          git add state/seen.json
+          if git diff --cached --quiet; then
+            echo "No newly detected jobs; nothing to commit."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'Update job-monitoring state [skip ci]'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

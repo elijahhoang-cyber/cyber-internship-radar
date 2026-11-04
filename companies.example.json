@@ -1,0 +1,8 @@
+{
+  "seconds_between_boards": 0.5,
+  "boards": [
+    {"company": "YOUR_GREENHOUSE_COMPANY", "source": "greenhouse", "board": "YOUR_GREENHOUSE_BOARD_TOKEN"},
+    {"company": "YOUR_LEVER_COMPANY", "source": "lever", "board": "YOUR_LEVER_SITE_NAME"},
+    {"company": "YOUR_ASHBY_COMPANY", "source": "ashby", "board": "YOUR_ASHBY_BOARD_NAME"}
+  ]
+}

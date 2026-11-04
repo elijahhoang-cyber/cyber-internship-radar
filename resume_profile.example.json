@@ -1,0 +1,17 @@
+{
+  "name": "Your Name",
+  "education": "a bachelor's degree in Computer Science with a focus on cybersecurity",
+  "motivation": "I'm especially interested in learning how teams investigate and respond to real-world threats",
+  "evidence": [
+    {
+      "label": "Security monitoring practice",
+      "detail": "I built a personal lab to practice collecting and interpreting security logs",
+      "keywords": ["SOC", "SIEM", "logs", "detection", "incident response", "security operations"]
+    },
+    {
+      "label": "Software project",
+      "detail": "I worked with a team to build a web application and troubleshoot integration problems",
+      "keywords": ["appsec", "application security", "software", "team", "development"]
+    }
+  ]
+}

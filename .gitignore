@@ -1,0 +1,23 @@
+.env
+companies.json
+*.sqlite3
+*.sqlite3-*
+__pycache__/
+.pytest_cache/
+
+# Private candidate data or generated applications must never be committed
+resume_profile.json
+/private/
+/letters/
+cover_letter_*.txt
+cover_letter*.md
+cover_letter*.json
+cover_letter*.html
+cover_letter*.docx
+cover-letter*
+*.cover-letter.*
+*.pdf
+*.docx
+.venv/
+*.log
+!COVER_LETTERS_SETUP.md
