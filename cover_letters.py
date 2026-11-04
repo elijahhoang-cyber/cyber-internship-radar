@@ -21,18 +21,8 @@ def resume_profile_from_env() -> dict | None:
     if not raw:
         return None
     obj = json.loads(raw)
-    if not isinstance(obj, dict) or not isinstance(obj.get('education'), str):
-        raise ValueError('RESUME_PROFILE_JSON requires an education string')
-    entries = obj.get('evidence', [])
-    if not isinstance(entries, list) or not entries:
-        raise ValueError('RESUME_PROFILE_JSON requires at least one evidence entry')
-    if len(raw) > 40_000:
-        raise ValueError('Resume profile must fit within the GitHub Actions secret limit')
-    from resume.process import validate_approval
-    validate_approval(obj)
-    for e in entries:
-        if not isinstance(e, dict) or not isinstance(e.get('detail'), str) or not e.get('detail'):
-            raise ValueError('Each evidence entry must contain a detail string')
+    from resume.schema import validate_profile
+    validate_profile(obj, require_approval=True)
     return obj
 
 
@@ -40,11 +30,26 @@ def selected_evidence(job: dict, profile: dict, limit: int = 2) -> list[dict]:
     text = (str(job.get('title', '')) + ' ' + str(job.get('description', ''))[:5000]).lower()
     title = str(job.get('title', '')).lower()
     ranked = []
+    from matching import contains
     for i, entry in enumerate(profile.get('evidence', [])):
         terms = entry.get('keywords') or []
-        hits = sum(5 if str(k).lower() in title else 1 for k in terms if str(k).lower() in text)
+        hits = sum(5 if contains(title, str(k)) else 1 for k in terms if contains(text, str(k)))
+        detail = entry['detail'].lower()
+        # Prefer proof of a requested language over a keyword attached to a team
+        # project, and connect broad security-engineering roles to lab investigation.
+        hits += 4 * sum(contains(text, language) and contains(detail, language)
+                        for language in ('python', 'bash', 'powershell'))
+        if 'information security' in title and any(contains(detail, k) for k in ('incident triage', 'threat hunting', 'detection logic')):
+            hits += 5
+        if re.search(r'\bai[ -](?:assisted|powered)\b', text) and any(contains(detail, k) for k in ('Gemini API', 'AI-powered application')):
+            hits += 6
+        if contains(text, 'telemetry') and contains(detail, 'telemetry'):
+            hits += 4
         ranked.append((-hits, i, entry))
-    return [e for _, _, e in sorted(ranked)[:limit]]
+    relevant = [item for item in ranked if item[0] < 0]
+    # A second example must have an actual keyword connection to the posting.
+    # Without overlap, retain one factual example and invite human review.
+    return [e for _, _, e in sorted(relevant or ranked)[:limit if relevant else 1]]
 
 
 def focus_for_job(job: dict) -> str:
@@ -57,39 +62,126 @@ def focus_for_job(job: dict) -> str:
         return 'making complex systems easier to secure and monitor'
     if any(k in t for k in ('risk', 'compliance', 'grc')):
         return 'connecting technical security work to practical business risk'
+    if any(k in t for k in ('network security', 'tcp', 'wireshark', 'networking')):
+        return 'understanding network traffic and identifying exposed services'
     return 'solving practical security problems and learning from experienced teammates'
 
 
 def local_letter(job: dict, profile: dict) -> str:
-    """Deterministic, human-readable zero-cost fallback; never invent credentials."""
-    title = str(job.get('title', 'Cybersecurity Internship')).strip()
-    company = str(job.get('company', 'your organization')).strip()
-    education = profile['education'].strip().rstrip('.')
+    """Grounded local draft, with varied openings and a 250-350 word budget.
+
+    All past-tense accomplishments come verbatim from reviewed evidence. Other
+    text describes the posting or future learning goals, never inferred history.
+    """
+    import hashlib
+    from matching import contains
+    from resume.schema import validate_profile
+    validate_profile(profile)
+    title = str(job.get('title') or 'Cybersecurity Internship').strip()
+    company = str(job.get('company') or 'your organization').strip()
     evidence = selected_evidence(job, profile)
-    details = [e['detail'].strip().rstrip('.') for e in evidence]
-    if not details:
-        raise ValueError('Verified resume evidence is required')
-    first = details[0] + '.'
-    second = details[1] + '.' if len(details) > 1 else ''
-    note = str(profile.get('motivation', '')).strip().rstrip('.')
-    opening = (f"I'm interested in the {title} position at {company} because it offers a chance to contribute to "
-               f"real security work while continuing to learn. My education includes {education}, and I'm especially "
-               f"interested in {focus_for_job(job)}.")
-    terms = [str(k) for e in evidence for k in e.get('keywords', []) if str(k).lower() in str(job.get('description', '')).lower()]
-    connection = ', '.join(dict.fromkeys(terms))[:180]
-    body = (f"One part of my background I would like to discuss is this: {first} "
-            f"{'The posting mentions ' + connection + ', which gives that experience a concrete connection to this opportunity. ' if connection else ''}"
-            "I would welcome a conversation about how this experience could translate to the tasks your team needs help with, "
-            "including where I would need guidance. I want my application to give you a clear picture of what I have actually done.")
-    if second:
-        body += f"\n\nI would also bring experience from another example: {second} "
-        body += ("I would be glad to explain the decisions behind that work, the limits of my contribution, "
-                 "and what I would approach differently next time. I see an internship as a chance to develop "
-                 "those foundations through useful work and feedback from people doing this every day.")
-    closing = (f"{note + '. ' if note else ''}I'd value the opportunity to learn from your team and contribute "
-               f"where I can. Thank you for considering my application. I'd welcome the chance to discuss "
-               f"how my background could support the {title} role.")
-    return 'Dear Hiring Team,\n\n' + opening + '\n\n' + body + '\n\n' + closing + '\n\nSincerely,\n' + str(profile.get('name', 'Applicant')).strip()
+    education = profile.get('education_statement') or ('My education includes ' + profile['education'].strip().rstrip('.') + '.')
+    focus = focus_for_job(job)
+    openings = [
+        f"I'm applying for the {title} role at {company} with an interest in {focus}.",
+        f"The {title} position at {company} is an opportunity I'd like to pursue as I develop my experience in {focus}.",
+        f"I'd like to contribute to {company} in the {title} role while building on my interest in {focus}.",
+        f"For the {title} opening at {company}, I would bring a student perspective grounded in the projects below and an interest in {focus}.",
+    ]
+    seed = hashlib.sha256((company + '|' + title).encode()).digest()[0]
+    opening = openings[seed % len(openings)] + ' ' + education
+    job_text = title + ' ' + str(job.get('description') or '')
+    details = [entry['detail'].strip().rstrip('.') + '.' for entry in evidence]
+    terms = list(dict.fromkeys(str(k) for entry in evidence for k in entry.get('keywords', []) if contains(job_text, str(k))))[:3]
+    topics = ', '.join(terms)
+    connection = (f"Your posting mentions {topics}, which gives me a concrete way to connect that experience to the role. "
+                  if topics else "I would welcome a conversation about which parts of that experience transfer to the work described in your posting. ")
+    connection += ("I would like to understand how your team approaches that work in practice, "
+                   "including the procedures and standards I would need to learn.")
+    first = details[0] + ' ' + connection
+    second = ''
+    if len(details) > 1:
+        second = details[1]
+    cert_notes = []
+    for cert in profile.get('certifications', []):
+        term = next((t for t in ('security+', 'cpts', 'cissp') if contains(cert, t) and contains(job_text, t)), None)
+        if not term:
+            continue
+        name = re.sub(r'\s*\([^)]*\)', '', cert).strip()
+        if re.search(r'scheduled', cert, re.I):
+            cert_notes.append(f'My {name} exam is scheduled; I have not yet earned the certification.')
+        elif re.search(r'pursu|in[ -]?progress|studying|planned|expected|candidate|prepar', cert, re.I):
+            cert_notes.append(f"I am working toward {name}; it is not an earned qualification.")
+    closing = (f"Thank you for considering my application for {title}. I'd appreciate the opportunity to discuss "
+               f"which parts of my background would be useful to {company} and where I would need training. "
+               "I would be glad to walk through these examples and answer questions about my own contribution.")
+    optional = [
+        "An internship would let me develop these foundations through useful assignments and feedback from people doing this work every day. I want to understand both the technical task and how it fits into the team's priorities, rather than assume a student project covers everything the position requires.",
+        "I would welcome clear expectations about the work I could take on, the questions I should raise, and how to document results so they are useful to other people. Those are areas I want to keep developing alongside my technical knowledge.",
+        "The examples above are the basis of my application. I would value a conversation about their strengths and limitations, and about what preparation would help me contribute effectively during the internship.",
+        "I would also appreciate the chance to learn how your team reviews work, handles uncertainty, and decides what to investigate next. Understanding those decisions would help me connect my existing practice to the responsibilities of the position.",
+    ]
+    core = [opening, first, second, ' '.join(cert_notes), closing]
+    # Concrete job duties shape the connections; candidate facts remain unchanged.
+    # These rules contain no candidate-specific names, projects or accomplishments.
+    lowered = job_text.lower()
+    if ('exposure to building ai-assisted applications' in lowered and 'automation' in lowered
+            and all(term in lowered for term in ('hardware', 'firmware', 'telemetry', 'configuration drift', 'secure boot', 'attestation'))
+            and len(evidence) > 1 and 'team' in evidence[0]['detail'].lower()
+            and 'application' in evidence[0]['detail'].lower()
+            and 'python' in evidence[1]['detail'].lower()):
+        core[0] = (f"The {title} role at {company} caught my attention because it brings together "
+                   "programming, AI-assisted tools and platform security. " + education)
+        core[1] = (details[0] + ' Your request for exposure to building AI-assisted applications gives me a specific '
+                   "way to connect that team experience to this role. I would be glad to discuss my own contribution, "
+                   "the choices involved in the project, and the parts I would like to develop further.")
+        core[2] = (details[1] + ' Your proposed automation work, including collecting platform telemetry and checking '
+                   'configuration drift, offers a practical next step for that programming experience. '
+                   'I would like to learn how your engineers decide what to collect, how to validate a tool, '
+                   'and how its results support an investigation.\n\n'
+                   'The hardware and firmware side of the internship would also be an opportunity to develop my '
+                   'understanding of platform security. I would welcome mentorship on topics such as secure boot '
+                   'and attestation while contributing the programming and project experience described above.')
+        core[4] = (f"Thank you for considering my application to {company}. I'd welcome a conversation about "
+                   "a well-scoped project I could contribute to, the preparation it would require, "
+                   "and how I could make useful progress during the internship.")
+    elif ('information security' in title.lower() and 'ownership' in lowered
+          and 'coding' in lowered and 'lab' in evidence[0]['detail'].lower() and len(evidence) > 1
+          and 'python' in evidence[1]['detail'].lower()):
+        core[0] = (f"The {title} opening at {company} stood out to me for its emphasis on taking responsibility "
+                   'for security projects and seeing them through. ' + education)
+        core[1] = (details[0] + ' Your emphasis on project ownership gives that lab work a practical connection '
+                   'to this internship. I would welcome the chance to take a well-scoped security problem from '
+                   'investigation through documentation and review, with feedback from your engineers.')
+        core[2] = (details[1] + ' The coding requirement also gives me a concrete project to discuss, including '
+                   'its design choices and limitations. I would be glad to explain what the tool does, how I '
+                   'approached it, and what I would want to improve before using a similar approach on a larger system.\n\n'
+                   'I would value working with people from different engineering backgrounds, testing my assumptions '
+                   'and getting review of my findings. Before taking on a change, I would want to understand the '
+                   'systems involved, the risk the team is addressing and what a useful outcome would look like.')
+        core[4] = (f"Thank you for considering my application for the {title} role. I'd appreciate the chance "
+                   f"to discuss how my security practice and programming projects could support {company}'s work, "
+                   "and where additional preparation would help me contribute effectively.")
+    def render(extra):
+        paragraphs = [*core[:-1], *extra, core[-1]]
+        return 'Dear Hiring Team,\n\n' + '\n\n'.join(p for p in paragraphs if p) + '\n\nSincerely,\n' + str(profile.get('name') or 'Applicant')
+    extra = []
+    result = render(extra)
+    for paragraph in optional:
+        if len(result.split()) >= 250:
+            break
+        extra.append(paragraph)
+        result = render(extra)
+    if len(result.split()) > 350 and second:
+        # Keep complete factual sentences; reduce framing instead of truncating facts.
+        core[2] = details[1]
+        result = render(extra)
+    if len(result.split()) > 350:
+        core[1] = details[0] + (' Your posting mentions ' + topics + '.' if topics else '')
+        result = render(extra)
+    if not 250 <= len(result.split()) <= 350:
+        raise ValueError('Local letter exceeds its word budget; shorten evidence summaries or the education statement')
+    return result
 
 
 def ai_letter(job: dict, profile: dict, session: Any) -> str:

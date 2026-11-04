@@ -116,6 +116,10 @@ def score_job(job: dict) -> int:
         return 0
     if NEGATIVE.search(title):
         return 0
+    if re.search(r'\b(marketing|communications?|investment analyst|recruiting|sales)\b', title, re.I):
+        return 0
+    if re.search(r'\bteam\s+leads\s+physical\s+security\b', text_only(description), re.I):
+        return 0
     if SECURITY.search(title):
         return 95
     if re.search(r'digital forensics|network security|security research|threat research', title, re.I):
@@ -189,8 +193,9 @@ def notify_cover_letter(session: requests.Session, job: dict, letter: str, mode:
                         'description': letter[:3900],
                         'color': 5763719,
                         'footer': {'text': f"{mode}. Review and edit before sending; draft is not submitted."}}]}
+    filename = ('cover_letter_' + re.sub(r'[^A-Za-z0-9_-]', '_', str(job['id'])) + '.txt') if job.get('id') else 'cover_letter.txt'
     resp = session.post(webhook, data={'payload_json': json.dumps(data)},
-                        files={'files[0]': ('cover_letter.txt', letter.encode('utf-8'), 'text/plain; charset=utf-8')}, timeout=(8, 25))
+                        files={'files[0]': (filename, letter.encode('utf-8'), 'text/plain; charset=utf-8')}, timeout=(8, 25))
     if resp.status_code == 429:
         return False
     resp.raise_for_status()

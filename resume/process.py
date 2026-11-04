@@ -41,7 +41,7 @@ def validate_approval(profile):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('action', choices=['extract', 'approve', 'export'])
+    parser.add_argument('action', choices=['extract', 'validate', 'approve', 'export'])
     parser.add_argument('input', type=Path)
     parser.add_argument('--output', type=Path)
     args = parser.parse_args()
@@ -54,6 +54,11 @@ def main():
         target = args.output or Path('private/profile.draft.json')
     else:
         profile = json.loads(args.input.read_text(encoding='utf-8'))
+        from resume.schema import validate_profile
+        validate_profile(profile)
+        if args.action == 'validate':
+            print('Candidate profile schema is valid; approval status was not changed.')
+            return
         if args.action == 'approve':
             if not profile.get('education') or not profile.get('evidence'):
                 parser.error('Education and at least one verified evidence entry are required')

@@ -1,0 +1,34 @@
+name: Deliver selected personalized letters
+on:
+  workflow_dispatch:
+    inputs:
+      selections:
+        description: 'Public discovered-job IDs as a JSON list of board/id objects'
+        required: true
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: selected-personalized-letters
+  cancel-in-progress: false
+jobs:
+  letters:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Validate approved profile and deliver local drafts without logging personal data
+        env:
+          RESUME_PROFILE_JSON: ${{ secrets.RESUME_PROFILE_JSON }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          JOB_SELECTION_JSON: ${{ inputs.selections }}
+          ENABLE_EXTERNAL_AI: 'false'
+        run: python personalize.py --deliver --no-save
