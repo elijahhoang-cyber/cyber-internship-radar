@@ -151,6 +151,8 @@ class PlatformTests(unittest.TestCase):
         self.assertEqual(workflow['concurrency']['cancel-in-progress'], 'false')
         persistence = workflow['jobs']['check']['steps'][-1]
         self.assertEqual(persistence['if'], 'always()')
+        self.assertIn('git config user.name', persistence['run'])
+        self.assertIn('git config user.email', persistence['run'])
 
 
 if __name__ == '__main__':
