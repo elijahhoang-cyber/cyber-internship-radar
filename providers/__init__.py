@@ -27,31 +27,15 @@ def smartrecruiters(session, company, board):
 
 
 def usajobs(session, company, board):
-    from tracker import get_json, text_only
+    from providers.federal import fetch
     if not os.environ.get('USAJOBS_API_KEY') or not os.environ.get('USAJOBS_EMAIL'):
         raise ValueError('USAJOBS_API_KEY and USAJOBS_EMAIL are required')
-    out = []
     # A separate session prevents credential headers reaching other providers.
     import requests
     with requests.Session() as api:
         api.headers.update({'Host': 'data.usajobs.gov', 'User-Agent': os.environ['USAJOBS_EMAIL'],
                             'Authorization-Key': os.environ['USAJOBS_API_KEY']})
-        for page in range(1, 101):
-            data = get_json(api, 'https://data.usajobs.gov/api/Search',
-                            {'Keyword': 'information technology student', 'ResultsPerPage': 500, 'Page': page})['SearchResult']
-            for entry in data['SearchResultItems']:
-                j = entry['MatchedObjectDescriptor']
-                details = j.get('UserArea', {}).get('Details', {})
-                out.append({'source': 'usajobs', 'company': j.get('OrganizationName', company),
-                            'id': str(entry['MatchedObjectId']), 'title': j['PositionTitle'],
-                            'location': j.get('PositionLocationDisplay', ''), 'url': j['PositionURI'],
-                            'description': text_only(' '.join(str(details.get(k, '')) for k in
-                                ('JobSummary', 'Qualifications', 'Education', 'Requirements', 'MajorDuties'))),
-                            'employment_type': ', '.join(v.get('Name', '') for v in j.get('PositionSchedule', [])),
-                            'posted_at': j.get('PublicationStartDate', '')})
-            if page * 500 >= int(data['SearchResultCountAll']):
-                return out
-    raise ValueError('USAJOBS pagination cap reached')
+        return fetch(api, company)
 
 
 def workday(session, company, board):
