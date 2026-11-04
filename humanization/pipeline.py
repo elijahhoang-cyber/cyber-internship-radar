@@ -39,6 +39,12 @@ def process(state, vault, config, session, checkpoint, now=None):
     month = now.strftime('%Y-%m')
     ledger = state.setdefault('tohuman', {'version': 1, 'jobs': {}, 'months': {}})
     budget = ledger['months'].setdefault(month, {'reserved_words': 0})
+    if config.get('enabled') is False:
+        for record in ledger['jobs'].values():
+            if record['status'] == 'queued':
+                record.update(status='skipped', reason='ToHuman processing disabled in configuration')
+        checkpoint(state)
+        return
     if (int(config.get('word_count_margin', 20)) < 0
             or int(config.get('monthly_word_cap', 2500)) < 0
             or any(int(v) < 0 for v in config.get('external_words_used', {}).values())):

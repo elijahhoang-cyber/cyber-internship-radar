@@ -207,6 +207,10 @@ class ToHumanTests(unittest.TestCase):
         self.assertTrue(verify(private['submitted'], good, *args))
         self.assertFalse(verify(private['submitted'], good.replace('wrote a Python', 'wrote an AWS'), *args))
         self.assertFalse(verify(private['submitted'], good + ' I am Security+ certified.', *args))
+        self.assertFalse(verify(private['submitted'], good + ' I cannot write Python.', *args))
+        self.assertFalse(verify(private['submitted'], good + ' My doctorate is complete.', *args))
+        self.assertFalse(verify(private['submitted'], good + '\n\nSincerely,\nInvented Name', *args))
+        self.assertFalse(verify(private['submitted'], good + '\n\nRegards,\nInvented Name', *args))
         self.assertFalse(verify(private['submitted'], good.replace('2027', '2028'), *args))
 
     def test_sanitization_removes_contacts_and_signature_without_changing_original(self):
