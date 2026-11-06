@@ -402782,7 +402782,7 @@
             "title": "Information Technology & Applications Intern [Summer 2027]",
             "url": "https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558"
           },
-          "letter_sent": false,
+          "letter_sent": true,
           "score": 91,
           "tohuman_future": true,
           "tohuman_key": "lever:zoox:f35b2447-360f-4945-8ae8-16870e8d7558"
@@ -441288,9 +441288,10 @@
   "tohuman": {
     "jobs": {
       "lever:zoox:f35b2447-360f-4945-8ae8-16870e8d7558": {
+        "delivered": "original",
         "input_words": 252,
         "month": "2026-11",
-        "notified": false,
+        "notified": true,
         "reason": "Provider failure: ReadTimeout",
         "reserved_words": 370,
         "status": "uncertain"
