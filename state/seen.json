@@ -441291,8 +441291,9 @@
         "input_words": 252,
         "month": "2026-11",
         "notified": false,
+        "reason": "Provider failure: ReadTimeout",
         "reserved_words": 370,
-        "status": "attempted"
+        "status": "uncertain"
       }
     },
     "months": {
