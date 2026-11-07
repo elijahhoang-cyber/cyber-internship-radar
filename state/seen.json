@@ -37,6 +37,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "015de5ce-8210-418d-abc6-f8b8712f0dbd": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "015de5ce-8210-418d-abc6-f8b8712f0dbd",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T21:40:13.143+00:00",
+            "source": "ashby",
+            "title": "Mechanical Engineer, Power Generation",
+            "url": "https://jobs.ashbyhq.com/openai/015de5ce-8210-418d-abc6-f8b8712f0dbd"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:015de5ce-8210-418d-abc6-f8b8712f0dbd"
+        },
         "020b2aae-8be0-408c-ab49-20eefa8541af": {
           "alerted": true,
           "category": "Low priority",
@@ -104,6 +123,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "0369bd4b-bfb1-4c36-90cb-4e3a24365150": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "0369bd4b-bfb1-4c36-90cb-4e3a24365150",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T22:33:41.408+00:00",
+            "source": "ashby",
+            "title": "Robotics Test Engineer",
+            "url": "https://jobs.ashbyhq.com/openai/0369bd4b-bfb1-4c36-90cb-4e3a24365150"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:0369bd4b-bfb1-4c36-90cb-4e3a24365150"
         },
         "04435c05-7a05-4802-894d-c173327fbac8": {
           "alerted": true,
@@ -325,6 +363,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "087aa4f5-1192-413a-ba34-3ae324cf90e5": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "087aa4f5-1192-413a-ba34-3ae324cf90e5",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T22:37:49.715+00:00",
+            "source": "ashby",
+            "title": "Applied AI Engineer, Enterprise - EDU",
+            "url": "https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:087aa4f5-1192-413a-ba34-3ae324cf90e5"
         },
         "08e8d03a-df94-46af-8664-cd9aab1af445": {
           "alerted": true,
@@ -3642,6 +3699,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "41408133-b45f-4c7b-a0df-c050f16d92de": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "41408133-b45f-4c7b-a0df-c050f16d92de",
+            "intern_type": false,
+            "location": "New York City",
+            "posted_at": "2026-11-06T21:54:37.803+00:00",
+            "source": "ashby",
+            "title": "GTM Strategy & Planning",
+            "url": "https://jobs.ashbyhq.com/openai/41408133-b45f-4c7b-a0df-c050f16d92de"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:41408133-b45f-4c7b-a0df-c050f16d92de"
+        },
         "4167047e-33c2-4be4-b693-71c6c039bc56": {
           "alerted": true,
           "category": "Low priority",
@@ -4508,6 +4584,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "554a6565-0c9a-42e8-8f6f-a22ba23f336b": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "554a6565-0c9a-42e8-8f6f-a22ba23f336b",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T21:37:08.283+00:00",
+            "source": "ashby",
+            "title": "Controls Engineer, Power Generation and Microgird",
+            "url": "https://jobs.ashbyhq.com/openai/554a6565-0c9a-42e8-8f6f-a22ba23f336b"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:554a6565-0c9a-42e8-8f6f-a22ba23f336b"
         },
         "557dd2ec-db6c-49b1-a0aa-193007ebd5b6": {
           "alerted": true,
@@ -6275,6 +6370,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "6fc25168-bc4c-47a0-8601-583dfaf7fcbd": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "6fc25168-bc4c-47a0-8601-583dfaf7fcbd",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T22:33:48.426+00:00",
+            "source": "ashby",
+            "title": "Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS)",
+            "url": "https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:6fc25168-bc4c-47a0-8601-583dfaf7fcbd"
         },
         "6fd50ace-941b-4559-992f-e53f9b76c9a0": {
           "alerted": true,
@@ -8643,6 +8757,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "ashby:OpenAI:9471b38b-f65c-4a01-9626-bd33fca90f1d"
+        },
+        "94d44e8c-987f-4350-bb13-5a855be957db": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "94d44e8c-987f-4350-bb13-5a855be957db",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T21:41:58.164+00:00",
+            "source": "ashby",
+            "title": "Electrical Engineer, Power Generation",
+            "url": "https://jobs.ashbyhq.com/openai/94d44e8c-987f-4350-bb13-5a855be957db"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:94d44e8c-987f-4350-bb13-5a855be957db"
         },
         "95283afd-0a20-4e15-9034-d34e88b66e5d": {
           "alerted": true,
@@ -24649,6 +24782,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "7758cdc5-b5c9-4a5c-8c80-11678f7cba9d": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "elevenlabs",
+            "id": "7758cdc5-b5c9-4a5c-8c80-11678f7cba9d",
+            "intern_type": false,
+            "location": "United States",
+            "posted_at": "2026-11-06T22:37:16.834+00:00",
+            "source": "ashby",
+            "title": "Deployment Strategist, Public Sector (Federal & SLED) - North America",
+            "url": "https://jobs.ashbyhq.com/ElevenLabs/7758cdc5-b5c9-4a5c-8c80-11678f7cba9d"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:elevenlabs:7758cdc5-b5c9-4a5c-8c80-11678f7cba9d"
+        },
         "7a27a4f4-e32f-4ff2-a6b0-a01a5e187db0": {
           "alerted": true,
           "category": "Low priority",
@@ -37948,6 +38100,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5930b6bf-b4b1-4134-a183-832d69dd085f": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "perplexity",
+            "id": "5930b6bf-b4b1-4134-a183-832d69dd085f",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T22:59:09.141+00:00",
+            "source": "ashby",
+            "title": "Counsel, Product",
+            "url": "https://jobs.ashbyhq.com/Perplexity/5930b6bf-b4b1-4134-a183-832d69dd085f"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:perplexity:5930b6bf-b4b1-4134-a183-832d69dd085f"
+        },
         "598e1f7d-b802-4de2-99ac-90eb2bc33315": {
           "alerted": true,
           "category": "Low priority",
@@ -40390,6 +40561,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "1dfafad5-e177-4d31-bc94-e8b6d0a7a046": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "supabase",
+            "id": "1dfafad5-e177-4d31-bc94-e8b6d0a7a046",
+            "intern_type": false,
+            "location": "Remote, Global",
+            "posted_at": "2026-11-06T22:37:35.737+00:00",
+            "source": "ashby",
+            "title": "GTM, Strategic Planning ",
+            "url": "https://jobs.ashbyhq.com/supabase/1dfafad5-e177-4d31-bc94-e8b6d0a7a046"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:supabase:1dfafad5-e177-4d31-bc94-e8b6d0a7a046"
+        },
         "282d1dfb-b162-4ce4-a938-c4b2173230e0": {
           "alerted": true,
           "category": "Low priority",
@@ -42464,6 +42654,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "b604e8b8-a311-4848-9940-9ba77a67410c": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "vanta",
+            "id": "b604e8b8-a311-4848-9940-9ba77a67410c",
+            "intern_type": false,
+            "location": "Remote U.S.",
+            "posted_at": "2026-11-06T23:39:49.894+00:00",
+            "source": "ashby",
+            "title": "Senior Director of Design",
+            "url": "https://jobs.ashbyhq.com/vanta/b604e8b8-a311-4848-9940-9ba77a67410c"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:vanta:b604e8b8-a311-4848-9940-9ba77a67410c"
         },
         "b6122b6f-1f9f-45d0-8665-b1a7e89637ef": {
           "alerted": true,
@@ -48596,6 +48805,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8044715003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Affirm",
+            "id": "8044715003",
+            "location": "Remote US",
+            "posted_at": "2026-11-06T17:11:50-05:00",
+            "source": "greenhouse",
+            "title": "Director, Product Management (Consumer)",
+            "updated_at": "2026-11-06T17:11:50-05:00",
+            "url": "https://job-boards.greenhouse.io/affirm/jobs/8044715003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:affirm:8044715003"
+        },
         "8044928003": {
           "alerted": true,
           "category": "Low priority",
@@ -48841,6 +49069,44 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:affirm:8194342003"
+        },
+        "8196112003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Affirm",
+            "id": "8196112003",
+            "location": "Remote US",
+            "posted_at": "2026-11-06T17:47:37-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer II, Backend",
+            "updated_at": "2026-11-06T17:47:37-05:00",
+            "url": "https://job-boards.greenhouse.io/affirm/jobs/8196112003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:affirm:8196112003"
+        },
+        "8196114003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Affirm",
+            "id": "8196114003",
+            "location": "Remote Canada",
+            "posted_at": "2026-11-06T17:47:40-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer II, Backend",
+            "updated_at": "2026-11-06T17:47:40-05:00",
+            "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:affirm:8196114003"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -49308,6 +49574,44 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "7862109": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Airbnb",
+            "id": "7862109",
+            "location": "Canada",
+            "posted_at": "2026-07-17T18:27:10-04:00",
+            "source": "greenhouse",
+            "title": "Manager, Premium Support",
+            "updated_at": "2026-11-06T17:06:27-05:00",
+            "url": "https://careers.airbnb.com/positions/7862109?gh_jid=7862109"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:airbnb:7862109"
+        },
+        "7862110": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Airbnb",
+            "id": "7862110",
+            "location": "Canada",
+            "posted_at": "2026-07-17T18:27:07-04:00",
+            "source": "greenhouse",
+            "title": "Gestionnaire, Soutien Premium",
+            "updated_at": "2026-11-06T17:06:32-05:00",
+            "url": "https://careers.airbnb.com/positions/7862110?gh_jid=7862110"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:airbnb:7862110"
         },
         "7867435": {
           "alerted": true,
@@ -56871,6 +57175,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5366882008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5366882008",
+            "location": "San Francisco, CA | New York City, NY",
+            "posted_at": "2026-11-06T17:21:07-05:00",
+            "source": "greenhouse",
+            "title": "Recruiter, GTM",
+            "updated_at": "2026-11-06T17:21:07-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5366882008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5366882008"
+        },
         "5367436008": {
           "alerted": true,
           "category": "Low priority",
@@ -63887,6 +64210,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5462661008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5462661008",
+            "location": "San Francisco, CA | New York City, NY",
+            "posted_at": "2026-11-04T19:33:36-05:00",
+            "source": "greenhouse",
+            "title": "Learning & Education Specialist",
+            "updated_at": "2026-11-06T17:01:03-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462661008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5462661008"
+        },
         "5462761008": {
           "alerted": true,
           "category": "Low priority",
@@ -64486,6 +64828,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5468901008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5468901008",
+            "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+            "posted_at": "2026-11-06T19:04:03-05:00",
+            "source": "greenhouse",
+            "title": "Staff+ Software Engineer, STEM",
+            "updated_at": "2026-11-06T19:04:03-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468901008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5468901008"
+        },
         "5468937008": {
           "alerted": true,
           "category": "Low priority",
@@ -65015,6 +65376,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:anthropic:5475240008"
         },
+        "5475321008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5475321008",
+            "location": "San Francisco, CA | New York City, NY",
+            "posted_at": "2026-11-06T18:53:08-05:00",
+            "source": "greenhouse",
+            "title": "Brand Strategy Lead, Brand Architecture & Naming",
+            "updated_at": "2026-11-06T18:53:08-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475321008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5475321008"
+        },
         "5475456008": {
           "alerted": true,
           "category": "Low priority",
@@ -65033,6 +65413,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:anthropic:5475456008"
+        },
+        "5475830008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5475830008",
+            "location": "San Francisco, CA | New York City, NY",
+            "posted_at": "2026-11-06T17:38:20-05:00",
+            "source": "greenhouse",
+            "title": "Strategic Partner Development, Product Partnerships ",
+            "updated_at": "2026-11-06T17:38:20-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475830008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5475830008"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -68296,6 +68695,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "4704571006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Astranis",
+            "id": "4704571006",
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T17:30:11-05:00",
+            "source": "greenhouse",
+            "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
+            "updated_at": "2026-11-06T17:30:11-05:00",
+            "url": "https://job-boards.greenhouse.io/astranis/jobs/4704571006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:astranis:4704571006"
+        },
         "4704595006": {
           "alerted": true,
           "category": "Low priority",
@@ -70235,6 +70653,44 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "4727979006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Astranis",
+            "id": "4727979006",
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T17:54:16-05:00",
+            "source": "greenhouse",
+            "title": "Hardware Test Engineer",
+            "updated_at": "2026-11-06T17:54:16-05:00",
+            "url": "https://job-boards.greenhouse.io/astranis/jobs/4727979006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:astranis:4727979006"
+        },
+        "4728059006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Astranis",
+            "id": "4728059006",
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T19:32:33-05:00",
+            "source": "greenhouse",
+            "title": "Manufacturing Engineer, Machining & Additive Associate (Winter 2027)",
+            "updated_at": "2026-11-06T19:32:33-05:00",
+            "url": "https://job-boards.greenhouse.io/astranis/jobs/4728059006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:astranis:4728059006"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -70617,6 +71073,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:axonius:8181415003"
+        },
+        "8197691003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Axonius",
+            "id": "8197691003",
+            "location": "Remote US",
+            "posted_at": "2026-11-06T17:26:28-05:00",
+            "source": "greenhouse",
+            "title": "Product Marketing Manager",
+            "updated_at": "2026-11-06T17:26:28-05:00",
+            "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8197691003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:axonius:8197691003"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -72039,6 +72514,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:bigid:8931009002"
+        },
+        "8933995002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "BigID",
+            "id": "8933995002",
+            "location": "Remote- USA East Coast",
+            "posted_at": "2026-11-06T16:53:11-05:00",
+            "source": "greenhouse",
+            "title": "Staff Client Support Engineer",
+            "updated_at": "2026-11-06T17:17:30-05:00",
+            "url": "https://bigid.com/company/careers/job-details/8933995002?gh_jid=8933995002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:bigid:8933995002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -76898,6 +77392,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:block:5474380008"
+        },
+        "5476097008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Block",
+            "id": "5476097008",
+            "location": "San Francisco, CA, United States of America",
+            "posted_at": "2026-11-06T18:14:30-05:00",
+            "source": "greenhouse",
+            "title": "SMB Account Manager, Food & Beverage",
+            "updated_at": "2026-11-06T18:14:30-05:00",
+            "url": "http://block.xyz/careers/jobs/5476097008?gh_jid=5476097008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:block:5476097008"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -88191,6 +88704,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:brex:8932573002"
+        },
+        "8934022002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Brex",
+            "id": "8934022002",
+            "location": "San Francisco, California, United States",
+            "posted_at": "2026-11-06T17:10:38-05:00",
+            "source": "greenhouse",
+            "title": "Startup & VC Partnerships Manager",
+            "updated_at": "2026-11-06T17:10:38-05:00",
+            "url": "https://www.brex.com/careers/8934022002?gh_jid=8934022002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:brex:8934022002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -100500,6 +101032,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8327958": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Cloudflare",
+            "id": "8327958",
+            "location": "Hybrid",
+            "posted_at": "2026-11-06T18:35:41-05:00",
+            "source": "greenhouse",
+            "title": "Senior Majors Account Executive - Phoenix",
+            "updated_at": "2026-11-06T18:35:41-05:00",
+            "url": "https://boards.greenhouse.io/cloudflare/jobs/8327958?gh_jid=8327958"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:cloudflare:8327958"
+        },
         "8327965": {
           "alerted": true,
           "category": "Low priority",
@@ -101311,6 +101862,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:cloudflare:8358934"
+        },
+        "8360609": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Cloudflare",
+            "id": "8360609",
+            "location": "Hybrid",
+            "posted_at": "2026-11-06T18:35:18-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer - Load Balancing",
+            "updated_at": "2026-11-06T18:35:42-05:00",
+            "url": "https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:cloudflare:8360609"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -106311,6 +106881,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8348533": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Coinbase",
+            "id": "8348533",
+            "location": "Remote - Singapore",
+            "posted_at": "2026-11-06T18:07:34-05:00",
+            "source": "greenhouse",
+            "title": "Inbound Specialist II, Premium & Wealth",
+            "updated_at": "2026-11-06T18:07:34-05:00",
+            "url": "https://www.coinbase.com/careers/positions/8348533?gh_jid=8348533"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coinbase:8348533"
+        },
         "8350017": {
           "alerted": true,
           "category": "Low priority",
@@ -106693,6 +107282,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:coinbase:8359515"
+        },
+        "8360386": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Coinbase",
+            "id": "8360386",
+            "location": "Remote - USA",
+            "posted_at": "2026-11-06T17:01:40-05:00",
+            "source": "greenhouse",
+            "title": "Senior Product Manager",
+            "updated_at": "2026-11-06T17:01:40-05:00",
+            "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coinbase:8360386"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -114184,6 +114792,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "6250011004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Cribl",
+            "id": "6250011004",
+            "location": "Remote - United States",
+            "posted_at": "2026-11-06T18:23:59-05:00",
+            "source": "greenhouse",
+            "title": "Principal Product Security Engineer ",
+            "updated_at": "2026-11-06T18:23:59-05:00",
+            "url": "https://cribl.io/job-detail/?gh_jid=6250011004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:cribl:6250011004"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -137737,6 +138364,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:datadog:8347905"
         },
+        "8349721": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8349721",
+            "location": "New York, New York, USA",
+            "posted_at": "2026-11-06T17:37:29-05:00",
+            "source": "greenhouse",
+            "title": "Senior Demand Generation Marketing Manager – Integrated Campaigns",
+            "updated_at": "2026-11-06T17:37:29-05:00",
+            "url": "https://careers.datadoghq.com/detail/8349721/?gh_jid=8349721"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8349721"
+        },
         "8350419": {
           "alerted": true,
           "category": "Low priority",
@@ -150411,6 +151057,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "6218206004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Epic Games",
+            "id": "6218206004",
+            "location": "Cary,North Carolina,United States",
+            "posted_at": "2026-11-06T17:49:54-05:00",
+            "source": "greenhouse",
+            "title": "Player Marketing Intern (MBA)",
+            "updated_at": "2026-11-06T17:49:54-05:00",
+            "url": "https://epicgames.com/careers/jobs/6218206004?gh_jid=6218206004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:epicgames:6218206004"
+        },
         "6218273004": {
           "alerted": true,
           "category": "Low priority",
@@ -152244,6 +152909,63 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:faire:8929343002"
+        },
+        "8933930002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Faire",
+            "id": "8933930002",
+            "location": "San Francisco, CA",
+            "posted_at": "2026-11-06T17:49:56-05:00",
+            "source": "greenhouse",
+            "title": "SEO/AEO Content Strategist",
+            "updated_at": "2026-11-06T17:49:56-05:00",
+            "url": "https://boards.greenhouse.io/faire/jobs/8933930002?gh_jid=8933930002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:faire:8933930002"
+        },
+        "8934059002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Faire",
+            "id": "8934059002",
+            "location": "New York City, NY; San Francisco, CA",
+            "posted_at": "2026-11-06T17:58:10-05:00",
+            "source": "greenhouse",
+            "title": "Staff Product Manager, Brand Success",
+            "updated_at": "2026-11-06T17:59:28-05:00",
+            "url": "https://boards.greenhouse.io/faire/jobs/8934059002?gh_jid=8934059002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:faire:8934059002"
+        },
+        "8934080002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Faire",
+            "id": "8934080002",
+            "location": "San Francisco, CA",
+            "posted_at": "2026-11-06T19:53:15-05:00",
+            "source": "greenhouse",
+            "title": "Staff Product Manager, Retailer & App Experience ",
+            "updated_at": "2026-11-06T19:53:15-05:00",
+            "url": "https://boards.greenhouse.io/faire/jobs/8934080002?gh_jid=8934080002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:faire:8934080002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -158615,6 +159337,44 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:fivetran:8075761003"
         },
+        "8075947003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8075947003",
+            "location": "Denver, Colorado, United States, AMER",
+            "posted_at": "2026-11-06T17:48:41-05:00",
+            "source": "greenhouse",
+            "title": "Lifecycle Marketing Manager",
+            "updated_at": "2026-11-06T17:53:58-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8075947003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8075947003"
+        },
+        "8105142003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8105142003",
+            "location": "USA - Austin (dbt)",
+            "posted_at": "2026-11-06T17:14:12-05:00",
+            "source": "greenhouse",
+            "title": "Enterprise Demand Generation Lead — North America",
+            "updated_at": "2026-11-06T17:48:03-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8105142003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8105142003"
+        },
         "8158666003": {
           "alerted": true,
           "category": "Low priority",
@@ -158893,6 +159653,139 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:fivetran:8197321003"
+        },
+        "8198219003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8198219003",
+            "location": "Oakland, California, United States, AMER",
+            "posted_at": "2026-11-06T17:24:52-05:00",
+            "source": "greenhouse",
+            "title": "Sales Compensation Manager Systems and Analytics",
+            "updated_at": "2026-11-06T17:24:52-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8198219003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8198219003"
+        },
+        "8198242003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8198242003",
+            "location": "Denver, Colorado, United States, AMER",
+            "posted_at": "2026-11-06T17:36:19-05:00",
+            "source": "greenhouse",
+            "title": "Enterprise Demand Generation Lead — North America",
+            "updated_at": "2026-11-06T17:36:19-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8198242003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8198242003"
+        },
+        "8198244003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8198244003",
+            "location": "Oakland, California, United States",
+            "posted_at": "2026-11-06T17:37:38-05:00",
+            "source": "greenhouse",
+            "title": "Enterprise Demand Generation Lead — North America",
+            "updated_at": "2026-11-06T17:40:37-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8198244003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8198244003"
+        },
+        "8198254003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8198254003",
+            "location": "Oakland, California, United States",
+            "posted_at": "2026-11-06T17:55:04-05:00",
+            "source": "greenhouse",
+            "title": "Lifecycle Marketing Manager",
+            "updated_at": "2026-11-06T17:56:38-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8198254003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8198254003"
+        },
+        "8198258003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8198258003",
+            "location": "USA - Austin (dbt)",
+            "posted_at": "2026-11-06T17:57:58-05:00",
+            "source": "greenhouse",
+            "title": "Lifecycle Marketing Manager",
+            "updated_at": "2026-11-06T17:59:15-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8198258003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8198258003"
+        },
+        "8198260003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8198260003",
+            "location": "USA - Philadelphia (dbt)",
+            "posted_at": "2026-11-06T18:00:39-05:00",
+            "source": "greenhouse",
+            "title": "Lifecycle Marketing Manager",
+            "updated_at": "2026-11-06T18:00:39-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8198260003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8198260003"
+        },
+        "8198264003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Fivetran",
+            "id": "8198264003",
+            "location": "USA - New York (dbt)",
+            "posted_at": "2026-11-06T18:05:08-05:00",
+            "source": "greenhouse",
+            "title": "Lifecycle Marketing Manager",
+            "updated_at": "2026-11-06T18:06:12-05:00",
+            "url": "https://www.fivetran.com/careers/job?gh_jid=8198264003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:fivetran:8198264003"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -166560,6 +167453,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:gitlab:8928280002"
         },
+        "8928552002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8928552002",
+            "location": "Remote, United States",
+            "posted_at": "2026-11-06T19:43:56-05:00",
+            "source": "greenhouse",
+            "title": "Executive Assistant, Office of the CFO",
+            "updated_at": "2026-11-06T19:43:56-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8928552002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8928552002"
+        },
         "8928675002": {
           "alerted": true,
           "category": "Low priority",
@@ -166693,6 +167605,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:gitlab:8929514002"
         },
+        "8931179002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8931179002",
+            "location": "Remote, Canada; Remote, United States",
+            "posted_at": "2026-11-06T18:20:16-05:00",
+            "source": "greenhouse",
+            "title": "Lead, Community Growth Marketing Manager ",
+            "updated_at": "2026-11-06T18:20:16-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931179002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8931179002"
+        },
         "8931298002": {
           "alerted": true,
           "category": "Low priority",
@@ -166711,6 +167642,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:gitlab:8931298002"
+        },
+        "8931337002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8931337002",
+            "location": "Remote, United States",
+            "posted_at": "2026-11-06T17:55:25-05:00",
+            "source": "greenhouse",
+            "title": "Customer Success LATAM",
+            "updated_at": "2026-11-06T17:55:25-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931337002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8931337002"
         },
         "8931347002": {
           "alerted": true,
@@ -166749,6 +167699,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:gitlab:8931768002"
+        },
+        "8933640002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8933640002",
+            "location": "Remote, Canada; Remote, United States",
+            "posted_at": "2026-11-06T18:44:07-05:00",
+            "source": "greenhouse",
+            "title": "Principal Growth Marketing Strategist",
+            "updated_at": "2026-11-06T18:44:07-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8933640002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8933640002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -169899,6 +170868,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8119978": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Gusto, Inc.",
+            "id": "8119978",
+            "location": "Denver, CO - Hybrid; New York, NY - Hybrid",
+            "posted_at": "2026-09-01T12:35:09-04:00",
+            "source": "greenhouse",
+            "title": "CX Business Intelligence Analyst",
+            "updated_at": "2026-11-06T17:15:54-05:00",
+            "url": "https://job-boards.greenhouse.io/gusto/jobs/8119978"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gusto:8119978"
         },
         "8128422": {
           "alerted": true,
@@ -188872,6 +189860,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "4748418005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "LastPass",
+            "id": "4748418005",
+            "location": "Remote - US",
+            "posted_at": "2026-11-06T17:29:01-05:00",
+            "source": "greenhouse",
+            "title": "Campaign Operations Specialist",
+            "updated_at": "2026-11-06T17:29:01-05:00",
+            "url": "https://job-boards.greenhouse.io/lastpass/jobs/4748418005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lastpass:4748418005"
+        },
         "4750314005": {
           "alerted": true,
           "category": "Low priority",
@@ -198128,6 +199135,44 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:lucidmotors:5287579007"
+        },
+        "5287860007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "5287860007",
+            "location": "Dallas, TX",
+            "posted_at": "2026-11-06T16:39:35-05:00",
+            "source": "greenhouse",
+            "title": "Service Manager - Dallas, TX",
+            "updated_at": "2026-11-06T16:39:57-05:00",
+            "url": "https://lucidmotors.com/careers/search/5287860007?gh_jid=5287860007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:5287860007"
+        },
+        "5287942007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "5287942007",
+            "location": "Corte Madera, CA",
+            "posted_at": "2026-11-06T17:42:35-05:00",
+            "source": "greenhouse",
+            "title": "Part Time Brand Ambassador ",
+            "updated_at": "2026-11-06T17:42:35-05:00",
+            "url": "https://lucidmotors.com/careers/search/5287942007?gh_jid=5287942007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:5287942007"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -201977,6 +203022,82 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:mixpanel:8354380"
+        },
+        "8354527": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Mixpanel",
+            "id": "8354527",
+            "location": "New York City, US (Hybrid)",
+            "posted_at": "2026-11-06T18:24:56-05:00",
+            "source": "greenhouse",
+            "title": "Director of Product Management",
+            "updated_at": "2026-11-06T18:28:16-05:00",
+            "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8354527"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mixpanel:8354527"
+        },
+        "8354540": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Mixpanel",
+            "id": "8354540",
+            "location": "New York City, US (Hybrid)",
+            "posted_at": "2026-11-06T18:23:57-05:00",
+            "source": "greenhouse",
+            "title": "Senior Product Manager, Data",
+            "updated_at": "2026-11-06T18:27:00-05:00",
+            "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8354540"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mixpanel:8354540"
+        },
+        "8357913": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Mixpanel",
+            "id": "8357913",
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T18:13:33-05:00",
+            "source": "greenhouse",
+            "title": "Security Engineer",
+            "updated_at": "2026-11-06T18:13:33-05:00",
+            "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357913"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mixpanel:8357913"
+        },
+        "8357923": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Mixpanel",
+            "id": "8357923",
+            "location": "San Francisco",
+            "posted_at": "2026-11-06T18:34:14-05:00",
+            "source": "greenhouse",
+            "title": "Staff Security Engineer",
+            "updated_at": "2026-11-06T18:34:14-05:00",
+            "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357923"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mixpanel:8357923"
         },
         "8359615": {
           "alerted": true,
@@ -208302,6 +209423,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8337010": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "MongoDB",
+            "id": "8337010",
+            "location": "Dublin, Ireland; London",
+            "posted_at": "2026-11-06T16:37:18-05:00",
+            "source": "greenhouse",
+            "title": "VP, EMEA Marketing",
+            "updated_at": "2026-11-06T16:37:18-05:00",
+            "url": "https://www.mongodb.com/careers/job/?gh_jid=8337010"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mongodb:8337010"
+        },
         "8337355": {
           "alerted": true,
           "category": "Low priority",
@@ -210188,6 +211328,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:netlify:8919217002"
+        },
+        "8922485002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Netlify",
+            "id": "8922485002",
+            "location": "Remote",
+            "posted_at": "2026-11-06T19:51:41-05:00",
+            "source": "greenhouse",
+            "title": "Senior Strategic Finance Manager (Corporate Finance)",
+            "updated_at": "2026-11-06T19:59:23-05:00",
+            "url": "https://job-boards.greenhouse.io/netlify/jobs/8922485002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:netlify:8922485002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -214854,6 +216013,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:nuro:8357144"
+        },
+        "8360671": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Nuro",
+            "id": "8360671",
+            "location": "Mountain View, California (HQ)",
+            "posted_at": "2026-11-06T19:41:39-05:00",
+            "source": "greenhouse",
+            "title": "Technical Recruiter ",
+            "updated_at": "2026-11-06T19:41:39-05:00",
+            "url": "https://nuro.ai/careersitem?gh_jid=8360671"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:nuro:8360671"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -220967,6 +222145,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8304288": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8304288",
+            "location": "Chicago, Illinois; New York, New York; Seattle, Washington; Washington, DC",
+            "posted_at": "2026-10-21T11:55:12-04:00",
+            "source": "greenhouse",
+            "title": "Senior Data Analyst (Auth0)",
+            "updated_at": "2026-11-06T17:02:02-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8304288?gh_jid=8304288"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8304288"
+        },
         "8304868": {
           "alerted": true,
           "category": "Low priority",
@@ -221921,6 +223118,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:okta:8355916"
+        },
+        "8356592": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8356592",
+            "location": "Toronto, Ontario, Canada",
+            "posted_at": "2026-11-06T18:08:17-05:00",
+            "source": "greenhouse",
+            "title": "Staff Software Engineer, Integration Network (OIN)",
+            "updated_at": "2026-11-06T18:08:17-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8356592?gh_jid=8356592"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8356592"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -225978,6 +227194,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8140217": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Pinterest",
+            "id": "8140217",
+            "location": "Remote, US; San Francisco, CA, US; Seattle, WA, US; New York, NY, US",
+            "posted_at": "2026-10-01T13:00:52-04:00",
+            "source": "greenhouse",
+            "title": "UX Quantitative Research Intern (USA)",
+            "updated_at": "2026-11-06T18:53:14-05:00",
+            "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:pinterest:8140217"
+        },
         "8140219": {
           "alerted": true,
           "category": "Low priority",
@@ -226759,6 +227994,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8249279": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Pinterest",
+            "id": "8249279",
+            "location": "San Francisco, CA, US; Remote, US",
+            "posted_at": "2026-11-06T19:11:08-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Product Designer - Measurement, Data, & AI",
+            "updated_at": "2026-11-06T19:11:08-05:00",
+            "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8249279"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:pinterest:8249279"
         },
         "8257181": {
           "alerted": true,
@@ -230830,6 +232084,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8917054002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Point72",
+            "id": "8917054002",
+            "location": "New York, NY",
+            "posted_at": "2026-11-06T16:51:56-05:00",
+            "source": "greenhouse",
+            "title": "Quantitative Analyst, Private Credit",
+            "updated_at": "2026-11-06T16:51:56-05:00",
+            "url": "https://boards.greenhouse.io/point72/jobs/8917054002?gh_jid=8917054002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:point72:8917054002"
         },
         "8919989002": {
           "alerted": true,
@@ -239813,6 +241086,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8880106002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Relativity Space",
+            "id": "8880106002",
+            "location": "Long Beach, California, United States",
+            "posted_at": "2026-11-06T18:36:54-05:00",
+            "source": "greenhouse",
+            "title": "Vehicle Structures Engineer I (Heat Shield)",
+            "updated_at": "2026-11-06T18:36:54-05:00",
+            "url": "https://boards.greenhouse.io/relativity/jobs/8880106002?gh_jid=8880106002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:relativity:8880106002"
         },
         "8880122002": {
           "alerted": true,
@@ -259423,6 +260715,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8165912003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Rocket Lab Corporation",
+            "id": "8165912003",
+            "location": "Long Beach, CA",
+            "posted_at": "2026-11-06T19:11:20-05:00",
+            "source": "greenhouse",
+            "title": "Accounts Payable Specialist",
+            "updated_at": "2026-11-06T19:11:20-05:00",
+            "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8165912003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rocketlab:8165912003"
+        },
         "8179116003": {
           "alerted": true,
           "category": "Low priority",
@@ -259881,6 +261192,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rocketlab:8197860003"
+        },
+        "8197875003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Rocket Lab Corporation",
+            "id": "8197875003",
+            "location": "Toronto, CAN",
+            "posted_at": "2026-11-06T17:51:44-05:00",
+            "source": "greenhouse",
+            "title": "Senior Inventory Coordinator I",
+            "updated_at": "2026-11-06T17:51:44-05:00",
+            "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8197875003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rocketlab:8197875003"
         },
         "8197890003": {
           "alerted": true,
@@ -261967,6 +263297,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8268237": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8268237",
+            "location": "Austin, TX",
+            "posted_at": "2026-11-06T17:01:49-05:00",
+            "source": "greenhouse",
+            "title": "Sales Engineering Intern, Summer 2027",
+            "updated_at": "2026-11-06T17:01:49-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8268237?gh_jid=8268237"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8268237"
         },
         "8273254": {
           "alerted": true,
@@ -267097,6 +268446,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8289005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8289005",
+            "location": "Remote - US",
+            "posted_at": "2026-11-06T16:58:47-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Firmware Engineer II",
+            "updated_at": "2026-11-06T16:58:47-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8289005?gh_jid=8289005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8289005"
+        },
         "8300535": {
           "alerted": true,
           "category": "Low priority",
@@ -268643,6 +270011,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:samsara:8353140"
         },
+        "8353142": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8353142",
+            "location": "Remote - US",
+            "posted_at": "2026-11-06T17:28:26-05:00",
+            "source": "greenhouse",
+            "title": "Senior Tax Accountant",
+            "updated_at": "2026-11-06T17:28:26-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8353142?gh_jid=8353142"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8353142"
+        },
         "8353144": {
           "alerted": true,
           "category": "Low priority",
@@ -268680,6 +270067,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:samsara:8353146"
+        },
+        "8353150": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8353150",
+            "location": "Remote - US",
+            "posted_at": "2026-11-06T17:33:59-05:00",
+            "source": "greenhouse",
+            "title": "Enterprise Sales Engineer - Public Sector - West",
+            "updated_at": "2026-11-06T17:34:12-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8353150?gh_jid=8353150"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8353150"
         },
         "8353156": {
           "alerted": true,
@@ -269136,6 +270542,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:samsara:8359064"
+        },
+        "8359068": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8359068",
+            "location": "Remote - Mexico",
+            "posted_at": "2026-11-06T16:36:14-05:00",
+            "source": "greenhouse",
+            "title": "Accounts Payable Specialist",
+            "updated_at": "2026-11-06T16:36:14-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8359068?gh_jid=8359068"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8359068"
         },
         "8359070": {
           "alerted": true,
@@ -273743,6 +275168,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:sofi:8089614003"
+        },
+        "8197346003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SoFi",
+            "id": "8197346003",
+            "location": "CA - San Francisco; WA - Seattle",
+            "posted_at": "2026-11-06T17:07:27-05:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer, AI Platform - Prism",
+            "updated_at": "2026-11-06T17:07:27-05:00",
+            "url": "https://sofi.com/careers/job/8197346003?gh_jid=8197346003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:sofi:8197346003"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -321625,6 +323069,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8925572002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8925572002",
+            "location": "College Station, TX",
+            "posted_at": "2026-11-06T19:52:33-05:00",
+            "source": "greenhouse",
+            "title": "Process Safety Engineer",
+            "updated_at": "2026-11-06T19:52:33-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8925572002?gh_jid=8925572002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8925572002"
+        },
         "8925583002": {
           "alerted": true,
           "category": "Low priority",
@@ -324423,6 +325886,101 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8932746002"
         },
+        "8932774002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932774002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-06T17:47:03-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Environmental Regulatory Engineer, Air Permitting",
+            "updated_at": "2026-11-06T19:46:30-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932774002?gh_jid=8932774002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932774002"
+        },
+        "8932780002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932780002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-06T17:47:05-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Environmental Regulatory Engineer, Air Permitting",
+            "updated_at": "2026-11-06T19:47:34-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932780002?gh_jid=8932780002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932780002"
+        },
+        "8932782002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932782002",
+            "location": "Pecan Island, LA",
+            "posted_at": "2026-11-06T17:47:06-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Environmental Regulatory Engineer, Air Permitting",
+            "updated_at": "2026-11-06T19:46:50-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932782002?gh_jid=8932782002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932782002"
+        },
+        "8932787002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932787002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-06T17:58:04-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Counsel, Datacenter Development & Infrastructure ",
+            "updated_at": "2026-11-06T17:58:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932787002?gh_jid=8932787002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932787002"
+        },
+        "8932797002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932797002",
+            "location": "Redmond, WA",
+            "posted_at": "2026-11-06T18:17:39-05:00",
+            "source": "greenhouse",
+            "title": "Environmental Health & Safety Engineer (Satellites)",
+            "updated_at": "2026-11-06T18:17:39-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932797002?gh_jid=8932797002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932797002"
+        },
         "8932812002": {
           "alerted": true,
           "category": "Low priority",
@@ -324480,6 +326038,63 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8932865002"
         },
+        "8932871002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932871002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-06T18:48:10-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Automation & Controls Engineer, Insource Manufacturing (Starlink)",
+            "updated_at": "2026-11-06T18:48:10-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932871002?gh_jid=8932871002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932871002"
+        },
+        "8932874002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932874002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-06T18:47:57-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Mechanical Engineer, Insource Manufacturing (Starlink)",
+            "updated_at": "2026-11-06T18:47:57-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932874002?gh_jid=8932874002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932874002"
+        },
+        "8932877002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8932877002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-06T19:54:03-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Equipment Safety Engineer",
+            "updated_at": "2026-11-06T19:54:03-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8932877002?gh_jid=8932877002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8932877002"
+        },
         "8933372002": {
           "alerted": true,
           "category": "Low priority",
@@ -324498,6 +326113,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8933372002"
+        },
+        "8933507002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933507002",
+            "location": "Washington, DC",
+            "posted_at": "2026-11-06T17:06:17-05:00",
+            "source": "greenhouse",
+            "title": "Principal Network Engineer, AI Infrastructure (Starshield)",
+            "updated_at": "2026-11-06T17:06:17-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933507002?gh_jid=8933507002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933507002"
         },
         "8933527002": {
           "alerted": true,
@@ -324537,6 +326171,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8933529002"
         },
+        "8933589002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933589002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-06T19:53:13-05:00",
+            "source": "greenhouse",
+            "title": "Environmental Health & Safety Engineer",
+            "updated_at": "2026-11-06T19:53:13-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933589002?gh_jid=8933589002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933589002"
+        },
         "8933642002": {
           "alerted": true,
           "category": "Low priority",
@@ -324555,6 +326208,63 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8933642002"
+        },
+        "8933711002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933711002",
+            "location": "McGregor, TX",
+            "posted_at": "2026-11-06T18:44:16-05:00",
+            "source": "greenhouse",
+            "title": "New Graduate Engineer, Mechanical",
+            "updated_at": "2026-11-06T18:45:04-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933711002"
+        },
+        "8933837002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933837002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-06T19:38:01-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Environmental Engineer, Wetlands & Regulatory Compliance",
+            "updated_at": "2026-11-06T19:38:06-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933837002?gh_jid=8933837002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933837002"
+        },
+        "8933851002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933851002",
+            "location": "Pecan Island, LA",
+            "posted_at": "2026-11-06T19:38:03-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Environmental Engineer, Wetlands & Regulatory Compliance",
+            "updated_at": "2026-11-06T19:38:06-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933851002?gh_jid=8933851002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933851002"
         },
         "8933873002": {
           "alerted": true,
@@ -324612,6 +326322,82 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8933926002"
+        },
+        "8933928002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933928002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-06T17:50:51-05:00",
+            "source": "greenhouse",
+            "title": "IT Network Infrastructure Engineer, Launch",
+            "updated_at": "2026-11-06T17:50:51-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933928002?gh_jid=8933928002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933928002"
+        },
+        "8933942002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933942002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-06T16:36:13-05:00",
+            "source": "greenhouse",
+            "title": "Propulsion Engineer, Avionics Manufacturing (Raptor)",
+            "updated_at": "2026-11-06T16:36:13-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933942002?gh_jid=8933942002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933942002"
+        },
+        "8934049002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934049002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-06T17:52:56-05:00",
+            "source": "greenhouse",
+            "title": "Manufacturing Engineer (Starlink Development) ",
+            "updated_at": "2026-11-06T17:53:04-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934049002?gh_jid=8934049002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934049002"
+        },
+        "8934146002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934146002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-06T19:26:50-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Security Engineer (Vulnerability Management)",
+            "updated_at": "2026-11-06T19:27:37-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934146002?gh_jid=8934146002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934146002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -340285,6 +342071,120 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:tailscale:4751877005"
+        },
+        "4751923005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Tailscale",
+            "id": "4751923005",
+            "location": "Remote (Canada)",
+            "posted_at": "2026-11-06T18:38:37-05:00",
+            "source": "greenhouse",
+            "title": "Product Manager, Workload Connectivity",
+            "updated_at": "2026-11-06T18:41:10-05:00",
+            "url": "https://job-boards.greenhouse.io/tailscale/jobs/4751923005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:tailscale:4751923005"
+        },
+        "4751952005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Tailscale",
+            "id": "4751952005",
+            "location": "Remote (United States)",
+            "posted_at": "2026-11-06T18:38:40-05:00",
+            "source": "greenhouse",
+            "title": "Product Manager, Workload Connectivity",
+            "updated_at": "2026-11-06T18:41:25-05:00",
+            "url": "https://job-boards.greenhouse.io/tailscale/jobs/4751952005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:tailscale:4751952005"
+        },
+        "4752037005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Tailscale",
+            "id": "4752037005",
+            "location": "Remote (Canada)",
+            "posted_at": "2026-11-06T17:08:11-05:00",
+            "source": "greenhouse",
+            "title": "Senior Analyst Relations Manager",
+            "updated_at": "2026-11-06T17:08:11-05:00",
+            "url": "https://job-boards.greenhouse.io/tailscale/jobs/4752037005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:tailscale:4752037005"
+        },
+        "4752040005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Tailscale",
+            "id": "4752040005",
+            "location": "Remote (United States)",
+            "posted_at": "2026-11-06T17:08:13-05:00",
+            "source": "greenhouse",
+            "title": "Senior Analyst Relations Manager",
+            "updated_at": "2026-11-06T17:08:13-05:00",
+            "url": "https://job-boards.greenhouse.io/tailscale/jobs/4752040005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:tailscale:4752040005"
+        },
+        "4752264005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Tailscale",
+            "id": "4752264005",
+            "location": "Hybrid (Toronto, Ontario)",
+            "posted_at": "2026-11-06T18:23:31-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Commercial Expansion",
+            "updated_at": "2026-11-06T18:27:45-05:00",
+            "url": "https://job-boards.greenhouse.io/tailscale/jobs/4752264005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:tailscale:4752264005"
+        },
+        "4752271005": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Tailscale",
+            "id": "4752271005",
+            "location": "Hybrid (Vancouver, British Columbia)",
+            "posted_at": "2026-11-06T18:23:33-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Commercial Expansion",
+            "updated_at": "2026-11-06T18:27:45-05:00",
+            "url": "https://job-boards.greenhouse.io/tailscale/jobs/4752271005"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:tailscale:4752271005"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -343195,6 +345095,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8147829": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8147829",
+            "location": "Toronto, CAN",
+            "posted_at": "2026-08-26T13:59:11-04:00",
+            "source": "greenhouse",
+            "title": "Software Engineer II, Earnings",
+            "updated_at": "2026-11-06T17:41:39-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8147829"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8147829"
         },
         "8154719": {
           "alerted": true,
@@ -347493,6 +349412,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:toast:8360025"
         },
+        "8360139": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8360139",
+            "location": "Crystal Lake, IL",
+            "posted_at": "2026-11-06T17:00:00-05:00",
+            "source": "greenhouse",
+            "title": "Territory Account Executive , Retail - Crystal Lake, IL",
+            "updated_at": "2026-11-06T17:00:00-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8360139"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8360139"
+        },
         "8360324": {
           "alerted": true,
           "category": "Low priority",
@@ -347511,6 +349449,63 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:toast:8360324"
+        },
+        "8360362": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8360362",
+            "location": "Schaumburg, IL",
+            "posted_at": "2026-11-06T17:00:01-05:00",
+            "source": "greenhouse",
+            "title": "Territory Account Executive , Retail - Schaumburg, IL",
+            "updated_at": "2026-11-06T17:00:01-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8360362"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8360362"
+        },
+        "8360366": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8360366",
+            "location": "Hoffman Estates, IL",
+            "posted_at": "2026-11-06T17:00:01-05:00",
+            "source": "greenhouse",
+            "title": "Territory Account Executive , Retail - Hoffman Estates, IL",
+            "updated_at": "2026-11-06T17:00:01-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8360366"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8360366"
+        },
+        "8360368": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8360368",
+            "location": "Bartlett, IL",
+            "posted_at": "2026-11-06T17:00:01-05:00",
+            "source": "greenhouse",
+            "title": "Territory Account Executive , Retail - Bartlett, IL",
+            "updated_at": "2026-11-06T17:00:01-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8360368"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8360368"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -349799,6 +351794,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8065040": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Twilio",
+            "id": "8065040",
+            "location": "Remote - US",
+            "posted_at": "2026-07-17T18:35:00-04:00",
+            "source": "greenhouse",
+            "title": "Senior Security Engineer, Incident Response",
+            "updated_at": "2026-11-06T17:03:07-05:00",
+            "url": "https://job-boards.greenhouse.io/twilio/jobs/8065040"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:twilio:8065040"
         },
         "8067027": {
           "alerted": true,
@@ -360059,6 +362073,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5224027007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Verkada",
+            "id": "5224027007",
+            "location": "San Mateo, CA United States",
+            "posted_at": "2026-08-27T17:37:23-04:00",
+            "source": "greenhouse",
+            "title": "Localization Manager",
+            "updated_at": "2026-11-06T19:37:32-05:00",
+            "url": "https://job-boards.greenhouse.io/verkada/jobs/5224027007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:verkada:5224027007"
+        },
         "5226046007": {
           "alerted": true,
           "category": "Low priority",
@@ -364443,6 +366476,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:zoominfo:8929197002"
+        },
+        "8929222002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "ZoomInfo Technologies LLC",
+            "id": "8929222002",
+            "location": "Remote - Canada; Remote-Ireland",
+            "posted_at": "2026-11-06T16:55:51-05:00",
+            "source": "greenhouse",
+            "title": "FinOps Engineer III",
+            "updated_at": "2026-11-06T16:55:51-05:00",
+            "url": "https://www.zoominfo.com/careers?gh_jid=8929222002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:zoominfo:8929222002"
         },
         "8931058002": {
           "alerted": true,
@@ -369153,6 +371205,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "5255124007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Zscaler",
+            "id": "5255124007",
+            "location": "Bellevue, Washington, USA; Remote - USA; San Jose, California, USA",
+            "posted_at": "2026-11-06T17:49:40-05:00",
+            "source": "greenhouse",
+            "title": "Senior Manager, AMS Deal Desk",
+            "updated_at": "2026-11-06T17:49:40-05:00",
+            "url": "https://job-boards.greenhouse.io/zscaler/jobs/5255124007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:zscaler:5255124007"
         },
         "5255300007": {
           "alerted": true,
@@ -384193,6 +386264,44 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "a2bb6f71-abcf-4938-a3a2-803b5d7c0753": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "Intern",
+            "id": "a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
+            "location": "Dallas, Texas",
+            "posted_at": "2026-11-07T00:54:56.391000+00:00",
+            "source": "lever",
+            "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
+            "url": "https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:a2bb6f71-abcf-4938-a3a2-803b5d7c0753"
+        },
+        "a33572c0-d03e-4be9-812a-673bb66e3a6e": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "Intern",
+            "id": "a33572c0-d03e-4be9-812a-673bb66e3a6e",
+            "location": "Seattle, Washington",
+            "posted_at": "2026-11-06T21:37:29.426000+00:00",
+            "source": "lever",
+            "title": "2027 Summer Intern - Supply Chain Materials Planner - 6434",
+            "url": "https://jobs.lever.co/shieldai/a33572c0-d03e-4be9-812a-673bb66e3a6e"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:a33572c0-d03e-4be9-812a-673bb66e3a6e"
         },
         "a3eae89e-5a2b-4e6a-8e9c-e315923b0c71": {
           "alerted": true,
@@ -407401,6 +409510,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "614f35d6-a415-4f44-be38-cb38877df1db": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "zoox",
+            "employment_type": "Internship/Co-op",
+            "id": "614f35d6-a415-4f44-be38-cb38877df1db",
+            "location": "Foster City, CA",
+            "posted_at": "2026-11-07T00:13:23.740000+00:00",
+            "source": "lever",
+            "title": "Safety Reporting & Benchmarking Intern [Summer 2027]",
+            "url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:zoox:614f35d6-a415-4f44-be38-cb38877df1db"
+        },
         "62ba74a7-862e-4561-904b-075f3b4c8a7b": {
           "alerted": true,
           "category": "Low priority",
@@ -408018,6 +410146,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "85c6aec7-8da2-445d-9c4d-812365dbce97": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "zoox",
+            "employment_type": "Internship/Co-op",
+            "id": "85c6aec7-8da2-445d-9c4d-812365dbce97",
+            "location": "Foster City, CA",
+            "posted_at": "2026-11-06T23:14:17.184000+00:00",
+            "source": "lever",
+            "title": "Data Science Intern [Summer 2027]",
+            "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:zoox:85c6aec7-8da2-445d-9c4d-812365dbce97"
         },
         "86b340fe-0d63-4f03-9aec-72b958f96c7f": {
           "alerted": true,
@@ -408862,6 +411009,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "affbfa7d-30c5-4639-aa56-2ba138200bd8": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "zoox",
+            "employment_type": "Internship/Co-op",
+            "id": "affbfa7d-30c5-4639-aa56-2ba138200bd8",
+            "location": "Foster City, CA",
+            "posted_at": "2026-11-06T23:11:55.589000+00:00",
+            "source": "lever",
+            "title": "Program Manager, Infrastructure Operations Intern [Summer 2027]",
+            "url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:zoox:affbfa7d-30c5-4639-aa56-2ba138200bd8"
         },
         "b1bba11f-2b04-4a4a-8095-752c04182af1": {
           "alerted": true,
@@ -409821,6 +411987,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "fbc2a7a6-b916-4f3f-b825-a4b3d5d60852": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "zoox",
+            "employment_type": "Internship/Co-op",
+            "id": "fbc2a7a6-b916-4f3f-b825-a4b3d5d60852",
+            "location": "Foster City, CA",
+            "posted_at": "2026-11-07T00:20:36.768000+00:00",
+            "source": "lever",
+            "title": "Process Improvement Intern [2027]",
+            "url": "https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:zoox:fbc2a7a6-b916-4f3f-b825-a4b3d5d60852"
         },
         "fc0e28a6-99ba-4298-80b4-a62986363dae": {
           "alerted": true,
@@ -415887,6 +418072,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "/job/McLean-VA/AI-Engineer-5--AI-Foundations--Evaluations-and-Agentic-Workflows-_R1005407": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/McLean-VA/AI-Engineer-5--AI-Foundations--Evaluations-and-Agentic-Workflows-_R1005407",
+            "location": "5 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "AI Engineer 5 (AI Foundations: Evaluations and Agentic Workflows)",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--AI-Foundations--Evaluations-and-Agentic-Workflows-_R1005407"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/McLean-VA/AI-Engineer-5--AI-Foundations--Evaluations-and-Agentic-Workflows-_R1005407"
+        },
         "/job/McLean-VA/AI-Engineer-5--AI-Foundations--LLM-Core-and-Agentic-AI-_R1001531-1": {
           "alerted": true,
           "category": "Low priority",
@@ -416107,6 +418311,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "/job/McLean-VA/Applied-Researcher-5--AI-Foundations--Evaluation-and-Agentic-Workflows-_R1005410-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/McLean-VA/Applied-Researcher-5--AI-Foundations--Evaluation-and-Agentic-Workflows-_R1005410-1",
+            "location": "4 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Applied Researcher 5 (AI Foundations: Evaluation and Agentic Workflows)",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-5--AI-Foundations--Evaluation-and-Agentic-Workflows-_R1005410-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/McLean-VA/Applied-Researcher-5--AI-Foundations--Evaluation-and-Agentic-Workflows-_R1005410-1"
         },
         "/job/McLean-VA/Applied-Researcher-5_R1001146": {
           "alerted": true,
@@ -418047,6 +420270,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "/job/McLean-VA/Director--Product-Development--AI-Enablement_R1005361-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/McLean-VA/Director--Product-Development--AI-Enablement_R1005361-1",
+            "location": "3 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Director, Product Development, AI Enablement",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Product-Development--AI-Enablement_R1005361-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/McLean-VA/Director--Product-Development--AI-Enablement_R1005361-1"
+        },
         "/job/McLean-VA/Director--Product-Management---Associate-Experience--Workplace-Experience-Platform_R1003685-1": {
           "alerted": true,
           "category": "Low priority",
@@ -418526,6 +420768,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "/job/McLean-VA/Director--Risk-Management_R1000129-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/McLean-VA/Director--Risk-Management_R1000129-1",
+            "location": "4 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Director, Risk Management",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Risk-Management_R1000129-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/McLean-VA/Director--Risk-Management_R1000129-1"
         },
         "/job/McLean-VA/Director--Risk-Management_R1000600-2": {
           "alerted": true,
@@ -434281,6 +436542,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "/job/New-York-NY/Director--Full-Stack-Engineer---AML--Anti-Money-Laundering-_R1005391-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/New-York-NY/Director--Full-Stack-Engineer---AML--Anti-Money-Laundering-_R1005391-1",
+            "location": "3 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Director, Full-Stack Engineer - AML (Anti Money Laundering)",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Director--Full-Stack-Engineer---AML--Anti-Money-Laundering-_R1005391-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/New-York-NY/Director--Full-Stack-Engineer---AML--Anti-Money-Laundering-_R1005391-1"
+        },
         "/job/New-York-NY/Director--Product-Designer---Bank-Self-Servicing-Design_R1004612-1": {
           "alerted": true,
           "category": "Low priority",
@@ -440279,6 +442559,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "/job/Plano-TX/Principal-Associate--Design-Operations_R246862-2": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/Plano-TX/Principal-Associate--Design-Operations_R246862-2",
+            "location": "Plano, TX",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Principal Associate, Design Operations",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Principal-Associate--Design-Operations_R246862-2"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/Plano-TX/Principal-Associate--Design-Operations_R246862-2"
+        },
         "/job/Plano-TX/Principal-Associate--HR-Business-Partner---Financial-Services-Emerging-Talent_R1003218-1": {
           "alerted": true,
           "category": "Low priority",
@@ -445545,6 +447844,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "/job/Riverwoods-IL/Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005387-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/Riverwoods-IL/Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005387-1",
+            "location": "2 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Principal Relationship Management and Business Development Manager (Remote-Eligible)",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005387-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/Riverwoods-IL/Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005387-1"
+        },
         "/job/Riverwoods-IL/R1000631-Senior-Manager--Data-Science---AI-Foundations--Open-_R1000648-1": {
           "alerted": true,
           "category": "Low priority",
@@ -445818,6 +448136,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "/job/Riverwoods-IL/Sr-Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005388-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T01:04:19+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/Riverwoods-IL/Sr-Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005388-1",
+            "location": "2 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Sr Principal Relationship Management and Business Development Manager (Remote-Eligible)",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Sr-Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005388-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/Riverwoods-IL/Sr-Principal-Relationship-Management-and-Business-Development-Manager--Remote-Eligible-_R1005388-1"
         },
         "/job/Riverwoods-IL/Sr-Risk-Manager---Data-Governance-and-Pricing_R1000362-1": {
           "alerted": true,
