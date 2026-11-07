@@ -30177,6 +30177,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a",
+            "intern_type": false,
+            "location": "New York",
+            "posted_at": "2026-11-07T01:46:33.229+00:00",
+            "source": "ashby",
+            "title": "NY Standard Job Posting",
+            "url": "https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a"
+        },
         "8afd7e79-96be-413f-a8a8-391e7d2113e6": {
           "alerted": true,
           "category": "Low priority",
@@ -31066,6 +31085,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "ac406ea9-bd7f-4a50-9341-8370ceca3949": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "ac406ea9-bd7f-4a50-9341-8370ceca3949",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-07T01:48:01.486+00:00",
+            "source": "ashby",
+            "title": "SF Standard Job Posting",
+            "url": "https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:ac406ea9-bd7f-4a50-9341-8370ceca3949"
         },
         "ad1fb947-0858-4e81-a8e0-a7d4a2822201": {
           "alerted": true,
@@ -65356,6 +65394,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:anthropic:5474544008"
+        },
+        "5474559008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5474559008",
+            "location": "San Francisco, CA | New York City, NY",
+            "posted_at": "2026-11-06T20:19:27-05:00",
+            "source": "greenhouse",
+            "title": "Legal Specialist, Law Enforcement",
+            "updated_at": "2026-11-06T20:19:27-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474559008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5474559008"
         },
         "5475240008": {
           "alerted": true,
@@ -127066,6 +127123,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8811059002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "8811059002",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-07T02:00:25-05:00",
+            "source": "greenhouse",
+            "title": "Tech Sourcer (Contract)",
+            "updated_at": "2026-11-07T02:00:25-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811059002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:8811059002"
+        },
         "8811265002": {
           "alerted": true,
           "category": "Low priority",
@@ -138383,6 +138459,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:datadog:8349721"
         },
+        "8350101": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8350101",
+            "location": "New York, New York, USA",
+            "posted_at": "2026-11-06T20:19:55-05:00",
+            "source": "greenhouse",
+            "title": "Senior Video Editor",
+            "updated_at": "2026-11-06T20:19:55-05:00",
+            "url": "https://careers.datadoghq.com/detail/8350101/?gh_jid=8350101"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8350101"
+        },
         "8350419": {
           "alerted": true,
           "category": "Low priority",
@@ -138399,6 +138494,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8354556": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8354556",
+            "location": "Singapore, Singapore",
+            "posted_at": "2026-11-06T23:29:49-05:00",
+            "source": "greenhouse",
+            "title": "Commercial Account Executive",
+            "updated_at": "2026-11-06T23:29:49-05:00",
+            "url": "https://careers.datadoghq.com/detail/8354556/?gh_jid=8354556"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8354556"
         },
         "8355189": {
           "alerted": true,
@@ -261249,6 +261363,44 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rocketlab:8197927003"
+        },
+        "8198345003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "Rocket Lab Corporation",
+            "id": "8198345003",
+            "location": "Long Beach, CA",
+            "posted_at": "2026-11-06T21:04:31-05:00",
+            "source": "greenhouse",
+            "title": "Senior Manufacturing Engineer II - Avionics & Test",
+            "updated_at": "2026-11-06T21:08:03-05:00",
+            "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8198345003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rocketlab:8198345003"
+        },
+        "8198347003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "Rocket Lab Corporation",
+            "id": "8198347003",
+            "location": "Long Beach, CA",
+            "posted_at": "2026-11-06T21:08:34-05:00",
+            "source": "greenhouse",
+            "title": "Senior Manufacturing Engineer I - Avionics & Test",
+            "updated_at": "2026-11-06T21:08:34-05:00",
+            "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8198347003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rocketlab:8198347003"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -326361,6 +326513,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8933942002"
         },
+        "8933985002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8933985002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-06T20:23:04-05:00",
+            "source": "greenhouse",
+            "title": "Loads & Dynamics Engineer (Starshield) ",
+            "updated_at": "2026-11-06T20:23:04-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8933985002?gh_jid=8933985002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8933985002"
+        },
         "8934049002": {
           "alerted": true,
           "category": "Low priority",
@@ -326379,6 +326550,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8934049002"
+        },
+        "8934072002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934072002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-06T20:23:56-05:00",
+            "source": "greenhouse",
+            "title": "Shipping Specialist (Logistics HT) - 1st Shift",
+            "updated_at": "2026-11-06T20:23:56-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934072002?gh_jid=8934072002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934072002"
         },
         "8934146002": {
           "alerted": true,
@@ -407969,6 +408159,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T07:02:13+00:00",
+          "job": {
+            "company": "zoox",
+            "employment_type": "Internship/Co-op",
+            "id": "0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+            "location": "Foster City, CA",
+            "posted_at": "2026-11-07T00:27:55.431000+00:00",
+            "source": "lever",
+            "title": "AI Workflows & Safety Decision Making Intern [2027]",
+            "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1"
         },
         "01ff8f1c-eda8-4c45-9cca-b4461d8757d5": {
           "alerted": true,
