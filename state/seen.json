@@ -116416,6 +116416,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "7647294002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T13:53:39+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "7647294002",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-07T03:50:11-05:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer - Backend Infrastructure",
+            "updated_at": "2026-11-07T03:50:11-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:7647294002"
+        },
         "7647353002": {
           "alerted": true,
           "category": "Low priority",
@@ -156634,6 +156653,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:figma:6243897004"
+        },
+        "6245293004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T13:53:39+00:00",
+          "job": {
+            "company": "Figma",
+            "id": "6245293004",
+            "location": "London, England",
+            "posted_at": "2026-11-07T05:27:13-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Sales - Figma Weave (London, United Kingdom)",
+            "updated_at": "2026-11-07T05:27:13-05:00",
+            "url": "https://boards.greenhouse.io/figma/jobs/6245293004?gh_jid=6245293004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:figma:6245293004"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -249618,6 +249656,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8213690": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T13:53:39+00:00",
+          "job": {
+            "company": "Roblox",
+            "id": "8213690",
+            "location": "Tokyo Prefecture, Japan",
+            "posted_at": "2026-09-23T21:50:55-04:00",
+            "source": "greenhouse",
+            "title": "Head of Business Development, Japan",
+            "updated_at": "2026-11-07T07:45:24-05:00",
+            "url": "https://careers.roblox.com/jobs/8213690?gh_jid=8213690"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:roblox:8213690"
         },
         "8213852": {
           "alerted": true,
