@@ -148768,6 +148768,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8346174": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T18:23:22+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8346174",
+            "location": "Singapore",
+            "posted_at": "2026-11-07T09:25:20-05:00",
+            "source": "greenhouse",
+            "title": "Senior Support Engineer",
+            "updated_at": "2026-11-07T09:25:20-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8346174&gh_jid=8346174"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8346174"
+        },
         "8346195": {
           "alerted": true,
           "category": "Low priority",
@@ -149262,6 +149281,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:elastic:8360384"
+        },
+        "8362973": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T18:23:22+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8362973",
+            "location": "Bangalore, India",
+            "posted_at": "2026-11-07T09:24:51-05:00",
+            "source": "greenhouse",
+            "title": "Senior Support Engineer",
+            "updated_at": "2026-11-07T09:24:51-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8362973&gh_jid=8362973"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8362973"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -336789,6 +336827,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8250475": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T18:23:22+00:00",
+          "job": {
+            "company": "Stripe",
+            "id": "8250475",
+            "location": "Toronto, Canada ",
+            "posted_at": "2026-11-07T12:49:05-05:00",
+            "source": "greenhouse",
+            "title": "Account Executive, SMB Grower (French speaking)",
+            "updated_at": "2026-11-07T13:20:04-05:00",
+            "url": "https://stripe.com/jobs/search?gh_jid=8250475"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:stripe:8250475"
+        },
         "8250483": {
           "alerted": true,
           "category": "Low priority",
@@ -380349,6 +380406,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "19bfc183-ed27-4353-9b68-b22a662bef2b": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-07T18:23:22+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "Full Time Employee",
+            "id": "19bfc183-ed27-4353-9b68-b22a662bef2b",
+            "location": "Los Angeles, California",
+            "posted_at": "2026-11-07T16:54:06.141000+00:00",
+            "source": "lever",
+            "title": "Brand Partnerships Lead – Marketing (R6260)",
+            "url": "https://jobs.lever.co/shieldai/19bfc183-ed27-4353-9b68-b22a662bef2b"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:19bfc183-ed27-4353-9b68-b22a662bef2b"
         },
         "19f587da-4be7-4223-afae-a0050d3d29b8": {
           "alerted": true,
