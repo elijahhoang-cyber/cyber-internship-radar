@@ -1343,6 +1343,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "1a475859-21e3-45fc-9e93-8763aa1d0992": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "1a475859-21e3-45fc-9e93-8763aa1d0992",
+            "intern_type": false,
+            "location": "US - Remote",
+            "posted_at": "2026-11-08T14:31:28.423+00:00",
+            "source": "ashby",
+            "title": "Civil & Structural Architect, Power Generation ",
+            "url": "https://jobs.ashbyhq.com/openai/1a475859-21e3-45fc-9e93-8763aa1d0992"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:1a475859-21e3-45fc-9e93-8763aa1d0992"
+        },
         "1a979fd4-1bce-484e-a416-aed2810677a6": {
           "alerted": true,
           "category": "Low priority",
@@ -15028,6 +15047,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "1c0284d5-7426-478d-bbf2-b8b59aec00b2": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "cognition",
+            "id": "1c0284d5-7426-478d-bbf2-b8b59aec00b2",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-08T14:42:54.525+00:00",
+            "source": "ashby",
+            "title": "Program Manager - Field CTOs - US",
+            "url": "https://jobs.ashbyhq.com/cognition/1c0284d5-7426-478d-bbf2-b8b59aec00b2"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:cognition:1c0284d5-7426-478d-bbf2-b8b59aec00b2"
+        },
         "1e47fa81-bfe3-436c-a6f7-fccd66a98b1e": {
           "alerted": true,
           "category": "Low priority",
@@ -15639,6 +15677,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "6146f09d-285d-4538-be40-e1f3ffcdecd2": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "cognition",
+            "id": "6146f09d-285d-4538-be40-e1f3ffcdecd2",
+            "intern_type": false,
+            "location": "London",
+            "posted_at": "2026-11-08T14:41:14.116+00:00",
+            "source": "ashby",
+            "title": "Program Manager - Field CTOs - EMEA",
+            "url": "https://jobs.ashbyhq.com/cognition/6146f09d-285d-4538-be40-e1f3ffcdecd2"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:cognition:6146f09d-285d-4538-be40-e1f3ffcdecd2"
         },
         "6cf034bd-7731-49e4-8a1a-86739c9cb02e": {
           "alerted": true,
@@ -326836,6 +326893,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8934049002"
         },
+        "8934055002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934055002",
+            "location": "College Station, TX",
+            "posted_at": "2026-11-08T12:59:41-05:00",
+            "source": "greenhouse",
+            "title": "Telecommunications Engineer, Fiber",
+            "updated_at": "2026-11-08T12:59:41-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934055002?gh_jid=8934055002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934055002"
+        },
         "8934072002": {
           "alerted": true,
           "category": "Low priority",
@@ -374003,6 +374079,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:zscaler:5284066007"
+        },
+        "5288612007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "Zscaler",
+            "id": "5288612007",
+            "location": "Remote - Massachusetts, USA; Remote - New York, USA",
+            "posted_at": "2026-11-08T12:46:33-05:00",
+            "source": "greenhouse",
+            "title": "Account Executive, Majors - NYC",
+            "updated_at": "2026-11-08T12:48:10-05:00",
+            "url": "https://job-boards.greenhouse.io/zscaler/jobs/5288612007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:zscaler:5288612007"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -385815,6 +385910,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "88f7b66e-3412-40c8-b74d-aafc462405ff": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "Full Time Employee",
+            "id": "88f7b66e-3412-40c8-b74d-aafc462405ff",
+            "location": "Washington, D.C.",
+            "posted_at": "2026-10-27T22:14:38.663000+00:00",
+            "source": "lever",
+            "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
+            "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:88f7b66e-3412-40c8-b74d-aafc462405ff"
+        },
         "897742de-bbb3-4b55-866d-391cf5c5848f": {
           "alerted": true,
           "category": "Low priority",
@@ -387419,6 +387533,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "af183d8c-51d0-40df-9c04-fbddae0d83aa": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "Full Time Employee",
+            "id": "af183d8c-51d0-40df-9c04-fbddae0d83aa",
+            "location": "Washington, D.C.",
+            "posted_at": "2026-10-27T20:43:16.503000+00:00",
+            "source": "lever",
+            "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+            "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa"
+        },
         "afdc8f40-1594-4ac6-ac1e-12178515dd66": {
           "alerted": true,
           "category": "Low priority",
@@ -388875,6 +389008,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "cd641bcb-f613-44dd-b66d-2df360067319": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "Full Time Employee",
+            "id": "cd641bcb-f613-44dd-b66d-2df360067319",
+            "location": "Washington, D.C.",
+            "posted_at": "2026-10-27T22:03:17.567000+00:00",
+            "source": "lever",
+            "title": "Engineer I, Software - Perception - New Grad - 6135",
+            "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:cd641bcb-f613-44dd-b66d-2df360067319"
         },
         "cda131b5-3cfb-4d59-8d4b-bfd2f8c9661d": {
           "alerted": true,
@@ -390957,6 +391109,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "f8e0f87f-0e12-4e05-a491-4e8272494896": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "Full Time Employee",
+            "id": "f8e0f87f-0e12-4e05-a491-4e8272494896",
+            "location": "United States",
+            "posted_at": "2026-10-27T21:55:40.627000+00:00",
+            "source": "lever",
+            "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+            "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896"
         },
         "f96fb376-39bb-42b7-84a0-7b53ff88f126": {
           "alerted": true,
@@ -415045,6 +415216,63 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "/job/Bangalore-In/Director---AI-Engineering_R1004322-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/Bangalore-In/Director---AI-Engineering_R1004322-1",
+            "location": "Bangalore, In",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Director - AI Engineering",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director---AI-Engineering_R1004322-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/Bangalore-In/Director---AI-Engineering_R1004322-1"
+        },
+        "/job/Bangalore-In/Director---Machine-Learning-Engineering_R1004324": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/Bangalore-In/Director---Machine-Learning-Engineering_R1004324",
+            "location": "Bangalore, In",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Director - Machine Learning Engineering",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director---Machine-Learning-Engineering_R1004324"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/Bangalore-In/Director---Machine-Learning-Engineering_R1004324"
+        },
+        "/job/Bangalore-In/Director---Software-Engineering_R1004323-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T18:58:36+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/Bangalore-In/Director---Software-Engineering_R1004323-1",
+            "location": "Bangalore, In",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Director - Software Engineering",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director---Software-Engineering_R1004323-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/Bangalore-In/Director---Software-Engineering_R1004323-1"
         },
         "/job/Bangalore-In/Distinguished-AI-Engineer_R249922-1": {
           "alerted": true,
