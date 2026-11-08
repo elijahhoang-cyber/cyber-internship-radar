@@ -191240,6 +191240,44 @@
           "letter_sent": true,
           "score": 0
         },
+        "4924654007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T14:28:50+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "4924654007",
+            "location": "King Abdullah Economic City, 02",
+            "posted_at": "2025-10-02T11:34:30-04:00",
+            "source": "greenhouse",
+            "title": "Data Analyst",
+            "updated_at": "2026-11-08T08:06:33-05:00",
+            "url": "https://lucidmotors.com/careers/search/4924654007?gh_jid=4924654007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:4924654007"
+        },
+        "4928050007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T14:28:50+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "4928050007",
+            "location": "King Abdullah Economic City, 02",
+            "posted_at": "2025-10-02T11:34:30-04:00",
+            "source": "greenhouse",
+            "title": " Data Analyst",
+            "updated_at": "2026-11-08T08:06:30-05:00",
+            "url": "https://lucidmotors.com/careers/search/4928050007?gh_jid=4928050007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:4928050007"
+        },
         "4963850007": {
           "alerted": true,
           "category": "Low priority",
@@ -350000,6 +350038,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:toast:8360368"
+        },
+        "8363046": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T14:28:50+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8363046",
+            "location": "Remote, USA",
+            "posted_at": "2026-11-08T09:15:53-05:00",
+            "source": "greenhouse",
+            "title": "Solutions Lead, International Upmarket",
+            "updated_at": "2026-11-08T09:16:41-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8363046"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8363046"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
