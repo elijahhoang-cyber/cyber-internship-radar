@@ -27479,6 +27479,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "28b62bdc-3d36-47eb-980d-4f52455cc3f2": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T07:31:51+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "28b62bdc-3d36-47eb-980d-4f52455cc3f2",
+            "intern_type": false,
+            "location": "Dallas",
+            "posted_at": "2026-11-08T06:13:12.287+00:00",
+            "source": "ashby",
+            "title": "Associate Legal Engineer",
+            "url": "https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:28b62bdc-3d36-47eb-980d-4f52455cc3f2"
+        },
         "2a05532b-4746-45ee-965a-ba423efb62fb": {
           "alerted": true,
           "category": "Low priority",
@@ -32454,6 +32473,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "e2613ef0-b37c-42ab-aae2-3b47162a9401": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T07:31:51+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "e2613ef0-b37c-42ab-aae2-3b47162a9401",
+            "intern_type": false,
+            "location": "Chicago",
+            "posted_at": "2026-11-08T06:12:53.319+00:00",
+            "source": "ashby",
+            "title": "Associate Legal Engineer",
+            "url": "https://jobs.ashbyhq.com/harvey/e2613ef0-b37c-42ab-aae2-3b47162a9401"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:e2613ef0-b37c-42ab-aae2-3b47162a9401"
+        },
         "e293b2cc-4269-4009-be34-850b000ef6c5": {
           "alerted": true,
           "category": "Low priority",
@@ -32712,6 +32750,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "eb6318f2-957c-4d2b-8c44-054a0ef049a3": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T07:31:51+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "eb6318f2-957c-4d2b-8c44-054a0ef049a3",
+            "intern_type": false,
+            "location": "Boston",
+            "posted_at": "2026-11-08T06:12:38.716+00:00",
+            "source": "ashby",
+            "title": "Associate Legal Engineer",
+            "url": "https://jobs.ashbyhq.com/harvey/eb6318f2-957c-4d2b-8c44-054a0ef049a3"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:eb6318f2-957c-4d2b-8c44-054a0ef049a3"
         },
         "ebf00b72-4693-4894-b540-5f82a60fdbdc": {
           "alerted": true,
@@ -326797,6 +326854,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8934413002"
+        },
+        "8934430002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T07:31:51+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934430002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-07T22:48:14-05:00",
+            "source": "greenhouse",
+            "title": "Talent Sourcer - Temporary",
+            "updated_at": "2026-11-07T22:55:52-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934430002?gh_jid=8934430002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934430002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -351779,6 +351855,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:torq:6251198004"
+        },
+        "6252220004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T07:31:51+00:00",
+          "job": {
+            "company": "Torq",
+            "id": "6252220004",
+            "location": "United States",
+            "posted_at": "2026-11-08T00:06:24-05:00",
+            "source": "greenhouse",
+            "title": "Sales Engineer, Carolinas",
+            "updated_at": "2026-11-08T00:06:24-05:00",
+            "url": "https://job-boards.greenhouse.io/torq/jobs/6252220004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:torq:6252220004"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
