@@ -64020,6 +64020,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5459191008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T22:41:05+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5459191008",
+            "location": "San Francisco, CA | New York City, NY",
+            "posted_at": "2026-11-08T14:12:32-05:00",
+            "source": "greenhouse",
+            "title": "Research Engineer, Cybersecurity RL",
+            "updated_at": "2026-11-08T14:15:37-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5459191008"
+        },
         "5459272008": {
           "alerted": true,
           "category": "Low priority",
@@ -149300,6 +149319,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:elastic:8352585"
+        },
+        "8352728": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-08T22:41:05+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8352728",
+            "location": "United States",
+            "posted_at": "2026-11-08T14:40:09-05:00",
+            "source": "greenhouse",
+            "title": "Consulting Architect - Search",
+            "updated_at": "2026-11-08T14:40:09-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8352728&gh_jid=8352728"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8352728"
         },
         "8355143": {
           "alerted": true,
