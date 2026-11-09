@@ -5222,6 +5222,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5d5b2256-ee0f-4ba6-a983-d62d0d70515d": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "5d5b2256-ee0f-4ba6-a983-d62d0d70515d",
+            "intern_type": false,
+            "location": "Munich, Germany",
+            "posted_at": "2026-11-09T01:20:20.424+00:00",
+            "source": "ashby",
+            "title": "Manager, Forward Deployed Engineering - Munich",
+            "url": "https://jobs.ashbyhq.com/openai/5d5b2256-ee0f-4ba6-a983-d62d0d70515d"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:5d5b2256-ee0f-4ba6-a983-d62d0d70515d"
+        },
         "5d66a54f-ad89-4155-ac37-9dcd7d52db34": {
           "alerted": true,
           "category": "Low priority",
@@ -138400,6 +138419,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:datadog:8334294"
+        },
+        "8334640": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8334640",
+            "location": "Melbourne, Australia",
+            "posted_at": "2026-11-08T19:25:02-05:00",
+            "source": "greenhouse",
+            "title": "Senior Sales Engineer",
+            "updated_at": "2026-11-08T19:25:02-05:00",
+            "url": "https://careers.datadoghq.com/detail/8334640/?gh_jid=8334640"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8334640"
         },
         "8335047": {
           "alerted": true,
@@ -327025,6 +327063,139 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8934430002"
+        },
+        "8934560002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934560002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-08T17:49:29-05:00",
+            "source": "greenhouse",
+            "title": "Principal Site Reliability Engineer (Vehicle Engineering)",
+            "updated_at": "2026-11-08T17:55:12-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934560002?gh_jid=8934560002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934560002"
+        },
+        "8934563002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934563002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-08T20:15:11-05:00",
+            "source": "greenhouse",
+            "title": "Full Stack Software Engineer, Internal Platforms",
+            "updated_at": "2026-11-08T20:15:11-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934563002"
+        },
+        "8934566002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934566002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-08T20:18:42-05:00",
+            "source": "greenhouse",
+            "title": "Full Stack Software Engineer, Internal Platforms",
+            "updated_at": "2026-11-08T20:18:42-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934566002?gh_jid=8934566002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934566002"
+        },
+        "8934567002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934567002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-08T20:29:14-05:00",
+            "source": "greenhouse",
+            "title": "Full Stack Software Engineer, Manufacturing Systems ",
+            "updated_at": "2026-11-08T20:29:14-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934567002?gh_jid=8934567002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934567002"
+        },
+        "8934568002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934568002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-08T20:29:53-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Full Stack Software Engineer",
+            "updated_at": "2026-11-08T20:29:53-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934568002?gh_jid=8934568002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934568002"
+        },
+        "8934569002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934569002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-08T20:30:36-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Full Stack Software Engineer, Manufacturing Systems",
+            "updated_at": "2026-11-08T20:30:36-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934569002?gh_jid=8934569002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934569002"
+        },
+        "8934570002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8934570002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-08T20:48:11-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Full Stack Engineer, Fight Software",
+            "updated_at": "2026-11-08T20:48:11-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8934570002?gh_jid=8934570002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8934570002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -327745,6 +327916,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "7524334": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "Stripe",
+            "id": "7524334",
+            "location": "San Francisco, CA",
+            "posted_at": "2026-01-08T19:44:00-05:00",
+            "source": "greenhouse",
+            "title": "Business Development Manager, Agentic Commerce",
+            "updated_at": "2026-11-08T20:03:19-05:00",
+            "url": "https://stripe.com/jobs/search?gh_jid=7524334"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:stripe:7524334"
         },
         "7528816": {
           "alerted": true,
@@ -385983,6 +386173,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "89fc4fec-1fa4-4d2a-b732-fd2138ab3036": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-09T01:58:30+00:00",
+          "job": {
+            "company": "shieldai",
+            "employment_type": "International Office Entity",
+            "id": "89fc4fec-1fa4-4d2a-b732-fd2138ab3036",
+            "location": "Melbourne",
+            "posted_at": "2026-07-15T16:49:01.639000+00:00",
+            "source": "lever",
+            "title": "Staff Engineer, Computer Vision (C++) (R5196)",
+            "url": "https://jobs.lever.co/shieldai/89fc4fec-1fa4-4d2a-b732-fd2138ab3036"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:shieldai:89fc4fec-1fa4-4d2a-b732-fd2138ab3036"
         },
         "8a52bffc-52c5-4aef-8914-d618a511518a": {
           "alerted": true,
