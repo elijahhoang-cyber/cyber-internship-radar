@@ -7369,6 +7369,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "73875295-889e-4373-b20f-654e85c66ba4": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T19:52:31+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "73875295-889e-4373-b20f-654e85c66ba4",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-14T16:51:14.713+00:00",
+            "source": "ashby",
+            "title": "Applied Scientist, Product Policy Research & Measurement",
+            "url": "https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:73875295-889e-4373-b20f-654e85c66ba4"
+        },
         "73a111f9-e83d-4cce-9148-2a32ccf1d251": {
           "alerted": true,
           "category": "Low priority",
@@ -270052,6 +270071,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:relativity:8942936002"
+        },
+        "8944095002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T19:52:31+00:00",
+          "job": {
+            "company": "Relativity Space",
+            "id": "8944095002",
+            "location": "Long Beach, California, United States",
+            "posted_at": "2026-11-14T14:17:04-05:00",
+            "source": "greenhouse",
+            "title": "Propulsion Responsible Engineer II, Combustion Devices ",
+            "updated_at": "2026-11-14T14:17:04-05:00",
+            "url": "https://boards.greenhouse.io/relativity/jobs/8944095002?gh_jid=8944095002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:relativity:8944095002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -297047,6 +297085,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8223641": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T19:52:31+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8223641",
+            "location": "Remote - US",
+            "posted_at": "2026-11-14T12:32:27-05:00",
+            "source": "greenhouse",
+            "title": "Sr Software Engineer I/II, Operational AI",
+            "updated_at": "2026-11-14T12:32:27-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8223641"
+        },
         "8223645": {
           "alerted": true,
           "category": "Low priority",
@@ -300943,6 +301000,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:samsara:8374813"
         },
+        "8374911": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T19:52:31+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8374911",
+            "location": "Remote - US",
+            "posted_at": "2026-11-14T12:29:14-05:00",
+            "source": "greenhouse",
+            "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+            "updated_at": "2026-11-14T12:29:14-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8374911?gh_jid=8374911"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8374911"
+        },
         "8374913": {
           "alerted": true,
           "category": "Low priority",
@@ -301037,6 +301113,44 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:samsara:8381399"
+        },
+        "8387002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T19:52:31+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8387002",
+            "location": "Remote - Canada",
+            "posted_at": "2026-11-14T12:29:17-05:00",
+            "source": "greenhouse",
+            "title": "Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI)",
+            "updated_at": "2026-11-14T12:29:17-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8387002?gh_jid=8387002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8387002"
+        },
+        "8387609": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T19:52:31+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8387609",
+            "location": "Remote - Canada",
+            "posted_at": "2026-11-14T12:32:25-05:00",
+            "source": "greenhouse",
+            "title": "Sr Software Engineer I/II, Operational AI",
+            "updated_at": "2026-11-14T12:33:06-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8387609?gh_jid=8387609"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8387609"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
