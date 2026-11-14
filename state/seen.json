@@ -6764,6 +6764,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "695f73a5-00f5-416a-8939-78571263819b": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "695f73a5-00f5-416a-8939-78571263819b",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-14T02:00:31.924+00:00",
+            "source": "ashby",
+            "title": "HR Business Partner, GTM",
+            "url": "https://jobs.ashbyhq.com/openai/695f73a5-00f5-416a-8939-78571263819b"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:695f73a5-00f5-416a-8939-78571263819b"
+        },
         "6a7cedbd-0a7c-4f3e-8389-55357ad444b3": {
           "alerted": true,
           "category": "Low priority",
@@ -37902,6 +37921,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "ashby:harvey:f292e181-fc41-4e9b-b860-2893ea15da41"
+        },
+        "f2ac5239-c7a1-4b0a-bbf3-c8f6b836a2d6": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "f2ac5239-c7a1-4b0a-bbf3-c8f6b836a2d6",
+            "intern_type": false,
+            "location": "New York",
+            "posted_at": "2026-11-14T01:55:12.083+00:00",
+            "source": "ashby",
+            "title": "Engineering Manager, Applied AI — NYC",
+            "url": "https://jobs.ashbyhq.com/harvey/f2ac5239-c7a1-4b0a-bbf3-c8f6b836a2d6"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:f2ac5239-c7a1-4b0a-bbf3-c8f6b836a2d6"
         },
         "f30a1b59-279c-43cb-bf56-1745a84dfd82": {
           "alerted": true,
@@ -71983,6 +72021,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5462511008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5462511008",
+            "location": "San Francisco, CA | New York City, NY",
+            "posted_at": "2026-11-14T00:41:15-05:00",
+            "source": "greenhouse",
+            "title": "Corporate Counsel, Public Reporting",
+            "updated_at": "2026-11-14T01:29:25-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462511008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5462511008"
+        },
         "5462557008": {
           "alerted": true,
           "category": "Low priority",
@@ -73184,6 +73241,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:anthropic:5473216008"
+        },
+        "5473344008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5473344008",
+            "location": "Sydney, Australia",
+            "posted_at": "2026-11-14T00:18:57-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Enterprise Sales - Industries, ANZ",
+            "updated_at": "2026-11-14T00:18:57-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473344008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5473344008"
         },
         "5473362008": {
           "alerted": true,
@@ -120373,6 +120449,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "4663228006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "CoreWeave",
+            "id": "4663228006",
+            "location": "Bellevue, WA/ San Francisco, CA/  Sunnyvale, CA",
+            "posted_at": "2026-03-16T09:08:04-04:00",
+            "source": "greenhouse",
+            "title": "Senior Deployment Engineer - LLM Inference & Optimization",
+            "updated_at": "2026-11-13T21:33:48-05:00",
+            "url": "https://coreweave.com/careers/job?4663228006&board=coreweave&gh_jid=4663228006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coreweave:4663228006"
         },
         "4663670006": {
           "alerted": true,
@@ -278409,6 +278504,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:roblox:8350721"
         },
+        "8350723": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "Roblox",
+            "id": "8350723",
+            "location": "San Mateo, CA, United States",
+            "posted_at": "2026-11-13T20:56:05-05:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer, Roblox OS",
+            "updated_at": "2026-11-13T20:56:05-05:00",
+            "url": "https://careers.roblox.com/jobs/8350723?gh_jid=8350723"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:roblox:8350723"
+        },
         "8350725": {
           "alerted": true,
           "category": "Low priority",
@@ -360199,6 +360313,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8943811002"
+        },
+        "8943819002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8943819002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-13T21:07:07-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Materials Engineer, Polymer Development",
+            "updated_at": "2026-11-13T21:09:09-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8943819002?gh_jid=8943819002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8943819002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -385682,6 +385815,44 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:toast:8367009"
+        },
+        "8368738": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8368738",
+            "location": "Remote, US",
+            "posted_at": "2026-11-13T21:31:51-05:00",
+            "source": "greenhouse",
+            "title": "Staff Machine Learning Engineer - Vision AI",
+            "updated_at": "2026-11-13T21:31:51-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8368738"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8368738"
+        },
+        "8368740": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8368740",
+            "location": "Remote, US",
+            "posted_at": "2026-11-13T21:21:48-05:00",
+            "source": "greenhouse",
+            "title": "Principal Machine Learning Engineer, Vision AI",
+            "updated_at": "2026-11-13T21:21:48-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8368740"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8368740"
         },
         "8368751": {
           "alerted": true,
@@ -449933,6 +450104,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "23867c45-d2df-4f87-86ff-244c864614cd": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "zoox",
+            "employment_type": "Internship/Co-op",
+            "id": "23867c45-d2df-4f87-86ff-244c864614cd",
+            "location": "Foster City, CA",
+            "posted_at": "2026-11-13T00:09:39.265000+00:00",
+            "source": "lever",
+            "title": "Industrial Design Intern [Summer 2027]",
+            "url": "https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:zoox:23867c45-d2df-4f87-86ff-244c864614cd"
+        },
         "240ae92f-51ec-4d32-a0a4-3d4669508e3d": {
           "alerted": true,
           "category": "Low priority",
@@ -450189,6 +450379,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "lever:zoox:2d73563c-8039-4d1b-844c-3953259ba6b1"
+        },
+        "2e4e91c3-f127-4c5b-9291-b93b8a340a2f": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T08:12:19+00:00",
+          "job": {
+            "company": "zoox",
+            "employment_type": "Internship/Co-op",
+            "id": "2e4e91c3-f127-4c5b-9291-b93b8a340a2f",
+            "location": "Foster City, CA",
+            "posted_at": "2026-11-14T01:16:04.474000+00:00",
+            "source": "lever",
+            "title": "Feature Integration Intern [Summer 2027]",
+            "url": "https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:zoox:2e4e91c3-f127-4c5b-9291-b93b8a340a2f"
         },
         "2ec7b1be-46f6-420d-b582-e565fe4f6b3e": {
           "alerted": true,
