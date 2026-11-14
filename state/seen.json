@@ -36393,6 +36393,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "ba8a6b0a-f791-4d06-8f1a-b960825cd7f8": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T23:26:57+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "ba8a6b0a-f791-4d06-8f1a-b960825cd7f8",
+            "intern_type": false,
+            "location": "New York",
+            "posted_at": "2026-11-14T21:05:16.235+00:00",
+            "source": "ashby",
+            "title": "Marketing Coordinator, Brand Partnerships",
+            "url": "https://jobs.ashbyhq.com/harvey/ba8a6b0a-f791-4d06-8f1a-b960825cd7f8"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:ba8a6b0a-f791-4d06-8f1a-b960825cd7f8"
+        },
         "baf63625-28db-45e7-a8d0-98bd60fe3688": {
           "alerted": true,
           "category": "Low priority",
@@ -72824,6 +72843,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "5469291008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T23:26:57+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5469291008",
+            "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+            "posted_at": "2026-11-14T15:19:44-05:00",
+            "source": "greenhouse",
+            "title": "Engineering Manager, Billing Platform",
+            "updated_at": "2026-11-14T15:19:44-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5469291008"
         },
         "5469337008": {
           "alerted": true,
@@ -360427,6 +360465,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8943271002"
+        },
+        "8943425002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T23:26:57+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8943425002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-14T15:16:04-05:00",
+            "source": "greenhouse",
+            "title": "TIG Welder (Starship)",
+            "updated_at": "2026-11-14T15:16:04-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8943425002?gh_jid=8943425002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8943425002"
         },
         "8943811002": {
           "alerted": true,
