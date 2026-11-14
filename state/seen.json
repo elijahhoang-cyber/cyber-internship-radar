@@ -199779,6 +199779,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:intercom:8381974"
+        },
+        "8383344": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T15:04:00+00:00",
+          "job": {
+            "company": "Fin",
+            "id": "8383344",
+            "location": "Dublin, Ireland",
+            "posted_at": "2026-11-14T06:17:03-05:00",
+            "source": "greenhouse",
+            "title": "Sales Development Representative",
+            "updated_at": "2026-11-14T06:47:36-05:00",
+            "url": "https://job-boards.greenhouse.io/intercom/jobs/8383344"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:intercom:8383344"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -460817,6 +460836,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "/job/London-Eng/Principal-Relationship-Management-and-Business-Development_R1005856": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-14T15:04:00+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/London-Eng/Principal-Relationship-Management-and-Business-Development_R1005856",
+            "location": "London, Eng",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Principal Relationship Management and Business Development",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/London-Eng/Principal-Relationship-Management-and-Business-Development_R1005856"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/London-Eng/Principal-Relationship-Management-and-Business-Development_R1005856"
         },
         "/job/London-Eng/Senior-Auditor--Global-Payment-Network-_R1004841": {
           "alerted": true,
