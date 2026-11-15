@@ -43004,6 +43004,25 @@
           "tohuman_future": true,
           "tohuman_key": "ashby:perplexity:1056951e-8a42-4330-b72c-90162b3cd1c9"
         },
+        "10a51134-6741-40ec-8cca-a8ac1534673b": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T02:56:41+00:00",
+          "job": {
+            "company": "perplexity",
+            "id": "10a51134-6741-40ec-8cca-a8ac1534673b",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-15T01:03:15.716+00:00",
+            "source": "ashby",
+            "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+            "url": "https://jobs.ashbyhq.com/Perplexity/10a51134-6741-40ec-8cca-a8ac1534673b"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:perplexity:10a51134-6741-40ec-8cca-a8ac1534673b"
+        },
         "1354f2e8-56c8-4a66-81f8-eb5d5b944506": {
           "alerted": true,
           "category": "Low priority",
@@ -360484,6 +360503,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8943425002"
+        },
+        "8943684002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T02:56:41+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8943684002",
+            "location": "Palo Alto, CA",
+            "posted_at": "2026-11-14T21:56:23-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Full Stack Software Engineer (Starlink)",
+            "updated_at": "2026-11-14T21:56:23-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8943684002?gh_jid=8943684002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8943684002"
         },
         "8943811002": {
           "alerted": true,
