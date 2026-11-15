@@ -10468,6 +10468,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "9eabe3b6-7d42-4bd6-85f5-919117ad8056": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "9eabe3b6-7d42-4bd6-85f5-919117ad8056",
+            "intern_type": false,
+            "location": "Tokyo, Japan",
+            "posted_at": "2026-11-13T09:56:05.394+00:00",
+            "source": "ashby",
+            "title": "Business Recruiter",
+            "url": "https://jobs.ashbyhq.com/openai/9eabe3b6-7d42-4bd6-85f5-919117ad8056"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:9eabe3b6-7d42-4bd6-85f5-919117ad8056"
+        },
         "9eb3a6a6-adff-4e82-83b6-97df514ba9bd": {
           "alerted": true,
           "category": "Low priority",
@@ -145625,6 +145644,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:databricks:8940907002"
+        },
+        "8944097002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "8944097002",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-14T23:36:01-05:00",
+            "source": "greenhouse",
+            "title": "Staff Software Engineer (App-Framework)",
+            "updated_at": "2026-11-14T23:36:01-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8944097002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:8944097002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -186699,6 +186737,82 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:gitlab:8937425002"
+        },
+        "8937797002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8937797002",
+            "location": "Remote, United Kingdom",
+            "posted_at": "2026-11-15T02:56:39-05:00",
+            "source": "greenhouse",
+            "title": "Customer Success Architect, NEUR",
+            "updated_at": "2026-11-15T02:56:39-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937797002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8937797002"
+        },
+        "8937803002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8937803002",
+            "location": "Remote, France",
+            "posted_at": "2026-11-15T02:58:19-05:00",
+            "source": "greenhouse",
+            "title": "Customer Success Architect, France",
+            "updated_at": "2026-11-15T02:58:19-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937803002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8937803002"
+        },
+        "8937825002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8937825002",
+            "location": "Remote, Israel",
+            "posted_at": "2026-11-15T03:00:12-05:00",
+            "source": "greenhouse",
+            "title": "Customer Success Engineer, EMEA",
+            "updated_at": "2026-11-15T03:00:12-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937825002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8937825002"
+        },
+        "8937862002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8937862002",
+            "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom",
+            "posted_at": "2026-11-15T03:24:01-05:00",
+            "source": "greenhouse",
+            "title": "Senior Engagement Manager - Professional Services Sales,  EMEA",
+            "updated_at": "2026-11-15T03:24:01-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937862002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8937862002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -220350,6 +220464,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:lucidmotors:5281181007"
+        },
+        "5281294007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "5281294007",
+            "location": "Saudi Arabia",
+            "posted_at": "2026-11-15T01:21:09-05:00",
+            "source": "greenhouse",
+            "title": "FG Driver",
+            "updated_at": "2026-11-15T01:21:09-05:00",
+            "url": "https://lucidmotors.com/careers/search/5281294007?gh_jid=5281294007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:5281294007"
         },
         "5281321007": {
           "alerted": true,
@@ -360503,6 +360636,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8943425002"
+        },
+        "8943586002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T10:20:44+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8943586002",
+            "location": "Palo Alto, CA",
+            "posted_at": "2026-11-14T21:59:43-05:00",
+            "source": "greenhouse",
+            "title": "Full Stack Software Engineer (Starlink)",
+            "updated_at": "2026-11-14T21:59:43-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8943586002"
         },
         "8943684002": {
           "alerted": true,
