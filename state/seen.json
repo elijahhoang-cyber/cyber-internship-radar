@@ -2206,6 +2206,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "2320fe69-df26-4d1d-ada6-d1a46c0e68a1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T21:52:14+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-15T21:10:17.443+00:00",
+            "source": "ashby",
+            "title": "Full Stack Software Engineer, Travel",
+            "url": "https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:2320fe69-df26-4d1d-ada6-d1a46c0e68a1"
+        },
         "2348230a-295f-434d-9b16-653e01ddbd0b": {
           "alerted": true,
           "category": "Low priority",
@@ -233336,6 +233355,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:mongodb:8381870"
         },
+        "8381910": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T21:52:14+00:00",
+          "job": {
+            "company": "MongoDB",
+            "id": "8381910",
+            "location": "Cork, Ireland; Dublin, Ireland",
+            "posted_at": "2026-11-15T16:32:27-05:00",
+            "source": "greenhouse",
+            "title": "TD Sourcer",
+            "updated_at": "2026-11-15T16:32:27-05:00",
+            "url": "https://www.mongodb.com/careers/job/?gh_jid=8381910"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mongodb:8381910"
+        },
         "8381920": {
           "alerted": true,
           "category": "Low priority",
@@ -233468,6 +233506,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:mongodb:8384766"
+        },
+        "8385636": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T21:52:14+00:00",
+          "job": {
+            "company": "MongoDB",
+            "id": "8385636",
+            "location": "Dublin, Ireland",
+            "posted_at": "2026-11-15T16:20:31-05:00",
+            "source": "greenhouse",
+            "title": "Candidate Experience Coordinator",
+            "updated_at": "2026-11-15T16:20:31-05:00",
+            "url": "https://www.mongodb.com/careers/job/?gh_jid=8385636"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mongodb:8385636"
         },
         "8386087": {
           "alerted": true,
@@ -297283,6 +297340,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8214590": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T21:52:14+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8214590",
+            "location": "San Francisco - SF9",
+            "posted_at": "2026-11-15T13:48:56-05:00",
+            "source": "greenhouse",
+            "title": "Product Design (Mechanical Engineering) Co-Op",
+            "updated_at": "2026-11-15T13:48:56-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8214590"
+        },
         "8220469": {
           "alerted": true,
           "category": "Low priority",
@@ -301322,6 +301398,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:samsara:8375338"
+        },
+        "8375354": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T21:52:14+00:00",
+          "job": {
+            "company": "Samsara",
+            "id": "8375354",
+            "location": "San Francisco - SF9",
+            "posted_at": "2026-11-15T13:16:11-05:00",
+            "source": "greenhouse",
+            "title": "Senior Manager, Engineering Program Management",
+            "updated_at": "2026-11-15T13:16:11-05:00",
+            "url": "https://www.samsara.com/company/careers/roles/8375354?gh_jid=8375354"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:samsara:8375354"
         },
         "8376044": {
           "alerted": true,
