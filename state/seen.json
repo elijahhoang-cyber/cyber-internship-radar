@@ -103900,6 +103900,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:circleci:8918381002"
+        },
+        "8932689002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T17:16:33+00:00",
+          "job": {
+            "company": "CircleCI",
+            "id": "8932689002",
+            "location": "San Francisco, CA",
+            "posted_at": "2026-11-15T11:36:15-05:00",
+            "source": "greenhouse",
+            "title": "Executive Business Partner, GTM",
+            "updated_at": "2026-11-15T11:37:23-05:00",
+            "url": "http://www.circleci.com/careers/jobs/8932689002/?gh_jid=8932689002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:circleci:8932689002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -218249,6 +218268,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "5262991007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T17:16:33+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "5262991007",
+            "location": "King Abdullah Economic City, 02",
+            "posted_at": "2026-11-15T07:58:00-05:00",
+            "source": "greenhouse",
+            "title": "EHS Manager",
+            "updated_at": "2026-11-15T07:58:00-05:00",
+            "url": "https://lucidmotors.com/careers/search/5262991007?gh_jid=5262991007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:5262991007"
+        },
         "5262993007": {
           "alerted": true,
           "category": "Low priority",
@@ -218734,6 +218772,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "5270826007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T17:16:33+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "5270826007",
+            "location": "King Abdullah Economic City, 02",
+            "posted_at": "2026-11-15T07:56:21-05:00",
+            "source": "greenhouse",
+            "title": "Ergonomics Specialist",
+            "updated_at": "2026-11-15T07:56:21-05:00",
+            "url": "https://lucidmotors.com/careers/search/5270826007?gh_jid=5270826007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:5270826007"
         },
         "5271217007": {
           "alerted": true,
@@ -293510,6 +293567,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rubrik:8366954"
+        },
+        "8367390": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-15T17:16:33+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8367390",
+            "location": "London, United Kingdom",
+            "posted_at": "2026-11-15T08:28:01-05:00",
+            "source": "greenhouse",
+            "title": "Sales Transformation Lead International, Specialist Sales ",
+            "updated_at": "2026-11-15T08:28:01-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8367390?gh_jid=8367390"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8367390"
         },
         "8370557": {
           "alerted": true,
