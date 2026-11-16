@@ -141821,6 +141821,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8857696002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-16T01:27:12+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "8857696002",
+            "location": "Singapore",
+            "posted_at": "2026-11-15T19:19:57-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Field Engineering (Launchpad Program)",
+            "updated_at": "2026-11-15T19:19:57-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8857696002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:8857696002"
+        },
         "8859538002": {
           "alerted": true,
           "category": "Low priority",
@@ -195730,6 +195749,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:imc:5027902101"
+        },
+        "5028059101": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-16T01:27:12+00:00",
+          "job": {
+            "company": "IMC",
+            "id": "5028059101",
+            "location": "Sydney,  Australia",
+            "posted_at": "2026-11-15T18:10:54-05:00",
+            "source": "greenhouse",
+            "title": "Senior Tax Manager",
+            "updated_at": "2026-11-15T18:10:54-05:00",
+            "url": "https://job-boards.eu.greenhouse.io/imc/jobs/5028059101"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:imc:5028059101"
         },
         "5028060101": {
           "alerted": true,
@@ -476549,6 +476587,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "/job/McLean-VA/Senior-Manager--Full-stack-Engineer--Bank-Tech-_R1005756-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-16T01:27:12+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/McLean-VA/Senior-Manager--Full-stack-Engineer--Bank-Tech-_R1005756-1",
+            "location": "2 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Senior Manager, Full-stack Engineer (Bank Tech)",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Full-stack-Engineer--Bank-Tech-_R1005756-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/McLean-VA/Senior-Manager--Full-stack-Engineer--Bank-Tech-_R1005756-1"
+        },
         "/job/McLean-VA/Senior-Manager--Full-stack-Engineer--PL--Risk-Tech_R1002008-1": {
           "alerted": true,
           "category": "Low priority",
@@ -484104,6 +484161,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "/job/New-York-NY/Mobile-Engineer-4--Android-_R1005736-1": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-16T01:27:12+00:00",
+          "job": {
+            "company": "Capital One",
+            "employment_type": "",
+            "id": "/job/New-York-NY/Mobile-Engineer-4--Android-_R1005736-1",
+            "location": "2 Locations",
+            "posted_at": "",
+            "source": "workday",
+            "title": "Mobile Engineer 4 (Android)",
+            "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Mobile-Engineer-4--Android-_R1005736-1"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "workday:capitalone.wd12.Capital_One:/job/New-York-NY/Mobile-Engineer-4--Android-_R1005736-1"
         },
         "/job/New-York-NY/Mobile-Engineer-4_R1001659": {
           "alerted": true,
