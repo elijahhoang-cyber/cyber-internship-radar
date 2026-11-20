@@ -16360,6 +16360,25 @@
           "tohuman_future": true,
           "tohuman_key": "ashby:OpenAI:e70a2b94-17d7-4083-a028-943bae53d126"
         },
+        "e74851c0-6832-4c3f-8623-c67022336dbb": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "OpenAI",
+            "id": "e74851c0-6832-4c3f-8623-c67022336dbb",
+            "intern_type": false,
+            "location": "Mumbai, India",
+            "posted_at": "2026-11-20T10:32:38.399+00:00",
+            "source": "ashby",
+            "title": "Business Recruiter",
+            "url": "https://jobs.ashbyhq.com/openai/e74851c0-6832-4c3f-8623-c67022336dbb"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:OpenAI:e74851c0-6832-4c3f-8623-c67022336dbb"
+        },
         "e74c8ec3-3317-4fea-bb66-703dc2d55a51": {
           "alerted": true,
           "category": "Low priority",
@@ -43040,6 +43059,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "499868d5-70d0-4a7f-9b26-9ae64a536034": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "notion",
+            "id": "499868d5-70d0-4a7f-9b26-9ae64a536034",
+            "intern_type": false,
+            "location": "Tokyo, Japan ",
+            "posted_at": "2026-11-20T04:29:49.462+00:00",
+            "source": "ashby",
+            "title": "Manager, Forward Deployed Architect, Japan & Korea",
+            "url": "https://jobs.ashbyhq.com/notion/499868d5-70d0-4a7f-9b26-9ae64a536034"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:notion:499868d5-70d0-4a7f-9b26-9ae64a536034"
+        },
         "499cda6b-522b-4596-8a4c-30efbb1e6b2a": {
           "alerted": true,
           "category": "Low priority",
@@ -44830,6 +44868,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "da3ccc9b-cbde-47c2-8c81-96d66c693a03": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "notion",
+            "id": "da3ccc9b-cbde-47c2-8c81-96d66c693a03",
+            "intern_type": false,
+            "location": "Paris, France",
+            "posted_at": "2026-11-20T12:01:53.990+00:00",
+            "source": "ashby",
+            "title": "Enterprise Solutions Consultant, France",
+            "url": "https://jobs.ashbyhq.com/notion/da3ccc9b-cbde-47c2-8c81-96d66c693a03"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:notion:da3ccc9b-cbde-47c2-8c81-96d66c693a03"
         },
         "da9a9a45-10e3-4c6a-916f-f89ee4cf29a4": {
           "alerted": true,
@@ -54174,6 +54231,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:abnormalsecurity:8207607003"
+        },
+        "8210392003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Abnormal",
+            "id": "8210392003",
+            "location": "Hybrid - Bangalore, India",
+            "posted_at": "2026-11-20T04:34:47-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer 2 - ADEX",
+            "updated_at": "2026-11-20T04:38:34-05:00",
+            "url": "https://abnormal.ai/careers/jobs/8210392003?gh_jid=8210392003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:abnormalsecurity:8210392003"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -63866,6 +63942,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:airbnb:8372424"
+        },
+        "8374427": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Airbnb",
+            "id": "8374427",
+            "location": "USA",
+            "posted_at": "2026-11-20T02:06:54-05:00",
+            "source": "greenhouse",
+            "title": "Senior Engineering Manager, Storage",
+            "updated_at": "2026-11-20T02:08:41-05:00",
+            "url": "https://careers.airbnb.com/positions/8374427?gh_jid=8374427"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:airbnb:8374427"
         },
         "8374537": {
           "alerted": true,
@@ -99708,6 +99803,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:braze:8400574"
         },
+        "8401622": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Braze",
+            "id": "8401622",
+            "location": "Singapore",
+            "posted_at": "2026-11-20T02:18:57-05:00",
+            "source": "greenhouse",
+            "title": "Account Executive, SMB",
+            "updated_at": "2026-11-20T02:18:57-05:00",
+            "url": "https://job-boards.greenhouse.io/braze/jobs/8401622"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:braze:8401622"
+        },
         "8403010": {
           "alerted": true,
           "category": "Low priority",
@@ -120995,6 +121109,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:cloudflare:8386684"
+        },
+        "8391880": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Cloudflare",
+            "id": "8391880",
+            "location": "Hybrid",
+            "posted_at": "2026-11-19T23:47:10-05:00",
+            "source": "greenhouse",
+            "title": "Senior Territory Account Executive, Bengaluru",
+            "updated_at": "2026-11-19T23:47:10-05:00",
+            "url": "https://boards.greenhouse.io/cloudflare/jobs/8391880?gh_jid=8391880"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:cloudflare:8391880"
         },
         "8392838": {
           "alerted": true,
@@ -162891,6 +163024,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:datadog:8398016"
         },
+        "8398963": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8398963",
+            "location": "Amsterdam, The Netherlands; Dublin, Ireland",
+            "posted_at": "2026-11-20T03:53:29-05:00",
+            "source": "greenhouse",
+            "title": "Commercial Sales Engineer (Italian Speaking)",
+            "updated_at": "2026-11-20T03:53:29-05:00",
+            "url": "https://careers.datadoghq.com/detail/8398963/?gh_jid=8398963"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8398963"
+        },
         "8400585": {
           "alerted": true,
           "category": "Low priority",
@@ -165009,6 +165161,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "6333181": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Dropbox",
+            "id": "6333181",
+            "location": "Remote - Poland",
+            "posted_at": "2025-07-16T10:24:34-04:00",
+            "source": "greenhouse",
+            "title": "Senior Infrastructure Software Engineer",
+            "updated_at": "2026-11-20T03:38:56-05:00",
+            "url": "https://jobs.dropbox.com/listing/6333181?gh_jid=6333181"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:dropbox:6333181"
         },
         "6449729": {
           "alerted": true,
@@ -175521,6 +175692,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:elastic:8371794"
         },
+        "8372378": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8372378",
+            "location": "Spain",
+            "posted_at": "2026-11-20T06:41:16-05:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+            "updated_at": "2026-11-20T06:41:16-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8372378&gh_jid=8372378"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8372378"
+        },
         "8372380": {
           "alerted": true,
           "category": "Low priority",
@@ -175977,6 +176167,44 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:elastic:8382571"
         },
+        "8382575": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8382575",
+            "location": "Indonesia",
+            "posted_at": "2026-11-20T05:51:40-05:00",
+            "source": "greenhouse",
+            "title": "Principal Solution Architect",
+            "updated_at": "2026-11-20T05:51:40-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8382575&gh_jid=8382575"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8382575"
+        },
+        "8382577": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8382577",
+            "location": "Seoul, South Korea",
+            "posted_at": "2026-11-20T05:53:58-05:00",
+            "source": "greenhouse",
+            "title": "Principal Solution Architect",
+            "updated_at": "2026-11-20T05:53:58-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8382577&gh_jid=8382577"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8382577"
+        },
         "8382582": {
           "alerted": true,
           "category": "Low priority",
@@ -176185,6 +176413,44 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:elastic:8402308"
+        },
+        "8405578": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8405578",
+            "location": "Greece",
+            "posted_at": "2026-11-20T06:41:18-05:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+            "updated_at": "2026-11-20T06:41:18-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8405578&gh_jid=8405578"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8405578"
+        },
+        "8405579": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Elastic",
+            "id": "8405579",
+            "location": "Portugal",
+            "posted_at": "2026-11-20T06:41:59-05:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+            "updated_at": "2026-11-20T06:41:59-05:00",
+            "url": "https://jobs.elastic.co/jobs?gh_jid=8405579&gh_jid=8405579"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:elastic:8405579"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -184925,6 +185191,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:figma:6263994004"
+        },
+        "6264943004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Figma",
+            "id": "6264943004",
+            "location": "London, England",
+            "posted_at": "2026-11-20T04:09:28-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Deal Desk (London, United Kingdom)",
+            "updated_at": "2026-11-20T04:09:28-05:00",
+            "url": "https://boards.greenhouse.io/figma/jobs/6264943004?gh_jid=6264943004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:figma:6264943004"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -190150,6 +190435,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "7994556": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Flexport",
+            "id": "7994556",
+            "location": "Taipei, Taiwan",
+            "posted_at": "2026-06-10T01:52:50-04:00",
+            "source": "greenhouse",
+            "title": "Ocean Operations Specialist",
+            "updated_at": "2026-11-20T00:31:31-05:00",
+            "url": "https://job-boards.greenhouse.io/flexport/jobs/7994556"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:flexport:7994556"
+        },
         "7994947": {
           "alerted": true,
           "category": "Low priority",
@@ -191364,6 +191668,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8203454": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Flexport",
+            "id": "8203454",
+            "location": "Shanghai, China",
+            "posted_at": "2026-09-15T23:38:02-04:00",
+            "source": "greenhouse",
+            "title": "Air Operations Associate",
+            "updated_at": "2026-11-20T03:17:09-05:00",
+            "url": "https://job-boards.greenhouse.io/flexport/jobs/8203454"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:flexport:8203454"
         },
         "8204027": {
           "alerted": true,
@@ -199056,6 +199379,25 @@
     "greenhouse:grafanalabs": {
       "company": "Grafana Labs",
       "seen": {
+        "5765376004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Grafana Labs",
+            "id": "5765376004",
+            "location": "France (Remote)",
+            "posted_at": "2026-01-15T05:15:29-05:00",
+            "source": "greenhouse",
+            "title": "Sales Development Representative | France | Remote",
+            "updated_at": "2026-11-20T05:14:16-05:00",
+            "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5765376004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:grafanalabs:5765376004"
+        },
         "5823504004": {
           "alerted": true,
           "category": "Low priority",
@@ -202419,6 +202761,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:grafanalabs:6265848004"
+        },
+        "6266233004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Grafana Labs",
+            "id": "6266233004",
+            "location": "Netherlands (Remote)",
+            "posted_at": "2026-11-20T05:58:08-05:00",
+            "source": "greenhouse",
+            "title": "Major Account Executive | Remote | Netherlands",
+            "updated_at": "2026-11-20T05:58:08-05:00",
+            "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6266233004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:grafanalabs:6266233004"
         },
         "6266529004": {
           "alerted": true,
@@ -217707,6 +218068,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:janestreet:8930127002"
+        },
+        "8946721002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Jane Street",
+            "id": "8946721002",
+            "location": "Hong Kong, Hong Kong",
+            "posted_at": "2026-11-20T02:46:06-05:00",
+            "source": "greenhouse",
+            "title": "Employee Compliance Specialist ",
+            "updated_at": "2026-11-20T02:46:06-05:00",
+            "url": "https://www.janestreet.com/join-jane-street/apply/8946721002?gh_jid=8946721002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:janestreet:8946721002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -223791,6 +224171,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8040122003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Klaviyo",
+            "id": "8040122003",
+            "location": "London, UK",
+            "posted_at": "2026-11-20T04:10:39-05:00",
+            "source": "greenhouse",
+            "title": "Customer Success Manager - Mid/ Large Enterprise",
+            "updated_at": "2026-11-20T04:10:39-05:00",
+            "url": "https://www.klaviyo.com/careers/jobs/8040122003?gh_jid=8040122003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:klaviyo:8040122003"
         },
         "8040490003": {
           "alerted": true,
@@ -236167,6 +236566,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:lucidmotors:5302760007"
+        },
+        "5303003007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "5303003007",
+            "location": "Amsterdam, NH",
+            "posted_at": "2026-11-20T03:50:39-05:00",
+            "source": "greenhouse",
+            "title": "Body Repair Operations Manager - Europe",
+            "updated_at": "2026-11-20T03:50:39-05:00",
+            "url": "https://lucidmotors.com/careers/search/5303003007?gh_jid=5303003007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:5303003007"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -253486,6 +253904,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:netskope:8399331"
+        },
+        "8405460": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Netskope",
+            "id": "8405460",
+            "location": "Germany",
+            "posted_at": "2026-11-20T05:39:39-05:00",
+            "source": "greenhouse",
+            "title": "Strategic Sales Manager - Major Accounts Western Germany",
+            "updated_at": "2026-11-20T05:39:39-05:00",
+            "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8405460"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:netskope:8405460"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -257582,6 +258019,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "7858260": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "7858260",
+            "location": "Poland",
+            "posted_at": "2026-04-27T12:49:01-04:00",
+            "source": "greenhouse",
+            "title": "Localization Coordinator",
+            "updated_at": "2026-11-20T05:40:23-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/7858260?gh_jid=7858260"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:7858260"
+        },
         "7860180": {
           "alerted": true,
           "category": "Low priority",
@@ -258619,6 +259075,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8079016": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8079016",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-07-23T12:55:49-04:00",
+            "source": "greenhouse",
+            "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+            "updated_at": "2026-11-20T02:10:53-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8079016"
         },
         "8079108": {
           "alerted": true,
@@ -261234,6 +261709,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8242443": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8242443",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-19T23:47:27-05:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer - Advanced Threat Protection",
+            "updated_at": "2026-11-20T05:48:44-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8242443?gh_jid=8242443"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8242443"
+        },
         "8242557": {
           "alerted": true,
           "category": "Low priority",
@@ -262042,6 +262536,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:okta:8266566"
+        },
+        "8266577": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8266577",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-10-09T04:19:43-04:00",
+            "source": "greenhouse",
+            "title": "Staff Software Engineer",
+            "updated_at": "2026-11-20T06:58:18-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8266577?gh_jid=8266577"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8266577"
         },
         "8267278": {
           "alerted": true,
@@ -265242,6 +265755,82 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:okta:8403862"
+        },
+        "8404911": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8404911",
+            "location": "San Francisco, CA, United States",
+            "posted_at": "2026-11-19T23:58:09-05:00",
+            "source": "greenhouse",
+            "title": "SMB Customer Account Executive",
+            "updated_at": "2026-11-19T23:58:09-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8404911?gh_jid=8404911"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8404911"
+        },
+        "8404912": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8404912",
+            "location": "Chicago, Illinois, United States",
+            "posted_at": "2026-11-20T00:00:14-05:00",
+            "source": "greenhouse",
+            "title": "SMB New Business Account Executive",
+            "updated_at": "2026-11-20T00:00:14-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8404912?gh_jid=8404912"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8404912"
+        },
+        "8405211": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8405211",
+            "location": "Bengaluru",
+            "posted_at": "2026-11-20T06:59:38-05:00",
+            "source": "greenhouse",
+            "title": "People Operations Specialist (Payroll & Compensation )",
+            "updated_at": "2026-11-20T06:59:38-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8405211?gh_jid=8405211"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8405211"
+        },
+        "8405220": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8405220",
+            "location": "Bengaluru",
+            "posted_at": "2026-11-20T06:56:04-05:00",
+            "source": "greenhouse",
+            "title": "Staff Product Manager - Finance (RTR)",
+            "updated_at": "2026-11-20T06:56:04-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8405220?gh_jid=8405220"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8405220"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -276059,6 +276648,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:point72:8946758002"
         },
+        "8948017002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Point72",
+            "id": "8948017002",
+            "location": "India",
+            "posted_at": "2026-11-20T04:09:28-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer, Tax Technology",
+            "updated_at": "2026-11-20T04:09:28-05:00",
+            "url": "https://boards.greenhouse.io/point72/jobs/8948017002?gh_jid=8948017002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:point72:8948017002"
+        },
         "8950368002": {
           "alerted": true,
           "category": "Low priority",
@@ -276221,6 +276829,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "4908174101": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Proton",
+            "id": "4908174101",
+            "location": "Paris, London",
+            "posted_at": "2026-07-07T10:08:32-04:00",
+            "source": "greenhouse",
+            "title": "Senior Product Designer (Inbox)",
+            "updated_at": "2026-11-20T06:50:37-05:00",
+            "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4908174101"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:proton:4908174101"
         },
         "4936072101": {
           "alerted": true,
@@ -311686,6 +312313,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8166523": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8166523",
+            "location": "Bangalore",
+            "posted_at": "2026-09-06T08:42:59-04:00",
+            "source": "greenhouse",
+            "title": "Software Engineer - Winter Intern",
+            "updated_at": "2026-11-19T23:33:48-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8166523"
+        },
         "8166537": {
           "alerted": true,
           "category": "Low priority",
@@ -314867,6 +315513,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rubrik:8398158"
+        },
+        "8401372": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8401372",
+            "location": "Bengaluru",
+            "posted_at": "2026-11-19T23:13:11-05:00",
+            "source": "greenhouse",
+            "title": "Senior Technical Research Analyst",
+            "updated_at": "2026-11-19T23:13:11-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8401372?gh_jid=8401372"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8401372"
         },
         "8402233": {
           "alerted": true,
@@ -396481,6 +397146,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8236540": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Stripe",
+            "id": "8236540",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-19T23:49:48-05:00",
+            "source": "greenhouse",
+            "title": "UPO Team Lead (Operations) ",
+            "updated_at": "2026-11-20T01:27:40-05:00",
+            "url": "https://stripe.com/jobs/search?gh_jid=8236540"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:stripe:8236540"
+        },
         "8237244": {
           "alerted": true,
           "category": "Low priority",
@@ -411194,6 +411878,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:toast:8284248"
         },
+        "8284256": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8284256",
+            "location": "Bangalore, India",
+            "posted_at": "2026-10-22T07:11:49-04:00",
+            "source": "greenhouse",
+            "title": "Senior Software Engineer",
+            "updated_at": "2026-11-20T07:04:08-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8284256"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8284256"
+        },
         "8284919": {
           "alerted": true,
           "category": "Low priority",
@@ -414943,6 +415646,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:toast:8392130"
+        },
+        "8392140": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "company": "Toast",
+            "id": "8392140",
+            "location": "Bangalore, India",
+            "posted_at": "2026-11-20T07:21:01-05:00",
+            "source": "greenhouse",
+            "title": "QA Engineer II",
+            "updated_at": "2026-11-20T07:21:01-05:00",
+            "url": "https://careers.toasttab.com/jobs?gh_jid=8392140"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:toast:8392140"
         },
         "8392339": {
           "alerted": true,
@@ -489484,6 +490206,31 @@
           "tohuman_future": true,
           "tohuman_key": "usajobs:federal:893476500"
         },
+        "893564500": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "closes_at": "2027-03-31T23:59:59.9970",
+            "company": "Bureau of Reclamation",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "public"
+            ],
+            "id": "893564500",
+            "intern_type": false,
+            "location": "Mills, Wyoming",
+            "posted_at": "2026-11-20T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/893564500"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:893564500"
+        },
         "893605600": {
           "alerted": true,
           "category": "Low priority",
@@ -489543,6 +490290,32 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "usajobs:federal:893616400"
+        },
+        "893697100": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-20T12:36:39+00:00",
+          "job": {
+            "closes_at": "2026-11-29T23:59:59.9970",
+            "company": "Bonneville Power Administration",
+            "employment_type": "",
+            "hiring_paths": [
+              "fed-transition",
+              "mspouse",
+              "public"
+            ],
+            "id": "893697100",
+            "intern_type": false,
+            "location": "Vancouver, Washington",
+            "posted_at": "2026-11-20T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Electronics Engineer",
+            "url": "https://www.usajobs.gov:443/job/893697100"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:893697100"
         }
       },
       "started_at": "2026-11-04T04:38:10+00:00"
