@@ -530844,8 +530844,9 @@
         "input_words": 250,
         "month": "2026-11",
         "notified": false,
+        "reason": "Rewrite did not pass conservative factual verification",
         "reserved_words": 370,
-        "status": "attempted"
+        "status": "rejected"
       },
       "lever:zoox:f35b2447-360f-4945-8ae8-16870e8d7558": {
         "delivered": "original",
