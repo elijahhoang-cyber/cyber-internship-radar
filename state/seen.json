@@ -38305,6 +38305,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "a42047fc-fbd1-4e14-bf10-15207ae2d060": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "a42047fc-fbd1-4e14-bf10-15207ae2d060",
+            "intern_type": false,
+            "location": "New York",
+            "posted_at": "2026-11-21T17:44:26.219+00:00",
+            "source": "ashby",
+            "title": "Creative AI Engineer",
+            "url": "https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:a42047fc-fbd1-4e14-bf10-15207ae2d060"
+        },
         "a4668463-24f1-4b58-85d0-ac6e9637ae97": {
           "alerted": true,
           "category": "Low priority",
@@ -40328,6 +40347,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "e46d48b8-57c7-401c-be33-f56774dc072d": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "e46d48b8-57c7-401c-be33-f56774dc072d",
+            "intern_type": false,
+            "location": "San Francisco",
+            "posted_at": "2026-11-21T17:44:35.163+00:00",
+            "source": "ashby",
+            "title": "Creative AI Engineer",
+            "url": "https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:e46d48b8-57c7-401c-be33-f56774dc072d"
         },
         "e5272fbe-4431-4841-bf00-b9f59812b82a": {
           "alerted": true,
@@ -123617,6 +123655,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:cloudflare:8406159"
+        },
+        "8406944": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "Cloudflare",
+            "id": "8406944",
+            "location": "In-Office",
+            "posted_at": "2026-11-21T12:47:15-05:00",
+            "source": "greenhouse",
+            "title": "Senior Platform Engineer, Replicate",
+            "updated_at": "2026-11-21T12:47:15-05:00",
+            "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:cloudflare:8406944"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -392577,6 +392634,44 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8949135002"
         },
+        "8949186002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8949186002",
+            "location": "Austin, TX",
+            "posted_at": "2026-11-21T13:32:49-05:00",
+            "source": "greenhouse",
+            "title": "Sourcing Manager (Compute Infrastructure)",
+            "updated_at": "2026-11-21T13:33:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8949186002?gh_jid=8949186002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8949186002"
+        },
+        "8949190002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8949190002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-21T13:32:51-05:00",
+            "source": "greenhouse",
+            "title": "Sourcing Manager (Compute Infrastructure)",
+            "updated_at": "2026-11-21T13:33:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8949190002?gh_jid=8949190002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8949190002"
+        },
         "8949196002": {
           "alerted": true,
           "category": "Low priority",
@@ -392595,6 +392690,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8949196002"
+        },
+        "8949272002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8949272002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-21T13:24:03-05:00",
+            "source": "greenhouse",
+            "title": "Sourcing Manager (Network Infrastructure)",
+            "updated_at": "2026-11-21T13:24:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8949272002?gh_jid=8949272002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8949272002"
         },
         "8949311002": {
           "alerted": true,
@@ -393736,6 +393850,63 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8952403002"
         },
+        "8952834002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8952834002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-21T15:21:40-05:00",
+            "source": "greenhouse",
+            "title": "Critical Lift Technician - Transport (Starship)",
+            "updated_at": "2026-11-21T15:22:04-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8952834002?gh_jid=8952834002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8952834002"
+        },
+        "8952875002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8952875002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-21T15:21:42-05:00",
+            "source": "greenhouse",
+            "title": "SPMT Operator - Transport (Starship)",
+            "updated_at": "2026-11-21T15:22:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8952875002?gh_jid=8952875002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8952875002"
+        },
+        "8952902002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8952902002",
+            "location": "Starbase, TX",
+            "posted_at": "2026-11-21T15:16:29-05:00",
+            "source": "greenhouse",
+            "title": "Critical Lift & Transport Engineer (Starship)",
+            "updated_at": "2026-11-21T15:17:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8952902002?gh_jid=8952902002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8952902002"
+        },
         "8952904002": {
           "alerted": true,
           "category": "Low priority",
@@ -394325,6 +394496,63 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8957044002"
         },
+        "8957217002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957217002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-21T15:03:03-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+            "updated_at": "2026-11-21T15:03:04-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957217002?gh_jid=8957217002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957217002"
+        },
+        "8957229002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957229002",
+            "location": "Austin, TX",
+            "posted_at": "2026-11-21T15:03:05-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+            "updated_at": "2026-11-21T15:03:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957229002?gh_jid=8957229002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957229002"
+        },
+        "8957252002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957252002",
+            "location": "Austin, TX",
+            "posted_at": "2026-11-21T13:24:05-05:00",
+            "source": "greenhouse",
+            "title": "Sourcing Manager (Network Infrastructure)",
+            "updated_at": "2026-11-21T13:24:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957252002?gh_jid=8957252002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957252002"
+        },
         "8957263002": {
           "alerted": true,
           "category": "Low priority",
@@ -394343,6 +394571,63 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8957263002"
+        },
+        "8957350002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957350002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-21T15:15:18-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+            "updated_at": "2026-11-21T15:16:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957350002?gh_jid=8957350002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957350002"
+        },
+        "8957359002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957359002",
+            "location": "Austin, TX",
+            "posted_at": "2026-11-21T15:15:19-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+            "updated_at": "2026-11-21T15:16:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957359002?gh_jid=8957359002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957359002"
+        },
+        "8957360002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957360002",
+            "location": "Palo Alto, CA",
+            "posted_at": "2026-11-21T15:15:22-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+            "updated_at": "2026-11-21T15:16:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957360002?gh_jid=8957360002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957360002"
         },
         "8957363002": {
           "alerted": true,
@@ -394495,6 +394780,158 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8957538002"
+        },
+        "8957582002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957582002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-21T12:20:17-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Design Reliability Engineer (Falcon & Dragon)",
+            "updated_at": "2026-11-21T12:21:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957582002?gh_jid=8957582002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957582002"
+        },
+        "8957661002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957661002",
+            "location": "Bastrop, TX",
+            "posted_at": "2026-11-21T14:09:41-05:00",
+            "source": "greenhouse",
+            "title": "Supplier Development Engineer, Electrical (SpaceXSI)",
+            "updated_at": "2026-11-21T14:10:05-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957661002?gh_jid=8957661002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957661002"
+        },
+        "8957866002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957866002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-21T12:23:25-05:00",
+            "source": "greenhouse",
+            "title": "Electrical Systems Engineer (Falcon & Dragon)",
+            "updated_at": "2026-11-21T12:23:25-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957866002?gh_jid=8957866002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957866002"
+        },
+        "8957867002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957867002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-21T12:25:41-05:00",
+            "source": "greenhouse",
+            "title": "Electrical Systems Engineer (Special Programs)",
+            "updated_at": "2026-11-21T12:25:41-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957867002?gh_jid=8957867002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957867002"
+        },
+        "8957868002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957868002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-21T13:09:30-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Avionics Systems Engineer (Falcon & Dragon)",
+            "updated_at": "2026-11-21T13:09:30-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957868002?gh_jid=8957868002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957868002"
+        },
+        "8957870002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957870002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-21T13:09:32-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Electrical Systems Engineer (Falcon & Dragon)",
+            "updated_at": "2026-11-21T13:09:32-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957870002?gh_jid=8957870002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957870002"
+        },
+        "8957873002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957873002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-21T13:20:10-05:00",
+            "source": "greenhouse",
+            "title": "New Graduate Engineer, Electrical (Starfall)",
+            "updated_at": "2026-11-21T13:20:10-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957873002"
+        },
+        "8957885002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8957885002",
+            "location": "Hawthorne, CA",
+            "posted_at": "2026-11-21T13:29:46-05:00",
+            "source": "greenhouse",
+            "title": "Electrical Design Engineer (Starfall Avionics)",
+            "updated_at": "2026-11-21T13:29:46-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8957885002?gh_jid=8957885002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8957885002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -425779,6 +426216,63 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:togetherai:5295895007"
+        },
+        "5300653007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "Together AI",
+            "id": "5300653007",
+            "location": "San Francisco",
+            "posted_at": "2026-11-21T12:18:06-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Solutions Architect ",
+            "updated_at": "2026-11-21T13:02:59-05:00",
+            "url": "https://job-boards.greenhouse.io/togetherai/jobs/5300653007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:togetherai:5300653007"
+        },
+        "5300712007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "Together AI",
+            "id": "5300712007",
+            "location": "New York, NY",
+            "posted_at": "2026-11-21T12:17:18-05:00",
+            "source": "greenhouse",
+            "title": "Solutions Architect ",
+            "updated_at": "2026-11-21T12:17:18-05:00",
+            "url": "https://job-boards.greenhouse.io/togetherai/jobs/5300712007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:togetherai:5300712007"
+        },
+        "5302660007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T21:45:50+00:00",
+          "job": {
+            "company": "Together AI",
+            "id": "5302660007",
+            "location": "Pune or Bangalore, India",
+            "posted_at": "2026-11-21T12:16:44-05:00",
+            "source": "greenhouse",
+            "title": "Technical Support Engineer (Inference)",
+            "updated_at": "2026-11-21T12:16:44-05:00",
+            "url": "https://job-boards.greenhouse.io/togetherai/jobs/5302660007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:togetherai:5302660007"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
