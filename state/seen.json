@@ -78904,6 +78904,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:anthropic:5480893008"
         },
+        "5480986008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T16:25:16+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5480986008",
+            "location": "Seoul, South Korea",
+            "posted_at": "2026-11-21T07:24:21-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Applied AI Architect",
+            "updated_at": "2026-11-21T07:24:21-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480986008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5480986008"
+        },
         "5481096008": {
           "alerted": true,
           "category": "Low priority",
@@ -79340,6 +79359,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:anthropic:5489564008"
+        },
+        "5489567008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-21T16:25:16+00:00",
+          "job": {
+            "company": "Anthropic",
+            "id": "5489567008",
+            "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+            "posted_at": "2026-11-21T07:52:27-05:00",
+            "source": "greenhouse",
+            "title": "Research Engineer, Finetuning",
+            "updated_at": "2026-11-21T07:52:56-05:00",
+            "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:anthropic:5489567008"
         },
         "5490122008": {
           "alerted": true,
