@@ -136222,6 +136222,120 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:coreweave:4730689006"
         },
+        "4730695006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-22T16:41:42+00:00",
+          "job": {
+            "company": "CoreWeave",
+            "id": "4730695006",
+            "location": "Sunnyvale, CA",
+            "posted_at": "2026-11-22T07:17:03-05:00",
+            "source": "greenhouse",
+            "title": "Technical Program Manager, Cloud Security",
+            "updated_at": "2026-11-22T07:17:03-05:00",
+            "url": "https://coreweave.com/careers/job?4730695006&board=coreweave&gh_jid=4730695006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coreweave:4730695006"
+        },
+        "4730698006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-22T16:41:42+00:00",
+          "job": {
+            "company": "CoreWeave",
+            "id": "4730698006",
+            "location": "New York, NY",
+            "posted_at": "2026-11-22T07:19:31-05:00",
+            "source": "greenhouse",
+            "title": "Senior Technical Program Manager, Production IAM",
+            "updated_at": "2026-11-22T07:19:31-05:00",
+            "url": "https://coreweave.com/careers/job?4730698006&board=coreweave&gh_jid=4730698006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coreweave:4730698006"
+        },
+        "4730704006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-22T16:41:42+00:00",
+          "job": {
+            "company": "CoreWeave",
+            "id": "4730704006",
+            "location": "New York, NY",
+            "posted_at": "2026-11-22T07:10:37-05:00",
+            "source": "greenhouse",
+            "title": "Senior Technical Program Manager, Security Program Operations",
+            "updated_at": "2026-11-22T07:10:37-05:00",
+            "url": "https://coreweave.com/careers/job?4730704006&board=coreweave&gh_jid=4730704006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coreweave:4730704006"
+        },
+        "4730711006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-22T16:41:42+00:00",
+          "job": {
+            "company": "CoreWeave",
+            "id": "4730711006",
+            "location": "New York, NY",
+            "posted_at": "2026-11-22T07:15:10-05:00",
+            "source": "greenhouse",
+            "title": "Senior Technical Program Manager, Assurance Engineering",
+            "updated_at": "2026-11-22T07:15:10-05:00",
+            "url": "https://coreweave.com/careers/job?4730711006&board=coreweave&gh_jid=4730711006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coreweave:4730711006"
+        },
+        "4730716006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-22T16:41:42+00:00",
+          "job": {
+            "company": "CoreWeave",
+            "id": "4730716006",
+            "location": "New York, NY",
+            "posted_at": "2026-11-22T07:21:00-05:00",
+            "source": "greenhouse",
+            "title": "Senior Technical Program Manager, Product Security",
+            "updated_at": "2026-11-22T07:21:00-05:00",
+            "url": "https://coreweave.com/careers/job?4730716006&board=coreweave&gh_jid=4730716006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coreweave:4730716006"
+        },
+        "4730726006": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-22T16:41:42+00:00",
+          "job": {
+            "company": "CoreWeave",
+            "id": "4730726006",
+            "location": "New York, NY",
+            "posted_at": "2026-11-22T07:22:44-05:00",
+            "source": "greenhouse",
+            "title": "Senior Technical Program Manager, Security Risk and M&A Security ",
+            "updated_at": "2026-11-22T07:22:44-05:00",
+            "url": "https://coreweave.com/careers/job?4730726006&board=coreweave&gh_jid=4730726006"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coreweave:4730726006"
+        },
         "4730744006": {
           "alerted": true,
           "category": "Low priority",
@@ -269859,6 +269973,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:okta:8359871"
+        },
+        "8360107": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-22T16:41:42+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8360107",
+            "location": "Dublin",
+            "posted_at": "2026-11-22T03:57:24-05:00",
+            "source": "greenhouse",
+            "title": "Senior Engineer, Core Service Interfaces (Auth0)",
+            "updated_at": "2026-11-22T04:02:00-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8360107?gh_jid=8360107"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8360107"
         },
         "8360154": {
           "alerted": true,
