@@ -271056,6 +271056,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:okta:8406600"
+        },
+        "8407829": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-23T02:30:39+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8407829",
+            "location": "Bengaluru",
+            "posted_at": "2026-11-22T21:03:36-05:00",
+            "source": "greenhouse",
+            "title": "Senior Manager, Order to Cash & Revenue - Finance Technology",
+            "updated_at": "2026-11-22T21:03:36-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8407829?gh_jid=8407829"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8407829"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -281986,6 +282005,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:point72:8950368002"
+        },
+        "8958137002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-23T02:30:39+00:00",
+          "job": {
+            "company": "Point72",
+            "id": "8958137002",
+            "location": "Singapore",
+            "posted_at": "2026-11-22T20:53:47-05:00",
+            "source": "greenhouse",
+            "title": "Canvas Fundamental Researcher, Singapore",
+            "updated_at": "2026-11-22T20:53:47-05:00",
+            "url": "https://boards.greenhouse.io/point72/jobs/8958137002?gh_jid=8958137002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:point72:8958137002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
