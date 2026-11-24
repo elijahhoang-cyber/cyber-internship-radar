@@ -243858,7 +243858,7 @@
             "updated_at": "2026-11-23T19:11:35-05:00",
             "url": "https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007"
           },
-          "letter_sent": false,
+          "letter_sent": true,
           "score": 95,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:lucidmotors:5290780007"
@@ -548641,9 +548641,10 @@
   "tohuman": {
     "jobs": {
       "greenhouse:lucidmotors:5290780007": {
+        "delivered": "humanized",
         "input_words": 256,
         "month": "2026-11",
-        "notified": false,
+        "notified": true,
         "output_words": 249,
         "reserved_words": 370,
         "status": "verified"
