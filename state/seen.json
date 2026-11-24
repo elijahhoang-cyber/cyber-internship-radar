@@ -548644,8 +548644,9 @@
         "input_words": 256,
         "month": "2026-11",
         "notified": false,
+        "output_words": 249,
         "reserved_words": 370,
-        "status": "attempted"
+        "status": "verified"
       },
       "greenhouse:lucidmotors:5290941007": {
         "delivered": "original",
