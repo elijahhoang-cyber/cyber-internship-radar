@@ -40244,6 +40244,25 @@
           "tohuman_future": true,
           "tohuman_key": "ashby:harvey:acd2604b-426a-4d2f-bcd3-e57f66f8d470"
         },
+        "acfe78ba-48f7-4668-b990-44c39f95a8c0": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "acfe78ba-48f7-4668-b990-44c39f95a8c0",
+            "intern_type": false,
+            "location": "Singapore",
+            "posted_at": "2026-11-26T04:02:29.131+00:00",
+            "source": "ashby",
+            "title": "Legal Engineer, Custom Solutions",
+            "url": "https://jobs.ashbyhq.com/harvey/acfe78ba-48f7-4668-b990-44c39f95a8c0"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:acfe78ba-48f7-4668-b990-44c39f95a8c0"
+        },
         "ad1fb947-0858-4e81-a8e0-a7d4a2822201": {
           "alerted": true,
           "category": "Low priority",
@@ -42197,6 +42216,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "eaa58e64-f64e-4c80-850f-c0bb9972a90b": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "harvey",
+            "id": "eaa58e64-f64e-4c80-850f-c0bb9972a90b",
+            "intern_type": false,
+            "location": "Sydney",
+            "posted_at": "2026-11-26T04:49:13.689+00:00",
+            "source": "ashby",
+            "title": "Head of Commercial & SMB, APAC",
+            "url": "https://jobs.ashbyhq.com/harvey/eaa58e64-f64e-4c80-850f-c0bb9972a90b"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:harvey:eaa58e64-f64e-4c80-850f-c0bb9972a90b"
         },
         "eab239f7-11b5-4033-aa51-001a5423e7e1": {
           "alerted": true,
@@ -89047,6 +89085,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:axonius:8203799003"
+        },
+        "8217221003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Axonius",
+            "id": "8217221003",
+            "location": "Tel Aviv, Israel",
+            "posted_at": "2026-11-26T03:09:27-05:00",
+            "source": "greenhouse",
+            "title": "Senior Product Security Architect",
+            "updated_at": "2026-11-26T03:09:27-05:00",
+            "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8217221003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:axonius:8217221003"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -105464,6 +105521,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:braze:8415902"
+        },
+        "8417915": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Braze",
+            "id": "8417915",
+            "location": "Sydney",
+            "posted_at": "2026-11-25T22:25:59-05:00",
+            "source": "greenhouse",
+            "title": "Senior Customer Success Manager, Enterprise",
+            "updated_at": "2026-11-25T22:25:59-05:00",
+            "url": "https://job-boards.greenhouse.io/braze/jobs/8417915"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:braze:8417915"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -128729,6 +128805,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:cloudflare:8412125"
         },
+        "8414218": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Cloudflare",
+            "id": "8414218",
+            "location": "Hybrid",
+            "posted_at": "2026-11-26T06:20:47-05:00",
+            "source": "greenhouse",
+            "title": "Senior Strategic Account Executive, Central Eastern Europe",
+            "updated_at": "2026-11-26T06:20:47-05:00",
+            "url": "https://boards.greenhouse.io/cloudflare/jobs/8414218?gh_jid=8414218"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:cloudflare:8414218"
+        },
         "8415399": {
           "alerted": true,
           "category": "Low priority",
@@ -143406,6 +143501,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:coursera:6252450004"
         },
+        "6260969004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Coursera",
+            "id": "6260969004",
+            "location": "Singapore",
+            "posted_at": "2026-11-26T01:29:39-05:00",
+            "source": "greenhouse",
+            "title": "Account Lead - C4X",
+            "updated_at": "2026-11-26T01:29:39-05:00",
+            "url": "https://job-boards.greenhouse.io/coursera/jobs/6260969004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coursera:6260969004"
+        },
         "6261069004": {
           "alerted": true,
           "category": "Low priority",
@@ -143595,6 +143709,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:coursera:6268340004"
+        },
+        "6270090004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Coursera",
+            "id": "6270090004",
+            "location": "United Arab Emirates",
+            "posted_at": "2026-11-26T06:10:29-05:00",
+            "source": "greenhouse",
+            "title": "Sales & Solutions Engineer UAE",
+            "updated_at": "2026-11-26T06:10:29-05:00",
+            "url": "https://job-boards.greenhouse.io/coursera/jobs/6270090004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coursera:6270090004"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -156508,6 +156641,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8735814002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "8735814002",
+            "location": "Mumbai, India",
+            "posted_at": "2026-09-16T14:23:37-04:00",
+            "source": "greenhouse",
+            "title": "Delivery Solutions Architect",
+            "updated_at": "2026-11-25T23:10:16-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735814002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:8735814002"
+        },
         "8735820002": {
           "alerted": true,
           "category": "Low priority",
@@ -163620,6 +163772,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:databricks:8937118002"
         },
+        "8937350002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "8937350002",
+            "location": "Singapore",
+            "posted_at": "2026-11-25T22:44:49-05:00",
+            "source": "greenhouse",
+            "title": "Solutions Architect",
+            "updated_at": "2026-11-25T22:44:49-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937350002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:8937350002"
+        },
         "8937360002": {
           "alerted": true,
           "category": "Low priority",
@@ -164227,6 +164398,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:databricks:8961261002"
+        },
+        "8963204002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "8963204002",
+            "location": "Singapore",
+            "posted_at": "2026-11-25T23:32:12-05:00",
+            "source": "greenhouse",
+            "title": "Manager, Field Engineering (Greater China)",
+            "updated_at": "2026-11-25T23:32:12-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963204002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:8963204002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -172410,6 +172600,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:datadog:8414413"
+        },
+        "8414434": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8414434",
+            "location": "Germany, Remote",
+            "posted_at": "2026-11-26T05:43:59-05:00",
+            "source": "greenhouse",
+            "title": "Enterprise Sales Engineer - Germany",
+            "updated_at": "2026-11-26T05:43:59-05:00",
+            "url": "https://careers.datadoghq.com/detail/8414434/?gh_jid=8414434"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8414434"
         },
         "8414502": {
           "alerted": true,
@@ -205888,6 +206097,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:flexport:8406328"
         },
+        "8411338": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Flexport",
+            "id": "8411338",
+            "location": "Chennai, India",
+            "posted_at": "2026-11-26T02:43:51-05:00",
+            "source": "greenhouse",
+            "title": "Air Operations Associate, Chennai",
+            "updated_at": "2026-11-26T02:43:51-05:00",
+            "url": "https://job-boards.greenhouse.io/flexport/jobs/8411338"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:flexport:8411338"
+        },
         "8414620": {
           "alerted": true,
           "category": "Low priority",
@@ -205963,6 +206191,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:flexport:8415957"
+        },
+        "8417156": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Flexport",
+            "id": "8417156",
+            "location": "Gurugram",
+            "posted_at": "2026-11-26T02:44:49-05:00",
+            "source": "greenhouse",
+            "title": "Air Operations Associate, Gurugram",
+            "updated_at": "2026-11-26T02:44:49-05:00",
+            "url": "https://job-boards.greenhouse.io/flexport/jobs/8417156"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:flexport:8417156"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -225319,6 +225566,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "7409215": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Fin",
+            "id": "7409215",
+            "location": "Sydney, Australia",
+            "posted_at": "2025-12-03T18:35:14-05:00",
+            "source": "greenhouse",
+            "title": "Technical Support Engineer",
+            "updated_at": "2026-11-26T00:05:39-05:00",
+            "url": "https://job-boards.greenhouse.io/intercom/jobs/7409215"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:intercom:7409215"
+        },
         "7411373": {
           "alerted": true,
           "category": "Low priority",
@@ -233753,6 +234019,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:jumptrading:8350995"
         },
+        "8364847": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Jump Trading",
+            "id": "8364847",
+            "location": "Singapore",
+            "posted_at": "2026-11-26T01:20:06-05:00",
+            "source": "greenhouse",
+            "title": "Procurement & Logistics Analyst",
+            "updated_at": "2026-11-26T01:20:49-05:00",
+            "url": "https://www.jumptrading.com/hr/job?gh_jid=8364847"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:jumptrading:8364847"
+        },
         "8370626": {
           "alerted": true,
           "category": "Low priority",
@@ -233828,6 +234113,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:jumptrading:8413097"
+        },
+        "8418628": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Jump Trading",
+            "id": "8418628",
+            "location": "Mumbai",
+            "posted_at": "2026-11-26T01:20:15-05:00",
+            "source": "greenhouse",
+            "title": "Procurement & Logistics Analyst ",
+            "updated_at": "2026-11-26T01:20:15-05:00",
+            "url": "https://www.jumptrading.com/hr/job?gh_jid=8418628"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:jumptrading:8418628"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -238983,6 +239287,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:klaviyo:8215593003"
+        },
+        "8215612003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Klaviyo",
+            "id": "8215612003",
+            "location": "Dublin, IE",
+            "posted_at": "2026-11-26T06:30:20-05:00",
+            "source": "greenhouse",
+            "title": "Commercial Account Executive - DACH",
+            "updated_at": "2026-11-26T06:30:20-05:00",
+            "url": "https://www.klaviyo.com/careers/jobs/8215612003?gh_jid=8215612003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:klaviyo:8215612003"
         },
         "8215617003": {
           "alerted": true,
@@ -251939,6 +252262,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:lucidmotors:5309767007"
+        },
+        "5309919007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Lucid Motors",
+            "id": "5309919007",
+            "location": "Newark, CA",
+            "posted_at": "2026-11-25T22:03:54-05:00",
+            "source": "greenhouse",
+            "title": "Staff Controls Engineer, Chassis Electronics Architecture",
+            "updated_at": "2026-11-25T22:03:54-05:00",
+            "url": "https://lucidmotors.com/careers/search/5309919007?gh_jid=5309919007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:lucidmotors:5309919007"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -265600,6 +265942,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:mongodb:8414731"
+        },
+        "8418808": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "MongoDB",
+            "id": "8418808",
+            "location": "Cork, Ireland; Dublin, Ireland",
+            "posted_at": "2026-11-26T04:50:40-05:00",
+            "source": "greenhouse",
+            "title": "Account Executive - Mid Market (Spanish Speaker)",
+            "updated_at": "2026-11-26T05:42:39-05:00",
+            "url": "https://www.mongodb.com/careers/job/?gh_jid=8418808"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:mongodb:8418808"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -270524,6 +270885,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:newrelic:5417516008"
+        },
+        "5417524008": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "New Relic",
+            "id": "5417524008",
+            "location": "Mumbai, India",
+            "posted_at": "2026-09-28T00:22:39-04:00",
+            "source": "greenhouse",
+            "title": "Senior Account Executive - Enterprise Sales",
+            "updated_at": "2026-11-26T03:30:00-05:00",
+            "url": "https://job-boards.greenhouse.io/newrelic/jobs/5417524008"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:newrelic:5417524008"
         },
         "5418501008": {
           "alerted": true,
@@ -284904,6 +285284,44 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:onetrust:8405018"
         },
+        "8405020": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "OneTrust",
+            "id": "8405020",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-25T23:57:36-05:00",
+            "source": "greenhouse",
+            "title": "Staff Software Engineer",
+            "updated_at": "2026-11-25T23:57:36-05:00",
+            "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405020"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:onetrust:8405020"
+        },
+        "8405022": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "OneTrust",
+            "id": "8405022",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-25T23:58:00-05:00",
+            "source": "greenhouse",
+            "title": "Staff Software Engineer",
+            "updated_at": "2026-11-25T23:58:00-05:00",
+            "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405022"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:onetrust:8405022"
+        },
         "8405034": {
           "alerted": true,
           "category": "Low priority",
@@ -284941,6 +285359,44 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:onetrust:8405036"
+        },
+        "8405048": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "OneTrust",
+            "id": "8405048",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-26T05:35:31-05:00",
+            "source": "greenhouse",
+            "title": "Senior Staff Software Engineer",
+            "updated_at": "2026-11-26T05:35:31-05:00",
+            "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405048"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:onetrust:8405048"
+        },
+        "8405054": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "OneTrust",
+            "id": "8405054",
+            "location": "Bengaluru, India",
+            "posted_at": "2026-11-26T05:08:26-05:00",
+            "source": "greenhouse",
+            "title": "Staff Software Engineer",
+            "updated_at": "2026-11-26T05:08:26-05:00",
+            "url": "https://job-boards.greenhouse.io/onetrust/jobs/8405054"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:onetrust:8405054"
         },
         "8405056": {
           "alerted": true,
@@ -290338,6 +290794,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:pinterest:8402791"
+        },
+        "8410813": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Pinterest",
+            "id": "8410813",
+            "location": "Singapore, SG",
+            "posted_at": "2026-11-26T00:10:52-05:00",
+            "source": "greenhouse",
+            "title": "Sr. Client Partner",
+            "updated_at": "2026-11-26T00:10:52-05:00",
+            "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8410813"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:pinterest:8410813"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -311564,6 +312039,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8331424": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Robinhood",
+            "id": "8331424",
+            "location": "Menlo Park, CA; New York, NY",
+            "posted_at": "2026-11-25T22:06:16-05:00",
+            "source": "greenhouse",
+            "title": "Crypto Compliance Lead, DeFi",
+            "updated_at": "2026-11-25T22:07:05-05:00",
+            "url": "https://boards.greenhouse.io/robinhood/jobs/8331424?t=gh_src=&gh_jid=8331424"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:robinhood:8331424"
+        },
         "8331571": {
           "alerted": true,
           "category": "Low priority",
@@ -312134,6 +312628,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:robinhood:8374447"
+        },
+        "8375545": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Robinhood",
+            "id": "8375545",
+            "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+            "posted_at": "2026-11-25T22:18:56-05:00",
+            "source": "greenhouse",
+            "title": "Sourcing Manager",
+            "updated_at": "2026-11-25T22:19:05-05:00",
+            "url": "https://boards.greenhouse.io/robinhood/jobs/8375545?t=gh_src=&gh_jid=8375545"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:robinhood:8375545"
         },
         "8379150": {
           "alerted": true,
@@ -334573,6 +335086,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rubrik:8352451"
         },
+        "8355028": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8355028",
+            "location": "London, United Kingdom",
+            "posted_at": "2026-11-26T04:59:01-05:00",
+            "source": "greenhouse",
+            "title": "Deal Structuring Manager",
+            "updated_at": "2026-11-26T04:59:01-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8355028?gh_jid=8355028"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8355028"
+        },
         "8355036": {
           "alerted": true,
           "category": "Low priority",
@@ -334971,6 +335503,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rubrik:8371479"
+        },
+        "8371562": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8371562",
+            "location": "London, United Kingdom",
+            "posted_at": "2026-11-26T04:59:35-05:00",
+            "source": "greenhouse",
+            "title": "Deal Structuring Manager",
+            "updated_at": "2026-11-26T04:59:35-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8371562?gh_jid=8371562"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8371562"
         },
         "8376959": {
           "alerted": true,
@@ -336150,6 +336701,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rubrik:8403268"
         },
+        "8405566": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8405566",
+            "location": "Bangalore",
+            "posted_at": "2026-11-26T02:06:23-05:00",
+            "source": "greenhouse",
+            "title": "Senior Network Engineer - Global Network",
+            "updated_at": "2026-11-26T02:06:23-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8405566?gh_jid=8405566"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8405566"
+        },
         "8406183": {
           "alerted": true,
           "category": "Low priority",
@@ -336244,6 +336814,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rubrik:8412766"
+        },
+        "8413157": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Rubrik Job Board",
+            "id": "8413157",
+            "location": "Bangalore",
+            "posted_at": "2026-11-26T03:53:02-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer (UI) - Winter Intern",
+            "updated_at": "2026-11-26T03:53:02-05:00",
+            "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rubrik:8413157"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -448498,6 +449087,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8258573": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Twilio",
+            "id": "8258573",
+            "location": "Remote - Ireland",
+            "posted_at": "2026-11-26T04:24:25-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer",
+            "updated_at": "2026-11-26T04:24:25-05:00",
+            "url": "https://job-boards.greenhouse.io/twilio/jobs/8258573"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:twilio:8258573"
+        },
         "8258581": {
           "alerted": true,
           "category": "Low priority",
@@ -449943,6 +450551,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:twilio:8393931"
         },
+        "8393933": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Twilio",
+            "id": "8393933",
+            "location": "Remote - Ireland",
+            "posted_at": "2026-11-26T02:20:26-05:00",
+            "source": "greenhouse",
+            "title": "Staff Data Engineer",
+            "updated_at": "2026-11-26T02:20:26-05:00",
+            "url": "https://job-boards.greenhouse.io/twilio/jobs/8393933"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:twilio:8393933"
+        },
         "8393935": {
           "alerted": true,
           "category": "Low priority",
@@ -450151,6 +450778,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:twilio:8405809"
+        },
+        "8405811": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Twilio",
+            "id": "8405811",
+            "location": "Remote - UK, Spain, Ireland",
+            "posted_at": "2026-11-26T04:53:56-05:00",
+            "source": "greenhouse",
+            "title": "Senior Strategic Account Executive (Central EMEA)",
+            "updated_at": "2026-11-26T04:53:56-05:00",
+            "url": "https://job-boards.greenhouse.io/twilio/jobs/8405811"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:twilio:8405811"
         },
         "8405813": {
           "alerted": true,
@@ -474764,6 +475410,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:zscaler:5307787007"
         },
+        "5308660007": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "Zscaler",
+            "id": "5308660007",
+            "location": "Remote - Netherlands",
+            "posted_at": "2026-11-26T04:51:56-05:00",
+            "source": "greenhouse",
+            "title": "Staff DevOps Engineer, AI Security",
+            "updated_at": "2026-11-26T04:51:56-05:00",
+            "url": "https://job-boards.greenhouse.io/zscaler/jobs/5308660007"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:zscaler:5308660007"
+        },
         "5309055007": {
           "alerted": true,
           "category": "Low priority",
@@ -495817,6 +496482,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "lever:spotify:fb3f185c-961c-4b7b-a568-b42a37d66ead"
+        },
+        "fea3133a-822a-43fa-b3a6-f37ef743f783": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "company": "spotify",
+            "employment_type": "Permanent",
+            "id": "fea3133a-822a-43fa-b3a6-f37ef743f783",
+            "location": "Sydney",
+            "posted_at": "2026-11-26T03:29:40.276000+00:00",
+            "source": "lever",
+            "title": "Social Marketing Manager, Australia & New Zealand",
+            "url": "https://jobs.lever.co/spotify/fea3133a-822a-43fa-b3a6-f37ef743f783"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "lever:spotify:fea3133a-822a-43fa-b3a6-f37ef743f783"
         },
         "ffe7380b-8c91-4201-bf60-25273493a1d8": {
           "alerted": true,
@@ -521321,6 +522005,32 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "usajobs:federal:894258100"
+        },
+        "894396600": {
+          "alerted": true,
+          "category": "Good match",
+          "first_seen": "2026-11-26T11:35:10+00:00",
+          "job": {
+            "closes_at": "2026-12-07T23:59:59.9970",
+            "company": "ARMY TRANSPORTATION",
+            "description": "About the Position: Position(s) will be filled under the Department of the Army Pathways Intern Program. Click here or more information on Pathways program participation. Civilian employees serve a vital role in supporting the Army mission. They provide the skills that are not readily available in the military, but crucial to support military operations. The Army integrates the talents and skills of its military and civilian members to form a Total Army. For this internship, you must be we are seeking a current student majoring in Computer Science, Engineering, Information Science, Information Systems Management, Mathematics, Operations Research, or Statistics. Students who graduate without meeting the requirements may not be converted to the target position and could be separated from federal service. Educational requirements for conversion to the target position are 4-year course of study leading to a bachelor's degree with a major in any field. FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://sites.ed.gov/international/recognition-of-foreign-qualifications/. This is a student internship opportunity. Your transcripts are a required part of your application. Additional information about transcripts is in this document. ['Pathways Internship positions provide for development and training. Assignments become more responsible as incumbent increases knowledge and skills through work experience and academic training. At the full-performance level, you will be expected to:', 'Apply basic computer skills and established procedures to assigned information technology tasks.', 'Perform entry-level analytical and technical work involving integrated systems, computer programs, information technology equipment, and related processes.', 'Participate in discussions concerning technical issues and routine problems.', 'Assist senior personnel with the evaluation of technical requirements, procedures, and operational processes.'] Who May Apply: Students who are eligible for participation in the Department of the Army Internship Program Positions are open to current students pursuing a qualifying degree or certificate in an accredited high school, college (including 4-year colleges/universities, community colleges, and junior colleges); professional, technical, vocational, and trade school; advanced degree programs; or other qualifying educational institution on at least a half-time basis (as defined by the institution in which the student is enrolled). Short-term training programs (e.g., several two-week programs completed) are not considered an academic course of study. Internship for current students in good standing at an accredited education. For this internship, you must be able to work full time during breaks and part time when school is in session. This intern position is designed to prepare a student trainee for employment after graduation. Interns will be assigned tasks designed to increase familiarity with the target occupation in a real world work environment. This opportunity follows a standard promotional path: Internship selection will be made at the GS-2299-4. These grade levels are what typical college students in their college level third year may qualify. Within 120 days after completion of Internship requirements, you may be eligible for conversion to the entry-level for the target occupation. Entry level for these positions are typically at the GS-5 or GS-7 level. The actual grade level at the time of conversion depends on academic achievement and other factors. The full performance level of this position is GS-11. Progression from the entry-level to the full performance level for this occupation will depend on successful completion of all requirements for promotion. Promotions may be considered after a year at each grade level, but are not guaranteed to occur on a specific time schedule. See requirements for conversion to permanent or term position in the \"Additional Information\" section below. To qualify for a Pathways Internship as a GS-04, students must have completed two full academic years of post-high school study or have an associate's degree. For qualification purposes, an academic year is computed as follows: At the undergraduate level, successfully completed education that has not led to possession of a degree is credited based on its relationship to 120 semester hours or 180 quarter hours. For example, 30 semester hours or 45 quarter hours is comparable to 1 year of undergraduate education. Four years of progressive study or 120 semester hours meets the degree requirements. Additional credit cannot be given for duplicate course work. For study at a business or technical school, 36 weeks of study (20+ classroom hours per week) is comparable to 1 academic year above high school. An academic year of graduate education is considered to be the number of credit hours that the school attended has determined to represent 1 academic year of full-time study. This determination is made based on normal course loads for a full year of study in the graduate program. If that information cannot be obtained from the school, 18 semester hours or 27 quarter hours should be considered as satisfying the 1 year of full-time study requirement. Part-time graduate education is creditable in accordance with its relationship to a year of full-time study at the school attended. When academic credit is expressed in contract months, units, or other terms that differ from conventional semester or quarter hours, it is the responsibility of the applicant to provide an interpretation of such credits from the appropriate institution in order to equate them to the semester or quarter hours specified in the standard. NOTE: If your college, vocational, trade, technical or high schools' definition of \"academic year\" differs from above, you must submit proof of this difference (e.g., copy of course catalog that defines an academic year). Absent this documentation, you will screened for academic qualifications based on the academic hours as defined in the bullets above.",
+            "employment_type": "",
+            "hiring_paths": [
+              "student",
+              "public"
+            ],
+            "id": "894396600",
+            "intern_type": true,
+            "location": "Schofield Barracks, Hawaii",
+            "posted_at": "2026-11-25T00:00:00.0000",
+            "source": "usajobs",
+            "title": "Student Trainee (Information Technology)",
+            "url": "https://www.usajobs.gov:443/job/894396600"
+          },
+          "letter_sent": false,
+          "score": 70,
+          "tohuman_future": true,
+          "tohuman_key": "usajobs:federal:894396600"
         }
       },
       "started_at": "2026-11-04T04:38:10+00:00"
