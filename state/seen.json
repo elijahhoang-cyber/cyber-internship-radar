@@ -562622,8 +562622,9 @@
         "input_words": 279,
         "month": "2026-11",
         "notified": false,
+        "reason": "Rewrite did not pass conservative factual verification",
         "reserved_words": 370,
-        "status": "attempted"
+        "status": "rejected"
       },
       "greenhouse:lucidmotors:5290780007": {
         "delivered": "humanized",
