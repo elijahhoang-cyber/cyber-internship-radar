@@ -135304,7 +135304,7 @@
             "updated_at": "2026-11-25T16:43:19-05:00",
             "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869"
           },
-          "letter_sent": false,
+          "letter_sent": true,
           "score": 83,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:coinbase:8415869"
@@ -562619,9 +562619,10 @@
   "tohuman": {
     "jobs": {
       "greenhouse:coinbase:8415869": {
+        "delivered": "original",
         "input_words": 279,
         "month": "2026-11",
-        "notified": false,
+        "notified": true,
         "reason": "Rewrite did not pass conservative factual verification",
         "reserved_words": 370,
         "status": "rejected"
