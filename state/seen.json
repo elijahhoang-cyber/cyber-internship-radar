@@ -65390,6 +65390,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "8283730": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Airbnb",
+            "id": "8283730",
+            "location": "United States",
+            "posted_at": "2026-10-20T09:58:10-04:00",
+            "source": "greenhouse",
+            "title": "Supervisor, Hotels",
+            "updated_at": "2026-11-26T17:24:51-05:00",
+            "url": "https://careers.airbnb.com/positions/8283730?gh_jid=8283730"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:airbnb:8283730"
+        },
         "8284841": {
           "alerted": true,
           "category": "Low priority",
@@ -103402,6 +103421,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8332042": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Braze",
+            "id": "8332042",
+            "location": "São Paulo",
+            "posted_at": "2026-11-26T17:41:30-05:00",
+            "source": "greenhouse",
+            "title": "Enterprise Account Executive, Brazil",
+            "updated_at": "2026-11-26T17:41:42-05:00",
+            "url": "https://job-boards.greenhouse.io/braze/jobs/8332042"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:braze:8332042"
         },
         "8332388": {
           "alerted": true,
@@ -144070,6 +144108,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:coursera:6270090004"
+        },
+        "6270822004": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Coursera",
+            "id": "6270822004",
+            "location": "Dublin, Ireland",
+            "posted_at": "2026-11-26T16:09:49-05:00",
+            "source": "greenhouse",
+            "title": "Content Lead, Creator Ecosystem Experience",
+            "updated_at": "2026-11-26T16:10:11-05:00",
+            "url": "https://job-boards.greenhouse.io/coursera/jobs/6270822004"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:coursera:6270822004"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -147514,6 +147571,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "7606848002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Databricks",
+            "id": "7606848002",
+            "location": "Melbourne, Australia; Sydney, Australia",
+            "posted_at": "2024-08-21T21:14:22-04:00",
+            "source": "greenhouse",
+            "title": "Solutions Architect",
+            "updated_at": "2026-11-26T19:53:38-05:00",
+            "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7606848002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:databricks:7606848002"
         },
         "7619810002": {
           "alerted": true,
@@ -173000,6 +173076,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:datadog:8411119"
         },
+        "8413335": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8413335",
+            "location": "Tokyo, Japan",
+            "posted_at": "2026-11-26T18:15:30-05:00",
+            "source": "greenhouse",
+            "title": "Strategic Account Executive",
+            "updated_at": "2026-11-26T18:15:30-05:00",
+            "url": "https://careers.datadoghq.com/detail/8413335/?gh_jid=8413335"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8413335"
+        },
         "8414413": {
           "alerted": true,
           "category": "Low priority",
@@ -193001,6 +193096,25 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:faire:8959089002"
         },
+        "8959279002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Faire",
+            "id": "8959279002",
+            "location": "Kitchener-Waterloo, ON; Toronto, ON",
+            "posted_at": "2026-11-26T15:57:09-05:00",
+            "source": "greenhouse",
+            "title": "Senior Product Engineer - Brand",
+            "updated_at": "2026-11-26T15:57:09-05:00",
+            "url": "https://boards.greenhouse.io/faire/jobs/8959279002?gh_jid=8959279002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:faire:8959279002"
+        },
         "8963694002": {
           "alerted": true,
           "category": "Low priority",
@@ -212806,6 +212920,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:gitlab:8959549002"
+        },
+        "8961167002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8961167002",
+            "location": "Remote, United States",
+            "posted_at": "2026-11-26T18:18:03-05:00",
+            "source": "greenhouse",
+            "title": "Enterprise Applications Engineer, Zendesk",
+            "updated_at": "2026-11-26T18:18:03-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8961167002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8961167002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -283997,6 +284130,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:okta:8416402"
+        },
+        "8419201": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Okta",
+            "id": "8419201",
+            "location": "Tokyo",
+            "posted_at": "2026-11-26T21:27:51-05:00",
+            "source": "greenhouse",
+            "title": "Customer Success Manager (Tokyo)",
+            "updated_at": "2026-11-26T21:27:51-05:00",
+            "url": "https://www.okta.com/company/careers/opportunity/8419201?gh_jid=8419201"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:okta:8419201"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -318359,6 +318511,25 @@
           },
           "letter_sent": true,
           "score": 0
+        },
+        "8283619": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-27T03:08:20+00:00",
+          "job": {
+            "company": "Roblox",
+            "id": "8283619",
+            "location": "San Mateo, CA, United States",
+            "posted_at": "2026-11-26T17:20:18-05:00",
+            "source": "greenhouse",
+            "title": "Principal Security Software Engineer - Identity Access Management (IAM)",
+            "updated_at": "2026-11-26T17:20:18-05:00",
+            "url": "https://careers.roblox.com/jobs/8283619?gh_jid=8283619"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:roblox:8283619"
         },
         "8283641": {
           "alerted": true,
