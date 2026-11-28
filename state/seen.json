@@ -213490,6 +213490,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:gitlab:8961167002"
+        },
+        "8963786002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T03:15:39+00:00",
+          "job": {
+            "company": "GitLab",
+            "id": "8963786002",
+            "location": "Remote, United Kingdom",
+            "posted_at": "2026-11-27T18:05:12-05:00",
+            "source": "greenhouse",
+            "title": "Data Scientist, Enterprise Analytics",
+            "updated_at": "2026-11-27T18:05:12-05:00",
+            "url": "https://job-boards.greenhouse.io/gitlab/jobs/8963786002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:gitlab:8963786002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -332522,6 +332541,63 @@
           "tohuman_future": true,
           "tohuman_key": "greenhouse:rocketlab:8203624003"
         },
+        "8203626003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T03:15:39+00:00",
+          "job": {
+            "company": "Rocket Lab Corporation",
+            "id": "8203626003",
+            "location": "Long Beach, CA",
+            "posted_at": "2026-11-27T17:09:30-05:00",
+            "source": "greenhouse",
+            "title": "Radar Phase Array Engineer I",
+            "updated_at": "2026-11-27T17:09:30-05:00",
+            "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8203626003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rocketlab:8203626003"
+        },
+        "8203628003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T03:15:39+00:00",
+          "job": {
+            "company": "Rocket Lab Corporation",
+            "id": "8203628003",
+            "location": "Long Beach, CA",
+            "posted_at": "2026-11-27T16:29:41-05:00",
+            "source": "greenhouse",
+            "title": "Senior RF  Radar Design Engineer II",
+            "updated_at": "2026-11-27T16:29:41-05:00",
+            "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8203628003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rocketlab:8203628003"
+        },
+        "8203630003": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T03:15:39+00:00",
+          "job": {
+            "company": "Rocket Lab Corporation",
+            "id": "8203630003",
+            "location": "Long Beach, CA",
+            "posted_at": "2026-11-27T16:47:07-05:00",
+            "source": "greenhouse",
+            "title": "Senior RF Radar  Design Engineer I ",
+            "updated_at": "2026-11-27T16:47:07-05:00",
+            "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8203630003"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:rocketlab:8203630003"
+        },
         "8203634003": {
           "alerted": true,
           "category": "Low priority",
@@ -416233,6 +416309,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:spacex:8963088002"
+        },
+        "8964443002": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T03:15:39+00:00",
+          "job": {
+            "company": "SpaceX",
+            "id": "8964443002",
+            "location": "Woodinville, WA",
+            "posted_at": "2026-11-27T20:25:08-05:00",
+            "source": "greenhouse",
+            "title": "Starlink Aviation Integration Technician - 2nd Shift",
+            "updated_at": "2026-11-27T20:25:08-05:00",
+            "url": "https://boards.greenhouse.io/spacex/jobs/8964443002?gh_jid=8964443002"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:spacex:8964443002"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
@@ -433806,6 +433901,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:stripe:8421434"
+        },
+        "8421452": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T03:15:39+00:00",
+          "job": {
+            "company": "Stripe",
+            "id": "8421452",
+            "location": "South San Francisco, CA ",
+            "posted_at": "2026-11-27T15:56:05-05:00",
+            "source": "greenhouse",
+            "title": "Software Engineer",
+            "updated_at": "2026-11-27T17:00:54-05:00",
+            "url": "https://stripe.com/jobs/search?gh_jid=8421452"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:stripe:8421452"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
