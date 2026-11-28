@@ -34288,6 +34288,25 @@
           "letter_sent": true,
           "score": 0
         },
+        "ec95ed66-4bf5-4821-bc69-96e0b1b54c16": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T11:54:00+00:00",
+          "job": {
+            "company": "elevenlabs",
+            "id": "ec95ed66-4bf5-4821-bc69-96e0b1b54c16",
+            "intern_type": false,
+            "location": "France",
+            "posted_at": "2026-11-28T10:30:12.354+00:00",
+            "source": "ashby",
+            "title": "B2B Marketing - France",
+            "url": "https://jobs.ashbyhq.com/ElevenLabs/ec95ed66-4bf5-4821-bc69-96e0b1b54c16"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "ashby:elevenlabs:ec95ed66-4bf5-4821-bc69-96e0b1b54c16"
+        },
         "ed5d50eb-e41a-48e4-bea0-3686176f0461": {
           "alerted": true,
           "category": "Low priority",
@@ -173759,6 +173778,25 @@
           "score": 0,
           "tohuman_future": true,
           "tohuman_key": "greenhouse:datadog:8418089"
+        },
+        "8421876": {
+          "alerted": true,
+          "category": "Low priority",
+          "first_seen": "2026-11-28T11:54:00+00:00",
+          "job": {
+            "company": "Datadog",
+            "id": "8421876",
+            "location": "Tokyo, Japan",
+            "posted_at": "2026-11-27T23:18:55-05:00",
+            "source": "greenhouse",
+            "title": "Strategic Account Executive",
+            "updated_at": "2026-11-27T23:19:28-05:00",
+            "url": "https://careers.datadoghq.com/detail/8421876/?gh_jid=8421876"
+          },
+          "letter_sent": true,
+          "score": 0,
+          "tohuman_future": true,
+          "tohuman_key": "greenhouse:datadog:8421876"
         }
       },
       "started_at": "2026-11-04T04:15:02+00:00"
